@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:/home/kai/repos/demo-website-remix/app/routes/blog/index.tsx?browser", "../../../../app/routes/blog/index.tsx"],
+  "sourcesContent": ["export { default } from \"/home/kai/repos/demo-website-remix/app/routes/blog/index.tsx\";", "import { Link } from 'remix';\n\nexport default function BlogIndex() {\n  return (\n    <div>\n      <h2>I should probably list out the articles here eh?</h2>\n      Here you go.\n      <ul>\n        <li>\n          <Link to=\"first-post\">First Post</Link>\n        </li>\n      </ul>\n    </div>\n  );\n}\n"],
+  "mappings": ";;;;;;;;;AAAA;;;ACAA;AAEe,qBAAqB;AAClC,SACE,oCAAC,OAAD,MACE,oCAAC,MAAD,MAAI,qDAAqD,gBAEzD,oCAAC,MAAD,MACE,oCAAC,MAAD,MACE,oCAAC,MAAD;AAAA,IAAM,IAAG;AAAA,KAAa;AAAA;",
+  "names": []
+}
