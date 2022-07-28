@@ -135,7 +135,7 @@ function Layout({ children }: { children: React.ReactNode }) {
                 <Link to="blog">Blog</Link>
               </li>
               <li>
-                <a href="https://github.com/kaitakami/">GitHub</a>
+                <a href="https://github.com/kaitakami/" target="_blank" >GitHub</a>
               </li>
             </ul>
           </nav>

@@ -4,10 +4,11 @@ export default function BlogIndex() {
   return (
     <div>
       <h2>Cree este sitio web provisional para poder empezar a subir mis blogs :)</h2>
-      Me puedes dar feedback en <a href="https://twitter.com/kaitakami_/">twitter</a>
+      Me puedes dar feedback en <a href="https://twitter.com/kaitakami_/" target="_blank">twitter</a>
       <ul>
         <li>
-          <Link to="first-post">Crear una startup con 17 años 💻</Link>
+        <Link to="sistema-de-productividad">Mi sistema de productividad</Link>
+          <Link to="crear-una-startup-con-17">Crear una startup con 17 años 💻</Link>
         </li>
       </ul>
     </div>
