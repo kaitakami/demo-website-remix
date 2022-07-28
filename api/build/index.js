@@ -153,7 +153,7 @@ function Layout({ children }) {
     title: "Home"
   }, /* @__PURE__ */ React.createElement("h1", {
     className: "remix-app__header-home-link"
-  }, "Kai Takami")), /* @__PURE__ */ React.createElement("nav", {
+  }, "Kai")), /* @__PURE__ */ React.createElement("nav", {
     "aria-label": "Main navigation",
     className: "remix-app__header-nav"
   }, /* @__PURE__ */ React.createElement("ul", null, /* @__PURE__ */ React.createElement("li", null, /* @__PURE__ */ React.createElement(import_remix2.Link, {
@@ -161,7 +161,8 @@ function Layout({ children }) {
   }, "Inicio")), /* @__PURE__ */ React.createElement("li", null, /* @__PURE__ */ React.createElement(import_remix2.Link, {
     to: "blog"
   }, "Blog")), /* @__PURE__ */ React.createElement("li", null, /* @__PURE__ */ React.createElement("a", {
-    href: "https://github.com/kaitakami/"
+    href: "https://github.com/kaitakami/",
+    target: "_blank"
   }, "GitHub")))))), /* @__PURE__ */ React.createElement("div", {
     className: "remix-app__main"
   }, /* @__PURE__ */ React.createElement("div", {
@@ -419,15 +420,15 @@ var loader2 = () => {
 };
 var meta5 = () => {
   return {
-    title: "Marius Espejo",
-    description: "Marius Espejo's personal site"
+    title: "Kai Takami",
+    description: "Mi sitio web en construcci\xF3n :)"
   };
 };
 function Index2() {
   let data = (0, import_remix9.useLoaderData)();
   return /* @__PURE__ */ React.createElement("div", {
     className: "remix__page"
-  }, /* @__PURE__ */ React.createElement("main", null, /* @__PURE__ */ React.createElement("h2", null, "This site is a work in progress."), /* @__PURE__ */ React.createElement("p", null, "Trying to learn some Remix! \u{1F604}")));
+  }, /* @__PURE__ */ React.createElement("main", null, /* @__PURE__ */ React.createElement("h2", null, "Hola \u{1F30A}"), /* @__PURE__ */ React.createElement("p", null, "Este sitio web est\xE1 en construcci\xF3n")));
 }
 
 // route-module:/home/kai/repos/demo-website-remix/app/routes/blog.tsx
@@ -456,16 +457,16 @@ function Blog() {
 }
 var meta6 = () => {
   return {
-    title: "Blog | Marius Espejo",
-    description: "Blog posts by Marius Espejo"
+    title: "Blog | Kai Takami",
+    description: "Blog posts de Kai Takami"
   };
 };
 
-// mdx:/home/kai/repos/demo-website-remix/app/routes/blog/first-post.mdx
-var first_post_exports = {};
-__export(first_post_exports, {
+// mdx:/home/kai/repos/demo-website-remix/app/routes/blog/crear-una-startup-con-17.mdx
+var crear_una_startup_con_17_exports = {};
+__export(crear_una_startup_con_17_exports, {
   attributes: () => attributes,
-  default: () => first_post_default,
+  default: () => crear_una_startup_con_17_default,
   filename: () => filename,
   headers: () => headers,
   links: () => links4,
@@ -473,11 +474,10 @@ __export(first_post_exports, {
 });
 var import_react2 = __toModule(require("react"));
 var attributes = {
-  "title": "My first about post about... making my first post!",
-  "date": new Date(163944e7),
+  "title": "Numbax - Mi historia creando una startup con 17 a\xF1os",
+  "date": new Date(16570656e5),
   "meta": {
-    "title": "My First Post",
-    "description": "cool!"
+    "title": "Numbax - Mi historia creando una startup con 17 a\xF1os"
   }
 };
 function MDXContent(props = {}) {
@@ -485,234 +485,103 @@ function MDXContent(props = {}) {
     h2: "h2",
     h3: "h3",
     p: "p",
-    a: "a",
-    code: "code",
+    h4: "h4",
     pre: "pre",
-    span: "span",
-    em: "em",
-    ul: "ul",
-    li: "li"
+    code: "code",
+    span: "span"
   }, props.components), { wrapper: MDXLayout } = _components;
-  const _content = /* @__PURE__ */ import_react2.default.createElement(import_react2.default.Fragment, null, /* @__PURE__ */ import_react2.default.createElement(_components.h2, null, "My first about post about... making my first post!"), "\n", attributes.date.toDateString(), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.h3, null, "First of all how did I get this page to render?"), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.p, null, "Remix has ", /* @__PURE__ */ import_react2.default.createElement(_components.a, {
-    href: "https://remix.run/docs/en/v1/guides/mdx"
-  }, "built-in support for MDX"), ", it automatically will treat each ", /* @__PURE__ */ import_react2.default.createElement(_components.code, null, ".mdx"), " file witin ", /* @__PURE__ */ import_react2.default.createElement(_components.code, null, "/routes"), " like a route module. Just like regular components.\nBasically that means an MDX file is automatically a page! There's really not much work to do."), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.h3, null, "Syntax Highlighting"), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.p, null, "The only thing I really needed to setup was some syntax highlighting, e.g. you should notice the following code block should already be pre-styled with my currently selected theme:"), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.pre, null, /* @__PURE__ */ import_react2.default.createElement(_components.code, {
+  const _content = /* @__PURE__ */ import_react2.default.createElement(import_react2.default.Fragment, null, /* @__PURE__ */ import_react2.default.createElement(_components.h2, null, "Numbax - Mi historia creando una startup con 17 a\xF1os"), "\n", attributes.date.toDateString(), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.h3, null, "Introducci\xF3n"), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.p, null, "En este blog compartir\xE9 cosas que ni siquiera los cofundadores de Numbax saben. Un proyecto que comenz\xF3 a inicios de a\xF1o (2021) de la mano de Juan y Francisco. Un proyecto que paso por diversas etapas: desde una comunidad crypto hasta una app disruptiva que cambiar\xEDa la manera en la que se aprende en las instituciones tradicionales. Entre 6 meses despu\xE9s, en junio del 2021 tome una decisi\xF3n que me marcar\xEDa de por vida."), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.h4, null, "\xBFQu\xE9 es Numbax?"), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.pre, null, /* @__PURE__ */ import_react2.default.createElement(_components.code, {
     className: "hljs language-js"
   }, /* @__PURE__ */ import_react2.default.createElement(_components.span, {
     className: "hljs-keyword"
   }, "function"), " ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
     className: "hljs-title hljs-function"
-  }, "helloWorld"), "(", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
+  }, "explainNumbax"), "(", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
     className: "hljs-params"
   }), ") {\n  ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
     className: "hljs-keyword"
   }, "return"), " ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
     className: "hljs-string"
-  }, "'hello!'"), ";\n}\n")), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.p, null, "To achieve this first of all I had to update the base ", /* @__PURE__ */ import_react2.default.createElement(_components.code, null, "remix.config.js"), " to now have the ", /* @__PURE__ */ import_react2.default.createElement(_components.code, null, "mdx"), " property."), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.pre, null, /* @__PURE__ */ import_react2.default.createElement(_components.code, {
+  }, "'Ed-tech enfocada en gamificar la experiencia de aprendizaje en el aula tradicional.'"), ";\n}\n")), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.h3, null, "\xBFC\xF3mo entre a Numbax?"), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.p, null, "Pura coincidencia. Yo estaba regalando invitaciones de clubhouse, las ofrec\xED por un grupo de founders y future founders de startups. Juan me envi\xF3 un mensaje y le di una invitaci\xF3n. Yo vi su foto de perfil, se ve\xEDa un chico joven, no pude aguantar la curiosidad y le pregunt\xE9 cuantos a\xF1os ten\xEDa. Nos empezamos a conocer y organizamos una videollamada. Me presento sus proyectos y yo le presente los m\xEDos. En ese entonces ya hab\xEDan pasado 4 meses de haber dejado mi otro proyecto (18E). Me presento Numbax, sinceramente, yo no entend\xED mucho de lo que trataba, parec\xEDa un proyecto temporal para la pandemia. La videollamada termin\xF3 y no hab\xEDa planes de volver a hablar, a decir verdad pens\xE9 que no \xEDbamos a volver a tener contacto. Pero algo de la presentaci\xF3n de Juan me dejo con una espina en mi subconsciente. Una espina lo suficientemente grande para de vez en cuando pensar en el proyecto. Despu\xE9s de una semana recuerdo estar pregunt\xE1ndome si enviar o no un mensaje a Juan de las ideas que tuve durante esa semana. Por alguna raz\xF3n mi mente decidi\xF3 enviar el mensaje y fue algo que marc\xF3 un antes y un despu\xE9s en mi vida."), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.pre, null, /* @__PURE__ */ import_react2.default.createElement(_components.code, {
     className: "hljs language-js"
   }, /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-variable hljs-language"
-  }, "module"), ".", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-property"
-  }, "exports"), " = {\n  ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-comment"
-  }, "// ... existing config here"), "\n  ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-attr"
-  }, "mdx"), ": ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-keyword"
-  }, "async"), " (filename) => {\n    ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-keyword"
-  }, "const"), " [rehypeHighlight] = ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-keyword"
-  }, "await"), " ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-title hljs-class"
-  }, "Promise"), ".", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-title hljs-function"
-  }, "all"), "([\n      ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-title hljs-function"
-  }, "import"), "(", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-string"
-  }, "'rehype-highlight'"), ").", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-title hljs-function"
-  }, "then"), "(", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-function"
-  }, "(", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-params"
-  }, "mod"), ") =>"), " mod.", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-property"
-  }, "default"), "),\n    ]);\n    ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-keyword"
-  }, "return"), " {\n      ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-attr"
-  }, "rehypePlugins"), ": [rehypeHighlight],\n    };\n  },\n};\n")), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.p, null, "Notice that we are using ", /* @__PURE__ */ import_react2.default.createElement(_components.code, null, "rehype-highlight"), " as a plugin which ultimately will use ", /* @__PURE__ */ import_react2.default.createElement(_components.code, null, "highlight.js"), " behind the scenes to transform our html."), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.p, null, "There are actually other ways to do this, for example you could also use a remark plugin instead or a plugin which uses PrismJS.\nHonestly this MDX ecosystem is still very new to me so I'm not quite sure yet what's the best approach. Will look into that more later!"), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.p, null, "The ", /* @__PURE__ */ import_react2.default.createElement(_components.code, null, "rehype-highlight"), " plugin was the example used in the docs so I just ran with it."), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.p, null, "Anyways, once you have that config change I then started configuring my blog routing."), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.h3, null, "Let's take a moment to talk about the routing"), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.p, null, "As an example I currently (at the time of writing) have the following files:"), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.pre, null, /* @__PURE__ */ import_react2.default.createElement(_components.code, {
-    className: "hljs language-bash"
-  }, "app/routes/blog.tsx --> The layout ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-string"
-  }, '"parent"'), "\napp/routes/blog/index.tsx --> The ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-string"
-  }, '"index route"'), " ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-keyword"
-  }, "for"), " /blog\napp/routes/blog/first-post.mdx --> The post you", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-string"
-  }, "'re reading!\n"))), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.p, null, "The distinction between ", /* @__PURE__ */ import_react2.default.createElement(_components.code, null, "blog.tsx"), " and ", /* @__PURE__ */ import_react2.default.createElement(_components.code, null, "blog/index.tsx"), " here was initially very confusing to me.\nHowever it started to make a little bit more sense when I remeber how the same sort of ideas work with React Route 6."), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.p, null, "For example in React Router that routing might look like this:"), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.pre, null, /* @__PURE__ */ import_react2.default.createElement(_components.code, {
-    className: "hljs language-jsx"
-  }, "<", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-title hljs-class"
-  }, "Routes"), ">\n  ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "xml"
-  }, /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-tag"
-  }, "<", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-name"
-  }, "Route"), " ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-attr"
-  }, "path"), "=", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-string"
-  }, '"/"'), " ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-attr"
-  }, "element"), "=", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-string"
-  }, "{"), "<", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-attr"
-  }, "App"), " />"), "}>\n    ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-tag"
-  }, "<", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-name"
-  }, "Route"), " ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-attr"
-  }, "index"), " ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-attr"
-  }, "element"), "=", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-string"
-  }, "{"), "<", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-attr"
-  }, "Home"), " />"), "} />\n    ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-tag"
-  }, "<", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-name"
-  }, "Route"), " ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-attr"
-  }, "path"), "=", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-string"
-  }, '"blog"'), " ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-attr"
-  }, "element"), "=", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-string"
-  }, "{"), "<", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-attr"
-  }, "Blog"), " />"), "}>\n      ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-tag"
-  }, "<", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-name"
-  }, "Route"), " ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-attr"
-  }, "path"), "=", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-string"
-  }, '"first-post"'), " ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-attr"
-  }, "element"), "=", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-string"
-  }, "{"), "<", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-attr"
-  }, "FirstPost"), " />"), "} />\n      ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-tag"
-  }, "<", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-name"
-  }, "Route"), " ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-attr"
-  }, "index"), " ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-attr"
-  }, "element"), "=", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-string"
-  }, "{"), "<", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-attr"
-  }, "BlogIndex"), " />"), "} />\n    ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-tag"
-  }, "</", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-name"
-  }, "Route"), ">"), "\n  ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-tag"
-  }, "</", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-name"
-  }, "Route"), ">")), "\n</", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-title hljs-class"
-  }, "Routes"), ">\n")), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.p, null, "In the above example the element ", /* @__PURE__ */ import_react2.default.createElement(_components.code, null, "<Blog />"), " basically houses the common layout/logic for all of the children below it. It specifically needs to render an ", /* @__PURE__ */ import_react2.default.createElement(_components.code, null, "<Outlet />"), " to define where the nested routes will render.\nThat's basically the same exact idea here in Remix, except that structure is being defined using the file system. Once I wrapped my head around that it made a litte bit more sense."), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.h3, null, "Now back to syntax highlighting..."), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.p, null, "Now that we have that structure in place, the only thing left to do is setup up our ", /* @__PURE__ */ import_react2.default.createElement(_components.code, null, "highlight.js"), " CSS file to specifically load in ", /* @__PURE__ */ import_react2.default.createElement(_components.em, null, "only"), " for our blog routing. This is because we likely won't need those styles anywhere else but in the blog posts."), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.p, null, "In addition to that Remix seems to optimize what CSS is sent ", /* @__PURE__ */ import_react2.default.createElement(_components.em, null, "per page"), ". Meaning to enable our syntax highlighting we'd have to include the styles in each page. That seems overkill, so instead we're going to load it inside our ", /* @__PURE__ */ import_react2.default.createElement(_components.code, null, "blog.tsx"), " (which again remember wraps the underlying nested children) so that we only define it once across all blog posts."), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.pre, null, /* @__PURE__ */ import_react2.default.createElement(_components.code, {
-    className: "hljs language-ts"
-  }, /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-keyword"
-  }, "import"), " styles ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-keyword"
-  }, "from"), " ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-string"
-  }, "'highlight.js/styles/github-dark-dimmed.css'"), "; ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-comment"
-  }, "// change this to your desired theme"), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-keyword"
-  }, "import"), " ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-keyword"
-  }, "type"), " { ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-title hljs-class"
-  }, "LinksFunction"), ", ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-title hljs-class"
-  }, "LoaderFunction"), " } ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-keyword"
-  }, "from"), " ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-string"
-  }, "'remix'"), ";\n", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-keyword"
-  }, "import"), " { ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-title hljs-class"
-  }, "MetaFunction"), ", ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-title hljs-class"
-  }, "Outlet"), " } ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-keyword"
-  }, "from"), " ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-string"
-  }, '"remix"'), ";\n\n", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-keyword"
-  }, "export"), " ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-keyword"
-  }, "const"), " ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-attr"
-  }, "links"), ": ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-title hljs-class"
-  }, "LinksFunction"), " = ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-function"
-  }, "() =>"), " {\n  ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-keyword"
-  }, "return"), " [\n    {\n      ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-attr"
-  }, "rel"), ": ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-string"
-  }, "'stylesheet'"), ",\n      ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-attr"
-  }, "href"), ": styles,\n    },\n  ];\n}\n\n", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-keyword"
-  }, "export"), " ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-keyword"
-  }, "default"), " ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
     className: "hljs-keyword"
   }, "function"), " ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
     className: "hljs-title hljs-function"
-  }, "Blog"), "(", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
+  }, "findJuan"), "(", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
     className: "hljs-params"
   }), ") {\n  ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
     className: "hljs-keyword"
-  }, "return"), " (\n    ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "xml"
+  }, "return"), " ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
+    className: "hljs-string"
+  }, "'Join a startup'"), ";\n}\n")), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.p, null, "Volvimos a hacer otra videollamada, repentinamente entro Francisco y por primera vez est\xE1bamos los 3 juntos. Jam\xE1s pens\xE9 que esa ser\xEDa la 1ra de muchas reuniones."), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.h3, null, "Una vez dentro de Numbax..."), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.p, null, "Me ofrec\xED a ayudarles y estuve durante una semana haciendo trabajos principalmente de dise\xF1o, cree el logo de Numbax, redis\xE9\xF1anos la landing page, entre otras cosas. Pasaron 2 semanas, y volvimos a tener una reuni\xF3n, entre c\xF3mo cofundador a Numbax. Un momento que no voy a olvidar, recuerdo muy bien una semana antes estar pensando todos los d\xEDas si tendr\xEDa las agallas de decirle a Juan y a Francisco si me aceptaban como cofundador, no tuve las agallas pero por suerte Juan lo propuso y entre como cofundador."), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.p, null, "Despu\xE9s de esa charla mi mente cambi\xF3, Numbax era lo primero y lo \xFAltimo que pensaba todos los d\xEDas. Estaba enamorado del proyecto y hab\xEDa tenido la suerte de estar rodeado de otros 2 cofundadores maravillosos. Entre como CTO de la empresa, fue mucha responsabilidad en un inicio. Muchas aprendizajes, entre tantos entend\xED lo que es trabajar en una startup. \u201CCuando uno trabaja en una startup tiene que dar por hecho dos cosas, 1ro el aprendizaje es el pan de cada d\xEDa, 2do te encargar\xE1n hacer muchas cosas que no sabes hacer\u201D. Uno aprende a lidiar con la incertidumbre y las dudas siguiendo hacia adelante."), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.pre, null, /* @__PURE__ */ import_react2.default.createElement(_components.code, {
+    className: "hljs language-js"
   }, /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-tag"
-  }, "<", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
-    className: "hljs-name"
-  }, "Outlet"), " />")), "\n  );\n}\n\n")), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.p, null, "Now if you're able to see all of the above code blocks with proper highlighting then I must've done it right!"), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.h2, null, "Where to go from here"), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.ul, null, "\n", /* @__PURE__ */ import_react2.default.createElement(_components.li, null, "In general the site's stlyes and look/feel is still pretty plain. I'll need to improve that to something... reasonable.", "\n", /* @__PURE__ */ import_react2.default.createElement(_components.ul, null, "\n", /* @__PURE__ */ import_react2.default.createElement(_components.li, null, "Looking to add tailwind since I've been wanting to learn that anyways"), "\n"), "\n"), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.li, null, "A challenge to figure out: how to display nested attributes from the parent ", /* @__PURE__ */ import_react2.default.createElement(_components.code, null, "blog.tsx"), "? For example what if I wanted to determine the title or date of a specific blog post so that I can render it consistently across all posts?", "\n", /* @__PURE__ */ import_react2.default.createElement(_components.ul, null, "\n", /* @__PURE__ */ import_react2.default.createElement(_components.li, null, "Actually I noticed Kent C. Dodd's blog doesn't utilize Remix's built-in MDX route modules. I have a feeling it's because of maybe one of these concerns"), "\n"), "\n"), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.li, null, "I need to improve the ", /* @__PURE__ */ import_react2.default.createElement(_components.a, {
-    href: "/blog"
-  }, "base blog page"), " to dynamically determine the full list of blog posts", "\n", /* @__PURE__ */ import_react2.default.createElement(_components.ul, null, "\n", /* @__PURE__ */ import_react2.default.createElement(_components.li, null, "I'll probably need to read from the file system then utilize frontmatter to determine titles, dates, etc."), "\n"), "\n"), "\n"), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.p, null, "Anyways that's it for now!"));
+    className: "hljs-keyword"
+  }, "const"), " ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
+    className: "hljs-title hljs-function"
+  }, "joinNumbax"), " = (", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
+    className: "hljs-params"
+  }), ") => {\n  ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
+    className: "hljs-keyword"
+  }, "return"), " ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
+    className: "hljs-string"
+  }, "'CTO??!!'"), "\n}\n")), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.h3, null, "El camino"), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.p, null, "Dentro de Numbax mi mayor enemigo fue WordPress, aprend\xED a usarlo en muy poco tiempo, y llegu\xE9 a borrar los recursos de la p\xE1gina web (por suerte no fue a mayores y logr\xE9 recuperar la informaci\xF3n), instale plug-ins que no tuve que instalar, pase horas intentando descifrar c\xF3mo cambiar el color de un bot\xF3n y mil cosas m\xE1s. Al final de todo fue un buen aprendizaje y logramos construir una landing page moderna y atractiva."), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.p, null, "Empezamos a entrevistar a profesores, contactamos a decenas de profesores y solo nos respondieron 3. Incluso hicimos una campa\xF1a en un grupo con m\xE1s de 10 mil docentes. Fracaso rotundamente. Hab\xEDamos creado un formulario conectado con calendly en nuestra p\xE1gina web que no sirvi\xF3 de mucho. En fin\u2026 por suerte le dimos al clavo y conocimos a un profesor que es un experto en tecnolog\xEDa para profesores. Ese d\xEDa volv\xED a ver la luz al fondo del t\xFAnel."), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.p, null, "El proyecto sigui\xF3 con sus altibajos y mucho karaoke para subir los \xE1nimos \u{1F643}."), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.p, null, "Mi relaci\xF3n con Juan y Francisco mejor\xF3 mucho, una lecci\xF3n que aprend\xED: cuando se trabaja en un proyecto remoto se debe entablar una relaci\xF3n (Entre los cofundadores) de amistad tambi\xE9n. No solo de socios. Al final del proyecto termine con 2 amigos espectaculares que se que van a lograr cosas muy grandes y hacer un impacto positivo a la sociedad."), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.pre, null, /* @__PURE__ */ import_react2.default.createElement(_components.code, {
+    className: "hljs language-js"
+  }, /* @__PURE__ */ import_react2.default.createElement(_components.span, {
+    className: "hljs-keyword"
+  }, "const"), " results = ", /* @__PURE__ */ import_react2.default.createElement(_components.span, {
+    className: "hljs-string"
+  }, "' Two great friends :)'"), "\n}\n")), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.h4, null, "Este blog continuar\xE1..."));
   return MDXLayout ? /* @__PURE__ */ import_react2.default.createElement(MDXLayout, __spreadValues({}, props), _content) : _content;
 }
-var first_post_default = MDXContent;
-var filename = "first-post.mdx";
+var crear_una_startup_con_17_default = MDXContent;
+var filename = "crear-una-startup-con-17.mdx";
 var headers = typeof attributes !== "undefined" && attributes.headers;
 var meta7 = typeof attributes !== "undefined" && attributes.meta;
 var links4 = void 0;
+
+// mdx:/home/kai/repos/demo-website-remix/app/routes/blog/sistema-de-productividad.mdx
+var sistema_de_productividad_exports = {};
+__export(sistema_de_productividad_exports, {
+  attributes: () => attributes2,
+  default: () => sistema_de_productividad_default,
+  filename: () => filename2,
+  headers: () => headers2,
+  links: () => links5,
+  meta: () => meta8
+});
+var import_react3 = __toModule(require("react"));
+var attributes2 = {
+  "title": "Creando un sistema de productividad",
+  "date": new Date(16589664e5),
+  "meta": {
+    "title": "Convertirse en la mejor versi\xF3n de uno mismo"
+  }
+};
+function MDXContent2(props = {}) {
+  const _components = Object.assign({
+    h2: "h2",
+    h3: "h3",
+    p: "p"
+  }, props.components), { wrapper: MDXLayout } = _components;
+  const _content = /* @__PURE__ */ import_react3.default.createElement(import_react3.default.Fragment, null, /* @__PURE__ */ import_react3.default.createElement(_components.h2, null, "Convertirse en la mejor versi\xF3n de uno mismo"), "\n", attributes2.date.toDateString(), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.h3, null, "Introducci\xF3n"), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.p, null, "En este blog compartir\xE9 el proceso de crear un sistema para ser m\xE1s productivo y lograr conseguir mis objetivos al final del d\xEDa. Qu\xE9date si est\xE1s interesado o interesada en aprender las herramientas que utilizar\xE9."), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.h3, null, "\xBFEn qu\xE9 situaci\xF3n estoy?"), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.p, null, "No es la primera vez que creo un sistema para mejorarme, he creado sistemas para ser m\xE1s disciplinado, pero tambi\xE9n para dejar de ser tan estricto. He estado en ambos lados, ahora estoy buscando el equilibrio, cuando fui muy disciplinado ten\xEDa burnouts que me dejaban inactivo durante varios d\xEDas. Cuando decid\xEDa tomarme un descanso, pues... No hac\xEDa nada. Tengo 18 a\xF1os, durante los \xFAltimos a\xF1os me he enfocado en desarrollar h\xE1bitos que me permitan vivir una vida sana y de crecimiento. Este a\xF1o deje de consumir az\xFAcares procesados, tambi\xE9n retome el ejercicio despu\xE9s de dejarlo durante dos a\xF1os, ahora dedico gran parte de mi tiempo a estudiar programaci\xF3n. C\xF3mo puedes leer, tengo tiempo y es por eso que decid\xED empezar a experimentar en crear un sistema adecuado a m\xED."), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.h3, null, "Importante"), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.p, null, "Todos somos diferentes, este es mi sistema y que a m\xED me funcione no significa que a ti te vaya a funcionar, si est\xE1s interesada o interesado en crear tu propio sistema env\xEDame un mensaje por ", /* @__PURE__ */ import_react3.default.createElement("a", {
+    href: "https://twitter.com/kaitakami_/",
+    target: "_blank"
+  }, "twitter"), " y hablemos :)"), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.h2, null, "Lo que me hace falta"), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.p, null, 'Hubo \xE9pocas en las que hac\xEDa agendas y las divid\xEDa minuto por minuto. No funciono. Hubo \xE9pocas en las que simplemente "flu\xEDa". Tampoco funciono. \xDAltimamente, creo listas de tareas y hago las tareas cuando tengo energ\xEDa. Desgraciadamente, de esta manera no consigo acabar todas las tareas al final del d\xEDa. Lo que hace falta es un equilibrio, crear un calendario y dividir mi agenda no por minutos sino por bloques y colores.'), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.h3, null, "\xBFC\xF3mo y con qu\xE9?"), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.p, null, 'He probado decenas de apps y softwares de productividad. Los mejores fueron notion y google calendar (por el momento). Notion te permite tener un to do list, un habit manager, un journal y muchas cosas m\xE1s. Lo mejor es que hay templates gratuitas que las puedes encontrar con una b\xFAsqueda en tu navegador. Google calendar es genial por la compatibilidad que tiene con otros dispositivos. Divid\xED mi agenda en cuatro colores. Rojo para salud. Es decir, ejercicio, lectura, meditaci\xF3n y mi rutina ma\xF1anera de la cual hablar\xE9 dentro de poco. Amarillo para trabajo. Verde para mi tiempo libre, parece ser no necesario, pero es crucial para evitar sentirse saturado. Azul para programaci\xF3n. Programaci\xF3n ocupa 8 horas de mi agenda, es como mi full-time job. Salud o "Health" ocupa 6 horas y media. Work ocupa 1 hora y el restante es free time.'), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.h3, null, "\xBFY los bloques?"), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.p, null, 'Parece que es una agenda t\xEDpica dividida en minutos, y ciertamente s\xED, sin embargo, est\xE1 pensado para dividirse en bloques del m\xE9todo de estudio pomodoro. Divid\xED mis horas de programaci\xF3n en 8 sesiones. Cada hora son 2 pomodoros, 25 minutos trabajando y 5 minutos de descanso. Pasa lo mismo con lo dem\xE1s. Que la agenda diga que una actividad comienza a cierta hora y termina a otra no significa que tengo que ser rigurosamente estricto para cumplir con esto. Lo \xFAnico que significa son l\xEDmites. Por ejemplo, si sal\xED a hacer ejercicio y llevo 30 minutos, pero a\xFAn faltan 15 minutos seg\xFAn la agenda, puedo tomarme de descanso los 15 minutos restantes. El objetivo es hacer las cosas en el tiempo reservado. El tiempo libre tambi\xE9n est\xE1 dividido por bloques. Los llamo "free time blocks" y son 15 minutos por bloque.'), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.h3, null, "Morning Routine"), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.p, null, "Para iniciar el d\xEDa con el pie derecho dedico mis primeros 45 minutos en tomar un vaso de agua (5 min), meditar (10 min), cardio (15 min), caminar (10 min) y escuchar algo que haga mi cerebro trabajar (15 min). De esta manera estoy al 100% con energ\xEDa de iniciar el d\xEDa. Si tengo mucho sue\xF1o en vez de meditar primero hago ejercicio. Me despierto a las 6 de la ma\xF1ana todos los d\xEDas. Intento dormir 8 horas."), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.h3, null, "Estoy viviendo el proceso"), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.p, null, "Este no es el sistema definitivo, es apenas el inicio pero ir\xE9 escribiendo m\xE1s ", /* @__PURE__ */ import_react3.default.createElement("a", {
+    href: "https://kaitakami.com/blog/",
+    target: "_blank"
+  }, "blogs"), " cuando encuentre mejoras a este sistema."), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.h2, null, "Final"), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.p, null, "Gracias por leer hasta ac\xE1, si encuentras mejoras o quisieras ", /* @__PURE__ */ import_react3.default.createElement("a", {
+    href: "https://twitter.com/kaitakami_/",
+    target: "_blank"
+  }, "compartirme algo"), " no lo dudes!"));
+  return MDXLayout ? /* @__PURE__ */ import_react3.default.createElement(MDXLayout, __spreadValues({}, props), _content) : _content;
+}
+var sistema_de_productividad_default = MDXContent2;
+var filename2 = "sistema-de-productividad.mdx";
+var headers2 = typeof attributes2 !== "undefined" && attributes2.headers;
+var meta8 = typeof attributes2 !== "undefined" && attributes2.meta;
+var links5 = void 0;
 
 // route-module:/home/kai/repos/demo-website-remix/app/routes/blog/index.tsx
 var blog_exports2 = {};
@@ -721,9 +590,14 @@ __export(blog_exports2, {
 });
 var import_remix11 = __toModule(require("remix"));
 function BlogIndex() {
-  return /* @__PURE__ */ React.createElement("div", null, /* @__PURE__ */ React.createElement("h2", null, "I should probably list out the articles here eh?"), "Here you go.", /* @__PURE__ */ React.createElement("ul", null, /* @__PURE__ */ React.createElement("li", null, /* @__PURE__ */ React.createElement(import_remix11.Link, {
-    to: "first-post"
-  }, "First Post"))));
+  return /* @__PURE__ */ React.createElement("div", null, /* @__PURE__ */ React.createElement("h2", null, "Cree este sitio web provisional para poder empezar a subir mis blogs :)"), "Me puedes dar feedback en ", /* @__PURE__ */ React.createElement("a", {
+    href: "https://twitter.com/kaitakami_/",
+    target: "_blank"
+  }, "twitter"), /* @__PURE__ */ React.createElement("ul", null, /* @__PURE__ */ React.createElement("li", null, /* @__PURE__ */ React.createElement(import_remix11.Link, {
+    to: "sistema-de-productividad"
+  }, "Mi sistema de productividad"), /* @__PURE__ */ React.createElement(import_remix11.Link, {
+    to: "crear-una-startup-con-17"
+  }, "Crear una startup con 17 a\xF1os \u{1F4BB}"))));
 }
 
 // <stdin>
@@ -818,13 +692,21 @@ var routes = {
     caseSensitive: void 0,
     module: blog_exports
   },
-  "routes/blog/first-post": {
-    id: "routes/blog/first-post",
+  "routes/blog/crear-una-startup-con-17": {
+    id: "routes/blog/crear-una-startup-con-17",
     parentId: "routes/blog",
-    path: "first-post",
+    path: "crear-una-startup-con-17",
     index: void 0,
     caseSensitive: void 0,
-    module: first_post_exports
+    module: crear_una_startup_con_17_exports
+  },
+  "routes/blog/sistema-de-productividad": {
+    id: "routes/blog/sistema-de-productividad",
+    parentId: "routes/blog",
+    path: "sistema-de-productividad",
+    index: void 0,
+    caseSensitive: void 0,
+    module: sistema_de_productividad_exports
   },
   "routes/blog/index": {
     id: "routes/blog/index",
