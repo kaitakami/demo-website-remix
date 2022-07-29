@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:/home/kai/repos/demo-website-remix/app/routes/blog/index.tsx?browser", "../../../../app/routes/blog/index.tsx"],
+  "sourcesContent": ["export { default } from \"/home/kai/repos/demo-website-remix/app/routes/blog/index.tsx\";", "import { Link } from 'remix';\n\nexport default function BlogIndex() {\n  return (\n    <div>\n      <h2>Cree este sitio web provisional para poder empezar a subir mis blogs :)</h2>\n      Me puedes dar feedback en <a href=\"https://twitter.com/kaitakami_/\" target=\"_blank\">twitter</a>\n      <ul>\n      <li>\n          <Link to=\"reto-blog\">Reto: Escribir un blog diario</Link>  \n        </li>\n        <li>\n          <Link to=\"sistema-de-productividad\">Mi sistema de productividad</Link>\n        </li>\n        <li>\n          <Link to=\"crear-una-startup-con-17\">Crear una startup con 17 a\u00F1os \uD83D\uDCBB</Link>\n        </li>\n      </ul>\n    </div>\n  );\n}"],
+  "mappings": ";;;;;;;;;AAAA;;;ACAA;AAEe,qBAAqB;AAClC,SACE,oCAAC,OAAD,MACE,oCAAC,MAAD,MAAI,4EAA4E,8BACtD,oCAAC,KAAD;AAAA,IAAG,MAAK;AAAA,IAAkC,QAAO;AAAA,KAAS,YACpF,oCAAC,MAAD,MACA,oCAAC,MAAD,MACI,oCAAC,MAAD;AAAA,IAAM,IAAG;AAAA,KAAY,mCAEvB,oCAAC,MAAD,MACE,oCAAC,MAAD;AAAA,IAAM,IAAG;AAAA,KAA2B,iCAEtC,oCAAC,MAAD,MACE,oCAAC,MAAD;AAAA,IAAM,IAAG;AAAA,KAA2B;AAAA;",
+  "names": []
+}
