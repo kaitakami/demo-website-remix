@@ -727,6 +727,8 @@ function BlogIndex() {
     href: "https://twitter.com/kaitakami_/",
     target: "_blank"
   }, "twitter"), /* @__PURE__ */ React.createElement("ul", null, /* @__PURE__ */ React.createElement("li", null, /* @__PURE__ */ React.createElement(import_remix11.Link, {
+    to: "7"
+  }, "El infierno de los cursos de programaci\xF3n")), /* @__PURE__ */ React.createElement("li", null, /* @__PURE__ */ React.createElement(import_remix11.Link, {
     to: "6"
   }, "Deje de comer az\xFAcar procesada por un mes")), /* @__PURE__ */ React.createElement("li", null, /* @__PURE__ */ React.createElement(import_remix11.Link, {
     to: "5"
@@ -776,7 +778,7 @@ function MDXContent5(props = {}) {
     h3: "h3",
     p: "p"
   }, props.components), { wrapper: MDXLayout } = _components;
-  const _content = /* @__PURE__ */ import_react6.default.createElement(import_react6.default.Fragment, null, /* @__PURE__ */ import_react6.default.createElement(_components.h2, null, "La realidad de vivir en Jap\xF3n"), "\n", attributes5.date.toDateString(), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.h3, null, "Un vistazo"), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.p, null, "He jugado a videojuegos por m\xE1s de 10,000 horas en 18 a\xF1os. Ser\xEDa como jugar 416 d\xEDas seguidos sin descanso. Fui adicto a los videojuegos, supere la adicci\xF3n y volv\xED a caer. Sin embargo, sigo sin pensar que los videojuegos no son malos, una gran parte de mi personalidad actual es gracias a los videojuegos. En este blog hablaremos de:"), "\n", /* @__PURE__ */ import_react6.default.createElement("ul", null, /* @__PURE__ */ import_react6.default.createElement("li", null, "Los videojuegos son malos"), "\n", /* @__PURE__ */ import_react6.default.createElement("li", null, "Los videojuegos crean modelos mentales"), "\n", /* @__PURE__ */ import_react6.default.createElement("li", null, "El l\xEDmite y la mala influencia"), "\n", /* @__PURE__ */ import_react6.default.createElement("li", null, "Los videojuegos simulan la realidad")), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.h3, null, "Los videojuegos"), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.p, null, "Muchas personas creen que los videojuegos como una perdida de tiempo, otros tienen una opini\xF3n m\xE1s formada de que los videojuegos influyen negativamente en la forma de pensar en las personas. Personalmente, los videojuegos influyen de manera diferente en cada persona, depende de la etapa, el tipo de videojuego, el ambiente, entre otras cosas. No es algo que se puede encasillar como una sola cosa. Lo que si se puede hacer es aprender a como usarlos de manera que nos ayuden a mejorarnos a nosotros mismos. Eso es de lo que quiero hablar hoy, especialmente de como influyen a ni\xF1os y ni\xF1as."), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.h3, null, "Los videojuegos crean modelos mentales"), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.p, null, '\xBFQu\xE9 son los modelos mentales? Un modelo mental, seg\xFAn James Clear es "es una explicaci\xF3n de c\xF3mo funciona algo. La frase "modelo mental" es un t\xE9rmino general para cualquier tipo de concepto, framework o visi\xF3n del mundo que uno lleva en su mente". Okay... \xBFY qu\xE9 tiene esto que ver con videojuegos? Los videojuegos inconscientemente nos estan educando. Si alguna vez jugaste videojuegos cuando eras un estudiante seguro pensaste "Ojal\xE1 me aprendiera las cosas que aprendo en el instituto igual de r\xE1pido que el nombre de [material / objetos del videojuego]". Parece que memorizar cosas cuando nos estamos divirtiendo es sencillo. As\xED como aprendemos las cosas que hay en el videojuego, tambi\xE9n aprendemos a c\xF3mo jugarlo. Si quieres ganar tienes que aprenderte el mapa, las estrategias, combinaciones, etc... Es justo esto a lo que me refiero con "modelos mentales". Mediante la pr\xE1ctica y observaci\xF3n se empieza a comprender como funcionan las "cosas" dentro del videojuego. No te olvides de los modelos mentales porque volver\xE9 a hablar de ellos dentro de poco.'), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.h3, null, "El l\xEDmite y la mala influencia"), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.p, null, 'La curva de aprendizaje de un videojuego es una long tail (cola larga). Simplificando, el 20% del tiempo que juegas aprendes el 80% del juego, el restante 80% del tiempo lo dedicas en aprender y perfeccionar ese 20% del juego. Y es ese restante 20% que marca la diferencia entre si pasas a la siguiente liga o no, y tambi\xE9n marca el l\xEDmite. Pero... \xBFDe qu\xE9 l\xEDmite hablas? Cualquier gamer ha sentido esa sensaci\xF3n de que llego un punto en el juego en donde el crecimiento empieza a ser reducido, en donde m\xE1s que pasarla bien se quiere ser competitivo e intentar entre el ranking. No digo que eso est\xE9 mal, pero esto puede empezar adicciones si no se controla.  Tambi\xE9n, desgraciadamente con las "malas influencias" es muy com\xFAn caer en las adicciones de otros.\nEse l\xEDmite es algo que uno solo puede descubrir por propia cuenta experimentando. Esto, sin embargo, tambi\xE9n nos forma modelos mentales.'), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.h3, null, "Los videojuegos simulan la realidad"), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.p, null, 'No hablo de los videojuegos que tienen como objetivo simular la realidad (metaverso). Hablo de (casi) todo tipo de videojuego. Por ejemplo, Minecraft, eres un ser humano en medio de la nada buscando sobrevivir. Tomas decisiones todo el tiempo: "\xBFGasto mi tiempo cortando \xE1rboles o mejor voy a las minas?", "\xBFConstruyo mi casa en el desierto o en una monta\xF1a?", "\xBFEncanto mi espada o mi arco?", etc. Aprendemos de estas decisiones y la siguiente vez tomamos una mejor decisi\xF3n: "Oh! Me mataron por seguir este camino :( no volver\xE9 a pasar por aqu\xED". Esto puede ser algo habitual para cualquier persona adulta, es obvio, no te tropiezas con la misma piedra dos veces. Sin embargo, para un ni\xF1o o ni\xF1a no lo es. En la nueva generaci\xF3n de j\xF3venes usualmente tuvieron esa experiencia en los videojuegos. Los videojuegos pueden ser negativos si no se controlan, pero tambi\xE9n puede ayudar exponencialmente a aprender y desarrollar mejores formas de pensamiento. Otro ejemplo... Clash of Clans, tienes una aldea y tienes que administrar tu oro, tus gemas, elixir, elixir oscuro, etc. "\xBFUso el dinero en mejorar mi mina de oro o mejor espero a mejorar la torre de magos?", "\xBFAtaco esta aldea o la otra?", etc. Clash of Clans te puede ense\xF1ar a pensar en el retorno a largo plazo. Tambi\xE9n a conocerte a ti mismo (a tus tropas). Y muchas otras cosas que se pueden aprender de los videojuegos. Recientemente, aprend\xED del poker a tener paciencia y calcular posibilidades. Es decisi\xF3n de uno mismo que tanto quiere extrapolar los aprendizajes ocultos que tienen los videojuegos. Pero todos tenemos ese poder.'), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.h3, null, "Final"), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.p, null, "En fin... No quiero alargar mucho el blog, estar\xE9 subiendo m\xE1s blogs relacionados con videojuegos.\nGracias por leer hasta ac\xE1, si encuentras mejoras o quisieras que escribiese sobre un tema espec\xEDfico, ", /* @__PURE__ */ import_react6.default.createElement("a", {
+  const _content = /* @__PURE__ */ import_react6.default.createElement(import_react6.default.Fragment, null, /* @__PURE__ */ import_react6.default.createElement(_components.h2, null, "La realidad de vivir en Jap\xF3n"), "\n", attributes5.date.toDateString(), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.h3, null, "Un vistazo"), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.p, null, "He jugado a videojuegos por m\xE1s de 10,000 horas en 18 a\xF1os. Ser\xEDa como jugar 416 d\xEDas seguidos sin descanso. Fui adicto a los videojuegos, supere la adicci\xF3n y volv\xED a caer. Sin embargo, sigo pensando que los videojuegos no son malos, una gran parte de mi personalidad actual es gracias a los videojuegos. En este blog hablaremos de:"), "\n", /* @__PURE__ */ import_react6.default.createElement("ul", null, /* @__PURE__ */ import_react6.default.createElement("li", null, "Los videojuegos son malos"), "\n", /* @__PURE__ */ import_react6.default.createElement("li", null, "Los videojuegos crean modelos mentales"), "\n", /* @__PURE__ */ import_react6.default.createElement("li", null, "El l\xEDmite y la mala influencia"), "\n", /* @__PURE__ */ import_react6.default.createElement("li", null, "Los videojuegos simulan la realidad")), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.h3, null, "Los videojuegos"), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.p, null, "Muchas personas creen que los videojuegos como una perdida de tiempo, otros tienen una opini\xF3n m\xE1s formada de que los videojuegos influyen negativamente en la forma de pensar en las personas. Personalmente, los videojuegos influyen de manera diferente en cada persona, depende de la etapa, el tipo de videojuego, el ambiente, entre otras cosas. No es algo que se puede encasillar como una sola cosa. Lo que si se puede hacer es aprender a como usarlos de manera que nos ayuden a mejorarnos a nosotros mismos. Eso es de lo que quiero hablar hoy, especialmente de como influyen a ni\xF1os y ni\xF1as."), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.h3, null, "Los videojuegos crean modelos mentales"), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.p, null, '\xBFQu\xE9 son los modelos mentales? Un modelo mental, seg\xFAn James Clear es "es una explicaci\xF3n de c\xF3mo funciona algo. La frase "modelo mental" es un t\xE9rmino general para cualquier tipo de concepto, framework o visi\xF3n del mundo que uno lleva en su mente". Okay... \xBFY qu\xE9 tiene esto que ver con videojuegos? Los videojuegos inconscientemente nos estan educando. Si alguna vez jugaste videojuegos cuando eras un estudiante seguro pensaste "Ojal\xE1 me aprendiera las cosas que aprendo en el instituto igual de r\xE1pido que el nombre de [material / objetos del videojuego]". Parece que memorizar cosas cuando nos estamos divirtiendo es sencillo. As\xED como aprendemos las cosas que hay en el videojuego, tambi\xE9n aprendemos a c\xF3mo jugarlo. Si quieres ganar tienes que aprenderte el mapa, las estrategias, combinaciones, etc... Es justo esto a lo que me refiero con "modelos mentales". Mediante la pr\xE1ctica y observaci\xF3n se empieza a comprender como funcionan las "cosas" dentro del videojuego. No te olvides de los modelos mentales porque volver\xE9 a hablar de ellos dentro de poco.'), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.h3, null, "El l\xEDmite y la mala influencia"), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.p, null, 'La curva de aprendizaje de un videojuego es una long tail (cola larga). Simplificando, el 20% del tiempo que juegas aprendes el 80% del juego, el restante 80% del tiempo lo dedicas en aprender y perfeccionar ese 20% del juego. Y es ese restante 20% que marca la diferencia entre si pasas a la siguiente liga o no, y tambi\xE9n marca el l\xEDmite. Pero... \xBFDe qu\xE9 l\xEDmite hablas? Cualquier gamer ha sentido esa sensaci\xF3n de que llego un punto en el juego en donde el crecimiento empieza a ser reducido, en donde m\xE1s que pasarla bien se quiere ser competitivo e intentar entre el ranking. No digo que eso est\xE9 mal, pero esto puede empezar adicciones si no se controla.  Tambi\xE9n, desgraciadamente con las "malas influencias" es muy com\xFAn caer en las adicciones de otros.\nEse l\xEDmite es algo que uno solo puede descubrir por propia cuenta experimentando. Esto, sin embargo, tambi\xE9n nos forma modelos mentales.'), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.h3, null, "Los videojuegos simulan la realidad"), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.p, null, 'No hablo de los videojuegos que tienen como objetivo simular la realidad (metaverso). Hablo de (casi) todo tipo de videojuego. Por ejemplo, Minecraft, eres un ser humano en medio de la nada buscando sobrevivir. Tomas decisiones todo el tiempo: "\xBFGasto mi tiempo cortando \xE1rboles o mejor voy a las minas?", "\xBFConstruyo mi casa en el desierto o en una monta\xF1a?", "\xBFEncanto mi espada o mi arco?", etc. Aprendemos de estas decisiones y la siguiente vez tomamos una mejor decisi\xF3n: "Oh! Me mataron por seguir este camino :( no volver\xE9 a pasar por aqu\xED". Esto puede ser algo habitual para cualquier persona adulta, es obvio, no te tropiezas con la misma piedra dos veces. Sin embargo, para un ni\xF1o o ni\xF1a no lo es. En la nueva generaci\xF3n de j\xF3venes usualmente tuvieron esa experiencia en los videojuegos. Los videojuegos pueden ser negativos si no se controlan, pero tambi\xE9n puede ayudar exponencialmente a aprender y desarrollar mejores formas de pensamiento. Otro ejemplo... Clash of Clans, tienes una aldea y tienes que administrar tu oro, tus gemas, elixir, elixir oscuro, etc. "\xBFUso el dinero en mejorar mi mina de oro o mejor espero a mejorar la torre de magos?", "\xBFAtaco esta aldea o la otra?", etc. Clash of Clans te puede ense\xF1ar a pensar en el retorno a largo plazo. Tambi\xE9n a conocerte a ti mismo (a tus tropas). Y muchas otras cosas que se pueden aprender de los videojuegos. Recientemente, aprend\xED del poker a tener paciencia y calcular posibilidades. Es decisi\xF3n de uno mismo que tanto quiere extrapolar los aprendizajes ocultos que tienen los videojuegos. Pero todos tenemos ese poder.'), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.h3, null, "Final"), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.p, null, "En fin... No quiero alargar mucho el blog, estar\xE9 subiendo m\xE1s blogs relacionados con videojuegos.\nGracias por leer hasta ac\xE1, si encuentras mejoras o quisieras que escribiese sobre un tema espec\xEDfico, ", /* @__PURE__ */ import_react6.default.createElement("a", {
     href: "https://twitter.com/kaitakami_/",
     target: "_blank"
   }, "comp\xE1rtemelo por twitter"), " :)"));
@@ -801,7 +803,7 @@ __export(__exports2, {
 var import_react7 = __toModule(require("react"));
 var attributes6 = {
   "title": "Deje de comer az\xFAcar procesada por un mes",
-  "date": new Date(16592256e5),
+  "date": new Date(1659312e6),
   "meta": {
     "title": "Deje de comer az\xFAcar procesada por un mes"
   }
@@ -813,17 +815,38 @@ function MDXContent6(props = {}) {
     p: "p"
   }, props.components), { wrapper: MDXLayout } = _components;
   const _content = /* @__PURE__ */ import_react7.default.createElement(import_react7.default.Fragment, null, /* @__PURE__ */ import_react7.default.createElement(_components.h2, null, "Dejar de comer az\xFAcar fue de lo mejor de este a\xF1o"), "\n", attributes6.date.toDateString(), "\n", /* @__PURE__ */ import_react7.default.createElement(_components.h3, null, "Un vistazo"), "\n", /* @__PURE__ */ import_react7.default.createElement(_components.p, null, "\xBFPor qu\xE9 una persona dejar\xEDa de comer az\xFAcar? Un peque\xF1o dulce no hace da\xF1o..."), "\n", /* @__PURE__ */ import_react7.default.createElement("img", {
-    src: "https://media.giphy.com/media/xT0GqmMxHiIRcE2LgQ/giphy.gif"
+    style: {
+      display: "block",
+      marginLeft: "auto",
+      marginRight: "auto",
+      width: "35%"
+    },
+    src: "https://media.giphy.com/media/xT0GqmMxHiIRcE2LgQ/giphy.gif",
+    alt: "Gif"
   }), "\n", /* @__PURE__ */ import_react7.default.createElement(_components.p, null, 'Realmente no, puede que comer az\xFAcar de vez en cuando no haga da\xF1o, pero el objetivo fue hacer una "desintoxicaci\xF3n" de todo lo dulce que he comido estos \xFAltimos a\xF1os (que no ha sido poco). \xBFVali\xF3 la pena? S\xED. \xBFLo seguir\xE9 haciendo? Pues...'), "\n", /* @__PURE__ */ import_react7.default.createElement(_components.p, null, "En este blog te compartir\xE9:"), "\n", /* @__PURE__ */ import_react7.default.createElement("ul", null, /* @__PURE__ */ import_react7.default.createElement("li", null, "\xBFDesintoxicaci\xF3n?"), "\n", /* @__PURE__ */ import_react7.default.createElement("li", null, "\xBFC\xF3mo lo hice?"), "\n", /* @__PURE__ */ import_react7.default.createElement("li", null, "Mi salud mejor\xF3 dr\xE1sticamente"), "\n", /* @__PURE__ */ import_react7.default.createElement("li", null, "Seguir con este h\xE1bito... \xBFS\xED o no?")), "\n", /* @__PURE__ */ import_react7.default.createElement(_components.h3, null, "\xBFDesintoxicaci\xF3n?"), "\n", /* @__PURE__ */ import_react7.default.createElement(_components.p, null, 'Antes de comenzar, \xBFQu\xE9 significa hacer una desintoxicaci\xF3n? Tal vez alguna vez has escuchado el t\xE9rmino "Detox de dopamina", en pocas palabras, esto significa hacer un balance de los niveles de dopamina que hay en nuestro cuerpo. Con desintoxicaci\xF3n de az\xFAcar me refiero a que mi cuerpo pueda limpiar todo aquello que el constante consumo de az\xFAcar procesada dejo en mi cuerpo.'), "\n", /* @__PURE__ */ import_react7.default.createElement(_components.h3, null, "\xBFC\xF3mo lo hice?"), "\n", /* @__PURE__ */ import_react7.default.createElement(_components.p, null, "No. No es f\xE1cil, pero vale la pena. Yo era un gran consumidor de todo tipo de az\xFAcar. Comenzando con el hecho de que hoy en d\xEDa el az\xFAcar procesada se encuentra en casi todos los alimentos: cereal, aderezo, pan, yogur, salsas, bebidas que compras en el ", /* @__PURE__ */ import_react7.default.createElement("a", {
     href: "https://www.thefreedictionary.com/Konbini",
     target: "_blank"
   }, "konbini"), ", etc. Por primera vez en mi vida, antes de consumir un alimento revisaba la informaci\xF3n nutricional. Al inicio fue un dolor de cabeza descubrir que tantos productos tienen az\xFAcar. Constantemente ten\xEDa hambre y no ten\xEDa nada que comer como snack. Despu\xE9s de la primera semana empece a ver cambios, no fue hasta la 3ra / 4ta semana que empece a dejar de querer alimentos con az\xFAcar procesada."), "\n", /* @__PURE__ */ import_react7.default.createElement("img", {
-    src: "https://media.giphy.com/media/j2MQaogcHXDAT1Sj5Y/giphy.gif"
+    style: {
+      display: "block",
+      marginLeft: "auto",
+      marginRight: "auto",
+      width: "35%"
+    },
+    src: "https://media.giphy.com/media/j2MQaogcHXDAT1Sj5Y/giphy.gif",
+    alt: "Gif"
   }), "\n", /* @__PURE__ */ import_react7.default.createElement(_components.p, null, "Despu\xE9s de m\xE1s de un mes, al volver a comer az\xFAcar procesada me supo horrible. De las mejores sensaciones que he tenido hasta el momento, en ese momento me di cuenta de que hab\xEDa logrado superar este h\xE1bito tan da\xF1ino de buscar no solo az\xFAcar pero cualquier alimento con el cual saciar el hambre a medio d\xEDa."), "\n", /* @__PURE__ */ import_react7.default.createElement(_components.h3, null, "Mi salud mejor\xF3 dr\xE1sticamente"), "\n", /* @__PURE__ */ import_react7.default.createElement(_components.p, null, "Deje de sentirme desganado a medio d\xEDa, mi nivel de energ\xEDa aumento, tambi\xE9n mi fuerza de voluntad. Mi piel cambi\xF3 a mejor. Puede parecer una exageraci\xF3n, pero en pocas semanas se pueden ver cambios, y sin duda alguna se lo recomiendo a cualquier persona."), "\n", /* @__PURE__ */ import_react7.default.createElement(_components.h3, null, "Seguir con este h\xE1bito... \xBFS\xED o no?"), "\n", /* @__PURE__ */ import_react7.default.createElement(_components.p, null, "S\xED, obvio que s\xED! No veo raz\xF3n para volver al mismo punto de antes. Es m\xE1s, me es dif\xEDcil imaginarme consumiendo la cantidad de az\xFAcar que consum\xEDa hace 2 meses. Sin embargo... De vez en cuando darse un lujo no viene mal, especialmente en ocasiones especiales (no com\xED pastel en mi cumplea\xF1os)."), "\n", /* @__PURE__ */ import_react7.default.createElement(_components.h3, null, "Final"), "\n", /* @__PURE__ */ import_react7.default.createElement(_components.p, null, "Gracias por leer hasta ac\xE1, en esta ocasi\xF3n decid\xED usar gifs para hacer m\xE1s divertido el blog, \xBFTe gusta o solo te distrae? Si encuentras mejoras o quisieras que escribiese sobre un tema espec\xEDfico, ", /* @__PURE__ */ import_react7.default.createElement("a", {
     href: "https://twitter.com/kaitakami_/",
     target: "_blank"
   }, "comp\xE1rtemelo por twitter"), " :)"), "\n", /* @__PURE__ */ import_react7.default.createElement("img", {
-    src: "https://media.giphy.com/media/j2ersR5s9rDnUpMDBI/giphy.gif"
+    style: {
+      display: "block",
+      marginLeft: "auto",
+      marginRight: "auto",
+      width: "35%"
+    },
+    src: "https://media.giphy.com/media/j2ersR5s9rDnUpMDBI/giphy.gif",
+    alt: "Gif"
   }), "\n", /* @__PURE__ */ import_react7.default.createElement("iframe", {
     src: "https://embeds.beehiiv.com/eb2aa2c1-0717-4026-8fd6-766b64c8a5d1",
     "data-test-id": "beehiiv-embed",
@@ -845,6 +868,116 @@ var filename6 = "6.mdx";
 var headers6 = typeof attributes6 !== "undefined" && attributes6.headers;
 var meta12 = typeof attributes6 !== "undefined" && attributes6.meta;
 var links9 = void 0;
+
+// mdx:/home/kai/repos/demo-website-remix/app/routes/blog/7.mdx
+var __exports3 = {};
+__export(__exports3, {
+  attributes: () => attributes7,
+  default: () => __default3,
+  filename: () => filename7,
+  headers: () => headers7,
+  links: () => links10,
+  meta: () => meta13
+});
+var import_react8 = __toModule(require("react"));
+var attributes7 = {
+  "title": "El infierno de los cursos",
+  "date": new Date(16593984e5),
+  "meta": {
+    "title": "El infierno de los cursos"
+  }
+};
+function MDXContent7(props = {}) {
+  const _components = Object.assign({
+    h2: "h2",
+    h3: "h3",
+    p: "p",
+    h4: "h4"
+  }, props.components), { wrapper: MDXLayout } = _components;
+  const _content = /* @__PURE__ */ import_react8.default.createElement(import_react8.default.Fragment, null, /* @__PURE__ */ import_react8.default.createElement(_components.h2, null, "Basta ya de tantos bootcamps y cursos de programaci\xF3n"), "\n", attributes7.date.toDateString(), "\n", /* @__PURE__ */ import_react8.default.createElement(_components.h3, null, "Un vistazo"), "\n", /* @__PURE__ */ import_react8.default.createElement(_components.p, null, 'Hoy estaba viendo a un youtuber promocionando su "bootcamp" que te llevar\xE1 de 0 a conseguir un empleo full-stack. Honestamente, cualquier persona que te venda algo parecido te est\xE1 mintiendo, vendi\xE9ndote los posibles resultados, no el proceso.'), "\n", /* @__PURE__ */ import_react8.default.createElement("img", {
+    style: {
+      display: "block",
+      marginLeft: "auto",
+      marginRight: "auto",
+      width: "35%"
+    },
+    src: "https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif",
+    alt: "Gif"
+  }), "\n", /* @__PURE__ */ import_react8.default.createElement(_components.p, null, "En este blog te compartir\xE9:"), "\n", /* @__PURE__ */ import_react8.default.createElement("ul", null, /* @__PURE__ */ import_react8.default.createElement("li", null, "Tutorial Hell"), "\n", /* @__PURE__ */ import_react8.default.createElement("li", null, "500 d\xF3lares no son suficientes"), "\n", /* @__PURE__ */ import_react8.default.createElement("li", null, "La realidad de programar"), "\n", /* @__PURE__ */ import_react8.default.createElement("li", null, "Mi aporte...")), "\n", /* @__PURE__ */ import_react8.default.createElement(_components.h3, null, "Tutorial Hell"), "\n", /* @__PURE__ */ import_react8.default.createElement(_components.p, null, "Si llevas un tiempo programando sabes de qu\xE9 estoy hablando. Comienzas un curso y consigues hacer algo complicado viendo el curso. Cuando te toca hacerlo por propia cuenta no sabes ni por donde comenzar. El tutorial hell o infierno de los tutoriales es la situaci\xF3n en donde pasamos de tutorial a tutorial sin poner en pr\xE1ctica lo aprendido.", /* @__PURE__ */ import_react8.default.createElement("br", null), ' He hecho cursos en diferentes plataformas, no voy a decir nombres para evitar problemas,  pero me refiero a las que ya todos conocen. La gran mayor\xEDa de cursos suelen tender a crear este "tutorial hell". Y no... un examen no lo soluciona. La \xFAnica manera de conseguir pasar el tutorial hell es:'), "\n", /* @__PURE__ */ import_react8.default.createElement("ul", null, /* @__PURE__ */ import_react8.default.createElement("li", null, "No entrar al tutorial hell, o..."), "\n", /* @__PURE__ */ import_react8.default.createElement("li", null, "Pasar a la pr\xE1ctica y pensar e investigar hasta llegar a la soluci\xF3n")), "\n", /* @__PURE__ */ import_react8.default.createElement(_components.p, null, 'Programar es una experiencia maravillosa. Literalmente tienes el poder en tus manos de crear lo que se te imagine. Programar es resolver problemas. Requiere de un pensamiento profundo e investigaci\xF3n. Hacer un bootcamp o curso solo te da la "teor\xEDa". Lo que realmente te hace programador es la "pr\xE1ctica" y el poder llevar tus ideas al c\xF3digo.'), "\n", /* @__PURE__ */ import_react8.default.createElement(_components.h3, null, "500 d\xF3lares no son suficientes"), "\n", /* @__PURE__ */ import_react8.default.createElement("img", {
+    style: {
+      display: "block",
+      marginLeft: "auto",
+      marginRight: "auto",
+      width: "35%"
+    },
+    src: "https://media.giphy.com/media/l0G18VKQy7UOU3eJW/giphy.gif",
+    alt: "Gif"
+  }), "\n", /* @__PURE__ */ import_react8.default.createElement(_components.p, null, "No necesitas ni un d\xF3lar para aprender a programar. El verdadero dilema del programador/a autodidacta es cu\xE1l ruta seguir. Hay contenido en exceso, pero el tiempo es escaso. Hablar\xE9 sobre esto m\xE1s adelante. Pero como ya mencione, solo necesitas un computador y conexi\xF3n a internet para aprender a programar.", /* @__PURE__ */ import_react8.default.createElement("br", null), "\nNo estoy diciendo que pagar dinero no tiene sentido, cada quien hace lo que quiera con su dinero, a lo que me refiero es que no necesariamente necesitas comprar cursos para aprender a programar. Hay comunidades de calidad gratuitas en discord. Hay tutoriales y cursos organizados hechos por personas con experiencia gratis. Si quieres empezar a hacer proyectos tambi\xE9n hay mucho contenido en internet.", /* @__PURE__ */ import_react8.default.createElement("br", null), "\nLo que todo programador necesita es tiempo, y no solo tiempo para aprender, tambi\xE9n tiempo para fallar. Y personalmente pienso que la gran mayor\xEDa de los cursos no nos dan esta oportunidad. Si una persona no tiene el profesor indicado, puede que deje de programar despu\xE9s de su primer fracaso. Ese es el gran riesgo. Una de las plataformas que recomiendo es ", /* @__PURE__ */ import_react8.default.createElement("a", {
+    href: "https://scrimba.com/",
+    target: "_blank"
+  }, "Scrimba"), ", ah\xED te ense\xF1an de una manera divertida y te ponen a practicar bastante seguido."), "\n", /* @__PURE__ */ import_react8.default.createElement(_components.h3, null, "La realidad de programar"), "\n", /* @__PURE__ */ import_react8.default.createElement(_components.p, null, "Programar no es f\xE1cil, es retador. Cada d\xEDa un nuevo reto, un problema que solucionar. Para algunos (incluy\xE9ndome), esa es la magia de programar, otros ven a la programaci\xF3n diferente. Siento que eso es algo que cada programador tiene que buscar. Una vez que lo encuentras, se convierte en tu motivaci\xF3n. Lo mejor es que nunca es lo mismo, pero todo est\xE1 conectado. Aunque al final del d\xEDa siempre termino as\xED:"), "\n", /* @__PURE__ */ import_react8.default.createElement("img", {
+    style: {
+      display: "block",
+      marginLeft: "auto",
+      marginRight: "auto",
+      width: "35%"
+    },
+    src: "https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif",
+    alt: "Disfrutando"
+  }), "\n", /* @__PURE__ */ import_react8.default.createElement(_components.h3, null, "Mi propuesta..."), "\n", /* @__PURE__ */ import_react8.default.createElement(_components.p, null, "Para m\xED, empezar a programar con 15 a\xF1os me fue dif\xEDcil. Habiendo tantos recursos no sab\xEDa por donde comenzar, de hecho cuando ten\xEDa 14 a\xF1os escrib\xED mi primera l\xEDnea de c\xF3digo en ", /* @__PURE__ */ import_react8.default.createElement("a", {
+    href: "https://en.wikipedia.org/wiki/C_(programming_language)",
+    target: "_blank"
+  }, "C"), '. Hice muchos cursos de HTML y CSS, tambi\xE9n de JavaScript. Los tres pilares para comenzar en el desarrollo web. Mi propuesta es: Crear un "roadmap" (ruta de aprendizaje) completamente gratuito para personas que quieren comenzar en la programaci\xF3n. Si quieres que esto suceda solo es necesario que una persona me lo pida por ', /* @__PURE__ */ import_react8.default.createElement("a", {
+    href: "https://twitter.com/kaitakami_/",
+    target: "_blank"
+  }, "twitter"), "."), "\n", /* @__PURE__ */ import_react8.default.createElement(_components.h2, null, "Final"), "\n", /* @__PURE__ */ import_react8.default.createElement(_components.p, null, "Gracias por leer hasta ac\xE1, si encuentras mejoras o quisieras ", /* @__PURE__ */ import_react8.default.createElement("a", {
+    href: "https://twitter.com/kaitakami_/",
+    target: "_blank"
+  }, "compartirme algo"), " no lo dudes! Qu\xE9 te parecieron los gifs?"), "\n", /* @__PURE__ */ import_react8.default.createElement(import_react8.default.Fragment, null, /* @__PURE__ */ import_react8.default.createElement("iframe", {
+    className: "qp_iframe",
+    src: "https://poll-maker.com/frame4418559x483544bB-139",
+    seamless: "seamless",
+    frameBorder: "no",
+    style: {
+      border: 0,
+      background: "transparent",
+      width: "100%",
+      height: 480
+    }
+  }), /* @__PURE__ */ import_react8.default.createElement("div", {
+    id: "qp_foot4418559",
+    style: {
+      width: "100%",
+      padding: 5,
+      textAlign: "center"
+    }
+  }, /* @__PURE__ */ import_react8.default.createElement("a", {
+    href: "https://poll-maker.com/poll4418559x483544bB-139"
+  })), /* @__PURE__ */ import_react8.default.createElement("style", {
+    dangerouslySetInnerHTML: {
+      __html: ""
+    }
+  })), "\n", /* @__PURE__ */ import_react8.default.createElement(_components.h2, null, "Suscr\xEDbete al newsletter!"), "\n", /* @__PURE__ */ import_react8.default.createElement(_components.h4, null, "Hay sorpresa para las primeras 10 personas :)"), "\n", /* @__PURE__ */ import_react8.default.createElement("iframe", {
+    src: "https://embeds.beehiiv.com/eb2aa2c1-0717-4026-8fd6-766b64c8a5d1",
+    "data-test-id": "beehiiv-embed",
+    width: "100%",
+    height: 320,
+    frameBorder: 0,
+    scrolling: "no",
+    style: {
+      borderRadius: 4,
+      border: "2px solid #e5e7eb",
+      margin: 0,
+      backgroundColor: "transparent"
+    }
+  }));
+  return MDXLayout ? /* @__PURE__ */ import_react8.default.createElement(MDXLayout, __spreadValues({}, props), _content) : _content;
+}
+var __default3 = MDXContent7;
+var filename7 = "7.mdx";
+var headers7 = typeof attributes7 !== "undefined" && attributes7.headers;
+var meta13 = typeof attributes7 !== "undefined" && attributes7.meta;
+var links10 = void 0;
 
 // <stdin>
 var import_assets = __toModule(require("./assets.json"));
@@ -993,6 +1126,14 @@ var routes = {
     index: void 0,
     caseSensitive: void 0,
     module: __exports2
+  },
+  "routes/blog/7": {
+    id: "routes/blog/7",
+    parentId: "routes/blog",
+    path: "7",
+    index: void 0,
+    caseSensitive: void 0,
+    module: __exports3
   }
 };
 // Annotate the CommonJS export names for ESM import in node:

@@ -1,5 +1,5 @@
 {
-  "version": "34bb78d8",
+  "version": "2698a0a6",
   "entry": {
     "module": "/build/entry.client-PQ5D2RPP.js",
     "imports": [
@@ -31,7 +31,7 @@
       "id": "routes/blog/5",
       "parentId": "routes/blog",
       "path": "5",
-      "module": "/build/routes/blog/5-33RRYMRP.js",
+      "module": "/build/routes/blog/5-F5IDI3DL.js",
       "hasAction": false,
       "hasLoader": false,
       "hasCatchBoundary": false,
@@ -41,7 +41,17 @@
       "id": "routes/blog/6",
       "parentId": "routes/blog",
       "path": "6",
-      "module": "/build/routes/blog/6-NZH3FGRD.js",
+      "module": "/build/routes/blog/6-WBPXXQIZ.js",
+      "hasAction": false,
+      "hasLoader": false,
+      "hasCatchBoundary": false,
+      "hasErrorBoundary": false
+    },
+    "routes/blog/7": {
+      "id": "routes/blog/7",
+      "parentId": "routes/blog",
+      "path": "7",
+      "module": "/build/routes/blog/7-74UQ7O4R.js",
       "hasAction": false,
       "hasLoader": false,
       "hasCatchBoundary": false,
@@ -61,7 +71,7 @@
       "id": "routes/blog/index",
       "parentId": "routes/blog",
       "index": true,
-      "module": "/build/routes/blog/index-BETEVMBS.js",
+      "module": "/build/routes/blog/index-K5KKI5JM.js",
       "hasAction": false,
       "hasLoader": false,
       "hasCatchBoundary": false,
@@ -188,5 +198,5 @@
       "hasErrorBoundary": false
     }
   },
-  "url": "/build/manifest-34BB78D8.js"
+  "url": "/build/manifest-2698A0A6.js"
 }
