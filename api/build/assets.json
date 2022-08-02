@@ -1,5 +1,5 @@
 {
-  "version": "eae6811d",
+  "version": "34bb78d8",
   "entry": {
     "module": "/build/entry.client-PQ5D2RPP.js",
     "imports": [
@@ -27,11 +27,31 @@
       "hasCatchBoundary": false,
       "hasErrorBoundary": false
     },
+    "routes/blog/5": {
+      "id": "routes/blog/5",
+      "parentId": "routes/blog",
+      "path": "5",
+      "module": "/build/routes/blog/5-33RRYMRP.js",
+      "hasAction": false,
+      "hasLoader": false,
+      "hasCatchBoundary": false,
+      "hasErrorBoundary": false
+    },
+    "routes/blog/6": {
+      "id": "routes/blog/6",
+      "parentId": "routes/blog",
+      "path": "6",
+      "module": "/build/routes/blog/6-NZH3FGRD.js",
+      "hasAction": false,
+      "hasLoader": false,
+      "hasCatchBoundary": false,
+      "hasErrorBoundary": false
+    },
     "routes/blog/crear-una-startup-con-17": {
       "id": "routes/blog/crear-una-startup-con-17",
       "parentId": "routes/blog",
       "path": "crear-una-startup-con-17",
-      "module": "/build/routes/blog/crear-una-startup-con-17-7WY6F6LN.js",
+      "module": "/build/routes/blog/crear-una-startup-con-17-KYXGOQVG.js",
       "hasAction": false,
       "hasLoader": false,
       "hasCatchBoundary": false,
@@ -41,7 +61,7 @@
       "id": "routes/blog/index",
       "parentId": "routes/blog",
       "index": true,
-      "module": "/build/routes/blog/index-UOSOV2RV.js",
+      "module": "/build/routes/blog/index-BETEVMBS.js",
       "hasAction": false,
       "hasLoader": false,
       "hasCatchBoundary": false,
@@ -51,7 +71,7 @@
       "id": "routes/blog/reto-blog",
       "parentId": "routes/blog",
       "path": "reto-blog",
-      "module": "/build/routes/blog/reto-blog-Z3OUEE7D.js",
+      "module": "/build/routes/blog/reto-blog-77IBA4GF.js",
       "hasAction": false,
       "hasLoader": false,
       "hasCatchBoundary": false,
@@ -61,7 +81,17 @@
       "id": "routes/blog/sistema-de-productividad",
       "parentId": "routes/blog",
       "path": "sistema-de-productividad",
-      "module": "/build/routes/blog/sistema-de-productividad-MJOP7MKJ.js",
+      "module": "/build/routes/blog/sistema-de-productividad-6O2RNMXC.js",
+      "hasAction": false,
+      "hasLoader": false,
+      "hasCatchBoundary": false,
+      "hasErrorBoundary": false
+    },
+    "routes/blog/vivir-en-japon": {
+      "id": "routes/blog/vivir-en-japon",
+      "parentId": "routes/blog",
+      "path": "vivir-en-japon",
+      "module": "/build/routes/blog/vivir-en-japon-G2VKI6JF.js",
       "hasAction": false,
       "hasLoader": false,
       "hasCatchBoundary": false,
@@ -158,5 +188,5 @@
       "hasErrorBoundary": false
     }
   },
-  "url": "/build/manifest-EAE6811D.js"
+  "url": "/build/manifest-34BB78D8.js"
 }

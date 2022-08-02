@@ -29,6 +29,22 @@ export default function BlogIndex() {
           </Link>
         </li>
       </ul>
+      <br></br>
+      <iframe
+  src="https://embeds.beehiiv.com/eb2aa2c1-0717-4026-8fd6-766b64c8a5d1"
+  data-test-id="beehiiv-embed"
+  width="100%"
+  height={320}
+  frameBorder={0}
+  scrolling="no"
+  style={{
+    borderRadius: 4,
+    border: "2px solid #e5e7eb",
+    margin: 0,
+    backgroundColor: "transparent"
+  }}
+/>
+
     </div>
   );
 }
