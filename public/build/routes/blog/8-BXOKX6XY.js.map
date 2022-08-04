@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:/home/kai/repos/demo-website-remix/app/routes/blog/8.mdx?browser", "mdx:/home/kai/repos/demo-website-remix/app/routes/blog/8.mdx"],
+  "sourcesContent": ["export { default, links, meta } from \"/home/kai/repos/demo-website-remix/app/routes/blog/8.mdx\";", "\n/*@jsxRuntime classic @jsx React.createElement @jsxFrag React.Fragment*/\nimport React from \"react\";\nfunction MDXContent(props = {}) {\n  const _components = Object.assign({}, props.components), {wrapper: MDXLayout} = _components;\n  const _content = <></>;\n  return MDXLayout ? <MDXLayout {...props}>{_content}</MDXLayout> : _content;\n}\nexport default MDXContent;\n\n\nexport const filename = \"8.mdx\";\nexport const headers = typeof attributes !== \"undefined\" && attributes.headers;\nexport const meta = typeof attributes !== \"undefined\" && attributes.meta;\nexport const links = undefined;\n          "],
+  "mappings": ";;;;;;;AAAA;;;ACAA;AAEA,mBAAkB;AAClB,oBAAoB,QAAQ,IAAI;AAC9B,QAAM,cAAc,OAAO,OAAO,IAAI,MAAM,aAAa,EAAC,SAAS,cAAa;AAChF,QAAM,WAAW;AACjB,SAAO,YAAY,mDAAC,WAAD;AAAA,OAAe;AAAA,KAAQ,YAAwB;AAAA;AAEpE,IAAO,YAAQ;AAIR,IAAM,UAAU,OAAO,eAAe,eAAe,WAAW;AAChE,IAAM,OAAO,OAAO,eAAe,eAAe,WAAW;AAC7D,IAAM,QAAQ;",
+  "names": []
+}

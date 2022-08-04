@@ -12,6 +12,9 @@ export default function BlogIndex() {
       </a>
       <ul>
         <li>
+          <Link to="futuro-de-este-blog">El futuro de este blog</Link>
+        </li>
+        <li>
           <Link to="7">El infierno de los cursos de programación</Link>
         </li>
         <li>

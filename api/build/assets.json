@@ -1,5 +1,5 @@
 {
-  "version": "2698a0a6",
+  "version": "942ca645",
   "entry": {
     "module": "/build/entry.client-PQ5D2RPP.js",
     "imports": [
@@ -51,7 +51,7 @@
       "id": "routes/blog/7",
       "parentId": "routes/blog",
       "path": "7",
-      "module": "/build/routes/blog/7-74UQ7O4R.js",
+      "module": "/build/routes/blog/7-LQ2OWB6Q.js",
       "hasAction": false,
       "hasLoader": false,
       "hasCatchBoundary": false,
@@ -67,11 +67,21 @@
       "hasCatchBoundary": false,
       "hasErrorBoundary": false
     },
+    "routes/blog/futuro-de-este-blog": {
+      "id": "routes/blog/futuro-de-este-blog",
+      "parentId": "routes/blog",
+      "path": "futuro-de-este-blog",
+      "module": "/build/routes/blog/futuro-de-este-blog-7PUUVWTK.js",
+      "hasAction": false,
+      "hasLoader": false,
+      "hasCatchBoundary": false,
+      "hasErrorBoundary": false
+    },
     "routes/blog/index": {
       "id": "routes/blog/index",
       "parentId": "routes/blog",
       "index": true,
-      "module": "/build/routes/blog/index-K5KKI5JM.js",
+      "module": "/build/routes/blog/index-4JH6FFEV.js",
       "hasAction": false,
       "hasLoader": false,
       "hasCatchBoundary": false,
@@ -198,5 +208,5 @@
       "hasErrorBoundary": false
     }
   },
-  "url": "/build/manifest-2698A0A6.js"
+  "url": "/build/manifest-942CA645.js"
 }
