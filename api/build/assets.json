@@ -1,5 +1,5 @@
 {
-  "version": "942ca645",
+  "version": "95b7970c",
   "entry": {
     "module": "/build/entry.client-PQ5D2RPP.js",
     "imports": [
@@ -57,6 +57,16 @@
       "hasCatchBoundary": false,
       "hasErrorBoundary": false
     },
+    "routes/blog/costo-de-viajar": {
+      "id": "routes/blog/costo-de-viajar",
+      "parentId": "routes/blog",
+      "path": "costo-de-viajar",
+      "module": "/build/routes/blog/costo-de-viajar-FZIT3MWN.js",
+      "hasAction": false,
+      "hasLoader": false,
+      "hasCatchBoundary": false,
+      "hasErrorBoundary": false
+    },
     "routes/blog/crear-una-startup-con-17": {
       "id": "routes/blog/crear-una-startup-con-17",
       "parentId": "routes/blog",
@@ -81,7 +91,7 @@
       "id": "routes/blog/index",
       "parentId": "routes/blog",
       "index": true,
-      "module": "/build/routes/blog/index-4JH6FFEV.js",
+      "module": "/build/routes/blog/index-B2AYLXGM.js",
       "hasAction": false,
       "hasLoader": false,
       "hasCatchBoundary": false,
@@ -102,6 +112,16 @@
       "parentId": "routes/blog",
       "path": "sistema-de-productividad",
       "module": "/build/routes/blog/sistema-de-productividad-6O2RNMXC.js",
+      "hasAction": false,
+      "hasLoader": false,
+      "hasCatchBoundary": false,
+      "hasErrorBoundary": false
+    },
+    "routes/blog/template": {
+      "id": "routes/blog/template",
+      "parentId": "routes/blog",
+      "path": "template",
+      "module": "/build/routes/blog/template-FOXRUWTV.js",
       "hasAction": false,
       "hasLoader": false,
       "hasCatchBoundary": false,
@@ -208,5 +228,5 @@
       "hasErrorBoundary": false
     }
   },
-  "url": "/build/manifest-942CA645.js"
+  "url": "/build/manifest-95B7970C.js"
 }

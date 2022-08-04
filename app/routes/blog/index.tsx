@@ -11,6 +11,9 @@ export default function BlogIndex() {
         twitter
       </a>
       <ul>
+      <li>
+          <Link to="costo-de-viajar">El verdadero costo de viajar</Link>
+        </li>
         <li>
           <Link to="futuro-de-este-blog">El futuro de este blog</Link>
         </li>
