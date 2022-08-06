@@ -11,7 +11,10 @@ export default function BlogIndex() {
         twitter
       </a>
       <ul>
-      <li>
+        <li>
+          <Link to="tiempo-relaciones-sociales">La paradoja del tiempo en las relaciones sociales</Link>
+        </li>
+        <li>
           <Link to="costo-de-viajar">El verdadero costo de viajar</Link>
         </li>
         <li>

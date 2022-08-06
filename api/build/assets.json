@@ -1,5 +1,5 @@
 {
-  "version": "95b7970c",
+  "version": "0ea37522",
   "entry": {
     "module": "/build/entry.client-PQ5D2RPP.js",
     "imports": [
@@ -91,7 +91,7 @@
       "id": "routes/blog/index",
       "parentId": "routes/blog",
       "index": true,
-      "module": "/build/routes/blog/index-B2AYLXGM.js",
+      "module": "/build/routes/blog/index-I5Q67ECM.js",
       "hasAction": false,
       "hasLoader": false,
       "hasCatchBoundary": false,
@@ -122,6 +122,16 @@
       "parentId": "routes/blog",
       "path": "template",
       "module": "/build/routes/blog/template-FOXRUWTV.js",
+      "hasAction": false,
+      "hasLoader": false,
+      "hasCatchBoundary": false,
+      "hasErrorBoundary": false
+    },
+    "routes/blog/tiempo-relaciones-sociales": {
+      "id": "routes/blog/tiempo-relaciones-sociales",
+      "parentId": "routes/blog",
+      "path": "tiempo-relaciones-sociales",
+      "module": "/build/routes/blog/tiempo-relaciones-sociales-S6IXUHSV.js",
       "hasAction": false,
       "hasLoader": false,
       "hasCatchBoundary": false,
@@ -228,5 +238,5 @@
       "hasErrorBoundary": false
     }
   },
-  "url": "/build/manifest-95B7970C.js"
+  "url": "/build/manifest-0EA37522.js"
 }
