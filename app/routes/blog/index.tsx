@@ -12,7 +12,14 @@ export default function BlogIndex() {
       </a>
       <ul>
         <li>
-          <Link to="tiempo-relaciones-sociales">La paradoja del tiempo en las relaciones sociales</Link>
+          <Link to="como-estoy-aprendiendo-a-programar">
+            Cómo estoy aprendiendo a programar
+          </Link>
+        </li>
+        <li>
+          <Link to="tiempo-relaciones-sociales">
+            La paradoja del tiempo en las relaciones sociales
+          </Link>
         </li>
         <li>
           <Link to="costo-de-viajar">El verdadero costo de viajar</Link>

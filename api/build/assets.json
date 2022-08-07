@@ -1,5 +1,5 @@
 {
-  "version": "0ea37522",
+  "version": "6de718ed",
   "entry": {
     "module": "/build/entry.client-PQ5D2RPP.js",
     "imports": [
@@ -57,6 +57,16 @@
       "hasCatchBoundary": false,
       "hasErrorBoundary": false
     },
+    "routes/blog/como-estoy-aprendiendo-a-programar": {
+      "id": "routes/blog/como-estoy-aprendiendo-a-programar",
+      "parentId": "routes/blog",
+      "path": "como-estoy-aprendiendo-a-programar",
+      "module": "/build/routes/blog/como-estoy-aprendiendo-a-programar-55D6FGXL.js",
+      "hasAction": false,
+      "hasLoader": false,
+      "hasCatchBoundary": false,
+      "hasErrorBoundary": false
+    },
     "routes/blog/costo-de-viajar": {
       "id": "routes/blog/costo-de-viajar",
       "parentId": "routes/blog",
@@ -91,7 +101,7 @@
       "id": "routes/blog/index",
       "parentId": "routes/blog",
       "index": true,
-      "module": "/build/routes/blog/index-I5Q67ECM.js",
+      "module": "/build/routes/blog/index-JCIDFKPO.js",
       "hasAction": false,
       "hasLoader": false,
       "hasCatchBoundary": false,
@@ -238,5 +248,5 @@
       "hasErrorBoundary": false
     }
   },
-  "url": "/build/manifest-0EA37522.js"
+  "url": "/build/manifest-6DE718ED.js"
 }
