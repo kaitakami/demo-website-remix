@@ -10,12 +10,12 @@ export default function BlogIndex() {
       <a href="https://twitter.com/kaitakami_/" target="_blank">
         twitter
       </a>
+      <br />
+      <br />
+      <a href="https://kaitakami.com/blog/programacion/">
+        Mi blog de programación
+      </a>
       <ul>
-        <li>
-          <Link to="como-estoy-aprendiendo-a-programar">
-            Cómo estoy aprendiendo a programar
-          </Link>
-        </li>
         <li>
           <Link to="tiempo-relaciones-sociales">
             La paradoja del tiempo en las relaciones sociales

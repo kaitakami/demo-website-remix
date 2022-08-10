@@ -1,5 +1,5 @@
 {
-  "version": "6de718ed",
+  "version": "377fede3",
   "entry": {
     "module": "/build/entry.client-PQ5D2RPP.js",
     "imports": [
@@ -21,7 +21,10 @@
       "id": "routes/blog",
       "parentId": "root",
       "path": "blog",
-      "module": "/build/routes/blog-HBEU3L43.js",
+      "module": "/build/routes/blog-V3ZNPEUY.js",
+      "imports": [
+        "/build/_shared/chunk-5MVHN2LV.js"
+      ],
       "hasAction": false,
       "hasLoader": true,
       "hasCatchBoundary": false,
@@ -52,16 +55,6 @@
       "parentId": "routes/blog",
       "path": "7",
       "module": "/build/routes/blog/7-LQ2OWB6Q.js",
-      "hasAction": false,
-      "hasLoader": false,
-      "hasCatchBoundary": false,
-      "hasErrorBoundary": false
-    },
-    "routes/blog/como-estoy-aprendiendo-a-programar": {
-      "id": "routes/blog/como-estoy-aprendiendo-a-programar",
-      "parentId": "routes/blog",
-      "path": "como-estoy-aprendiendo-a-programar",
-      "module": "/build/routes/blog/como-estoy-aprendiendo-a-programar-55D6FGXL.js",
       "hasAction": false,
       "hasLoader": false,
       "hasCatchBoundary": false,
@@ -101,7 +94,37 @@
       "id": "routes/blog/index",
       "parentId": "routes/blog",
       "index": true,
-      "module": "/build/routes/blog/index-JCIDFKPO.js",
+      "module": "/build/routes/blog/index-LZVFE7RR.js",
+      "hasAction": false,
+      "hasLoader": false,
+      "hasCatchBoundary": false,
+      "hasErrorBoundary": false
+    },
+    "routes/blog/programacion": {
+      "id": "routes/blog/programacion",
+      "parentId": "routes/blog",
+      "path": "programacion",
+      "module": "/build/routes/blog/programacion-WBG3A4DW.js",
+      "hasAction": false,
+      "hasLoader": true,
+      "hasCatchBoundary": false,
+      "hasErrorBoundary": false
+    },
+    "routes/blog/programacion/como-estoy-aprendiendo-a-programar": {
+      "id": "routes/blog/programacion/como-estoy-aprendiendo-a-programar",
+      "parentId": "routes/blog/programacion",
+      "path": "como-estoy-aprendiendo-a-programar",
+      "module": "/build/routes/blog/programacion/como-estoy-aprendiendo-a-programar-2PRFPKCM.js",
+      "hasAction": false,
+      "hasLoader": false,
+      "hasCatchBoundary": false,
+      "hasErrorBoundary": false
+    },
+    "routes/blog/programacion/index": {
+      "id": "routes/blog/programacion/index",
+      "parentId": "routes/blog/programacion",
+      "index": true,
+      "module": "/build/routes/blog/programacion/index-A7SK3TRO.js",
       "hasAction": false,
       "hasLoader": false,
       "hasCatchBoundary": false,
@@ -248,5 +271,5 @@
       "hasErrorBoundary": false
     }
   },
-  "url": "/build/manifest-6DE718ED.js"
+  "url": "/build/manifest-377FEDE3.js"
 }

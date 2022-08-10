@@ -462,11 +462,11 @@ var meta6 = () => {
   };
 };
 
-// mdx:/home/kai/repos/demo-website-remix/app/routes/blog/como-estoy-aprendiendo-a-programar.mdx
-var como_estoy_aprendiendo_a_programar_exports = {};
-__export(como_estoy_aprendiendo_a_programar_exports, {
+// mdx:/home/kai/repos/demo-website-remix/app/routes/blog/tiempo-relaciones-sociales.mdx
+var tiempo_relaciones_sociales_exports = {};
+__export(tiempo_relaciones_sociales_exports, {
   attributes: () => attributes,
-  default: () => como_estoy_aprendiendo_a_programar_default,
+  default: () => tiempo_relaciones_sociales_default,
   filename: () => filename,
   headers: () => headers,
   links: () => links4,
@@ -474,10 +474,10 @@ __export(como_estoy_aprendiendo_a_programar_exports, {
 });
 var import_react2 = __toModule(require("react"));
 var attributes = {
-  "title": "C\xF3mo estoy aprendiendo a programar",
-  "date": new Date(1659744e6),
+  "title": "El tiempo en las relaciones sociales",
+  "date": new Date(16596576e5),
   "meta": {
-    "title": "C\xF3mo estoy aprendiendo a programar"
+    "title": "El tiempo en las relaciones sociales"
   }
 };
 function MDXContent(props = {}) {
@@ -487,7 +487,7 @@ function MDXContent(props = {}) {
     h3: "h3",
     h4: "h4"
   }, props.components), { wrapper: MDXLayout } = _components;
-  const _content = /* @__PURE__ */ import_react2.default.createElement(import_react2.default.Fragment, null, /* @__PURE__ */ import_react2.default.createElement(_components.h2, null, "C\xF3mo estoy aprendiendo a programar"), "\n", attributes.date.toDateString(), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.p, null, "En este blog pr\xE1ctico te voy a compartir c\xF3mo he aprendido a programar, despu\xE9s de probar diferentes plataformas para aprender a programar, por fin encontr\xE9 un curr\xEDculum 100% gratuito con una gran comunidad."), "\n", /* @__PURE__ */ import_react2.default.createElement("ul", null, /* @__PURE__ */ import_react2.default.createElement("li", null, "TOP!"), "\n", /* @__PURE__ */ import_react2.default.createElement("li", null, "Mi camino para convertirme en programador")), "\n", /* @__PURE__ */ import_react2.default.createElement("img", {
+  const _content = /* @__PURE__ */ import_react2.default.createElement(import_react2.default.Fragment, null, /* @__PURE__ */ import_react2.default.createElement(_components.h2, null), "\n", attributes.date.toDateString(), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.p, null, 'En este blog te voy a compartir sobre la paradoja del tiempo y por qu\xE9 conocer personas cuesta menos en "tiempo" de lo que pensamos.'), "\n", /* @__PURE__ */ import_react2.default.createElement("ul", null, /* @__PURE__ */ import_react2.default.createElement("li", null, "\xBFEl tiempo es oro?.."), "\n", /* @__PURE__ */ import_react2.default.createElement("li", null, "Cada historia es un hilo"), "\n", /* @__PURE__ */ import_react2.default.createElement("li", null, "Regla de Pareto en las relaciones")), "\n", /* @__PURE__ */ import_react2.default.createElement("img", {
     style: {
       display: "block",
       marginLeft: "auto",
@@ -495,9 +495,9 @@ function MDXContent(props = {}) {
       width: "35%",
       minWidth: 290
     },
-    src: "https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif",
+    src: "https://media.giphy.com/media/3orieM2yXrt2kK4B4Q/giphy.gif",
     alt: "Gif"
-  }), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.h3, null, "TOP!"), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.p, null, "TOP son las siglas del curr\xEDculum ideal para empezar a aprender a programar. The Odin Project es un proyecto open source (c\xF3digo abierto) con una comunidad en discord que siempre est\xE1 activa para resolver dudas. Su curriculum se divide en 2 caminos. Primero, si no tienes experiencia en desarrollo web te tocar\xE1 aprender lo fundamental, no importa que camino tomes, lo fundamental es un requisito. Despu\xE9s puedes elegir entre el camino de Ruby on Rails o JavaScript. Personalmente, inicie con el de JavaScript y ya llevo m\xE1s del 50%, a sido un camino relativamente largo de 4 meses estudiando diario como m\xEDnimo dos horas. Cuando acabe ambos caminos escribir\xE9 un blog m\xE1s detallado compartiendo mi experiencia con este curr\xEDculum."), "\n", /* @__PURE__ */ import_react2.default.createElement("img", {
+  }), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.h3, null, "\xBFEl tiempo es oro?.."), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.p, null, "Todos en alg\xFAn momento de nuestra vida hemos escuchado esta frase, la realidad, es que el tiempo puede ser lo que quieras, si hay algo asegurado es que nuestro \xFAnico activo es el tiempo, por lo que vale la pena aprender c\xF3mo usarlo eficazmente."), "\n", /* @__PURE__ */ import_react2.default.createElement("br", null), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.p, null, "Siempre he tenido el dilema de cu\xE1l es el costo no econ\xF3mico que conlleva crear relaciones. Conocer a una persona puede tomar minutos, horas o d\xEDas, cada persona tiene una historia y nosotros decidimos que tanto queremos conocer de esa historia. Algo importante es que nosotros construimos nuestra realidad escuchando las historias de los dem\xE1s, formamos ideas dependiendo de las cosas que escuchamos o vemos."), "\n", /* @__PURE__ */ import_react2.default.createElement("br", null), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.h3, null, "Cada historia es un hilo"), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.p, null, 'En Asia oriental existe una creencia de que cada persona tiene un "hilo rojo" entrelazado en sus dedos que se conectan con la persona con la que encuentra el amor verdadero. As\xED como esta creencia, cada persona tiene un hilo, y a lo largo de nuestra vida vamos cruzando este hilo con otras personas. A veces ese hilo est\xE1 junto con otro hilo durante mucho tiempo, por ejemplo, en el caso de nuestros padres suele estar conectado desde que nacemos hasta que nos independizamos, despu\xE9s se vuelven a cruzar de vez en cuando. De la misma manera que hay personas que solo conocemos por un d\xEDa, nuestro hilo solo se cruz\xF3 una vez con el de la otra persona.'), "\n", /* @__PURE__ */ import_react2.default.createElement("br", null), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.p, null, "\xBFCu\xE1nto tiempo queremos tener este hilo conectado con el de la otra persona? Todos los d\xEDas nos hacemos esta pregunta. Sin embargo, las relaciones son una cuesti\xF3n de 2 personas, en el caso de que queramos mantener ese hilo intentamos hacer lo posible para que no se separe."), "\n", /* @__PURE__ */ import_react2.default.createElement("br", null), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.p, null, 'Para facilitar el mantener la relaci\xF3n hasta el momento correcto podemos usar un "framework" de preguntas y usar el principio de Pareto.'), "\n", /* @__PURE__ */ import_react2.default.createElement("img", {
     style: {
       display: "block",
       marginLeft: "auto",
@@ -505,19 +505,22 @@ function MDXContent(props = {}) {
       width: "35%",
       minWidth: 290
     },
-    src: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1400%2F1*chhKo9KEel7n7hi0O_cEPA.png&f=1&nofb=1",
-    alt: "The Odin Project logo"
-  }), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.h3, null, "Mi camino para convertirme en programador"), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.p, null, "Ser un programador autodidacta no es f\xE1cil, principalmente por 2 razones:"), "\n", /* @__PURE__ */ import_react2.default.createElement("ul", null, /* @__PURE__ */ import_react2.default.createElement("li", null, "Tienes que tener la suficiente fuerza de voluntad y disciplina para ser constante y no dejar de estudiar"), "\n", /* @__PURE__ */ import_react2.default.createElement("li", null, "No hay un camino definido")), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.p, null, "Este \xFAltimo punto lo soluciona The Odin Project. El primero suele ser la raz\xF3n por la que algunas personas no consiguen convertirse en programadores. Personalmente hace 2 a\xF1os tuve esta experiencia, aprend\xED HTML y CSS, pero perd\xED la motivaci\xF3n y dej\xE9 de programar durante un largo tiempo. Es algo normal que le pasa a la gran mayor\xEDa, lo importante es volver y reflexionar de por qu\xE9 paso eso la vez pasada."), "\n", /* @__PURE__ */ import_react2.default.createElement("br", null), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.p, null, "Sin embargo, en mis inicios tambi\xE9n batall\xE9 con el segundo punto, hice como 6 cursos de HTML antes de pasar a CSS solo porque no me sent\xEDa seguro, tambi\xE9n hubo \xE9pocas en las que solo hac\xEDa cursos y tutoriales y no me pon\xEDa a practicar (que es lo que realmente cuesta y te hace programador)."), "\n", /* @__PURE__ */ import_react2.default.createElement("br", null), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.p, null, "Ha sido un camino largo lleno de retos pero divertido. Cuando consiga mi primer trabajo en tech volver\xE9 a escribir un blog sobre mi camino como programador m\xE1s a detalle."), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.h2, null, "Final"), "\n", /* @__PURE__ */ import_react2.default.createElement("img", {
-    style: {
-      display: "block",
-      marginLeft: "auto",
-      marginRight: "auto",
-      width: "35%",
-      minWidth: 290
-    },
-    src: "https://media.giphy.com/media/3og0IPElt1EVnbJ4KA/giphy.gif",
+    src: "https://media.giphy.com/media/VbawWIGNtKYwOFXF7U/giphy.gif",
     alt: "Gif"
-  }), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.p, null, "Gracias por leer hasta ac\xE1, si encuentras mejoras o quisieras ", /* @__PURE__ */ import_react2.default.createElement("a", {
+  }), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.h3, null, "El principio de Pareto en las relaciones"), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.p, null, "El principio de Pareto o regla del 80 / 20 se refiere a que el 20% de las causas origina el 80% de las consecuencias. En las relaciones y el tiempo esto aplica. En promedio, del tiempo total de una relaci\xF3n que se mantiene conectada gastamos el 20% del tiempo en conocer el 80% de la persona. S\xED... En la pr\xE1ctica es algo m\xE1s complicado, en lo personal prefiero verlo como una ", /* @__PURE__ */ import_react2.default.createElement("a", {
+    href: "https://statologos.com/distribucion-de-cola-larga/",
+    target: "_blank"
+  }, "long tail"), "..."), "\n", /* @__PURE__ */ import_react2.default.createElement("br", null), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.p, null, "Sin embargo, las relaciones no solo existen para aprender de la historia de otros, a veces simplemente necesitamos a alguien con quien podamos compartir pensamientos o emociones. Y eso es lo bonito de las relaciones, que son tan inciertas y no las podemos controlar al 100%, si bien esto crea incertidumbre, tambi\xE9n nos hace apreciar la relaci\xF3n."), "\n", /* @__PURE__ */ import_react2.default.createElement("img", {
+    style: {
+      display: "block",
+      marginLeft: "auto",
+      marginRight: "auto",
+      width: "35%",
+      minWidth: 290
+    },
+    src: "https://media.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif",
+    alt: "Gif"
+  }), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.h2, null, "Final"), "\n", /* @__PURE__ */ import_react2.default.createElement(_components.p, null, "Gracias por leer hasta ac\xE1, si encuentras mejoras o quisieras ", /* @__PURE__ */ import_react2.default.createElement("a", {
     href: "https://twitter.com/kaitakami_/",
     target: "_blank"
   }, "compartirme algo"), " no lo dudes! Qu\xE9 te parecieron los gifs?"), "\n", /* @__PURE__ */ import_react2.default.createElement(import_react2.default.Fragment, null, /* @__PURE__ */ import_react2.default.createElement("iframe", {
@@ -562,17 +565,17 @@ function MDXContent(props = {}) {
   }));
   return MDXLayout ? /* @__PURE__ */ import_react2.default.createElement(MDXLayout, __spreadValues({}, props), _content) : _content;
 }
-var como_estoy_aprendiendo_a_programar_default = MDXContent;
-var filename = "como-estoy-aprendiendo-a-programar.mdx";
+var tiempo_relaciones_sociales_default = MDXContent;
+var filename = "tiempo-relaciones-sociales.mdx";
 var headers = typeof attributes !== "undefined" && attributes.headers;
 var meta7 = typeof attributes !== "undefined" && attributes.meta;
 var links4 = void 0;
 
-// mdx:/home/kai/repos/demo-website-remix/app/routes/blog/tiempo-relaciones-sociales.mdx
-var tiempo_relaciones_sociales_exports = {};
-__export(tiempo_relaciones_sociales_exports, {
+// mdx:/home/kai/repos/demo-website-remix/app/routes/blog/crear-una-startup-con-17.mdx
+var crear_una_startup_con_17_exports = {};
+__export(crear_una_startup_con_17_exports, {
   attributes: () => attributes2,
-  default: () => tiempo_relaciones_sociales_default,
+  default: () => crear_una_startup_con_17_default,
   filename: () => filename2,
   headers: () => headers2,
   links: () => links5,
@@ -580,82 +583,65 @@ __export(tiempo_relaciones_sociales_exports, {
 });
 var import_react3 = __toModule(require("react"));
 var attributes2 = {
-  "title": "El tiempo en las relaciones sociales",
-  "date": new Date(16596576e5),
+  "title": "Numbax - Mi historia creando una startup con 17 a\xF1os",
+  "date": new Date(16570656e5),
   "meta": {
-    "title": "El tiempo en las relaciones sociales"
+    "title": "Numbax - Mi historia creando una startup con 17 a\xF1os"
   }
 };
 function MDXContent2(props = {}) {
   const _components = Object.assign({
     h2: "h2",
-    p: "p",
     h3: "h3",
-    h4: "h4"
+    p: "p",
+    h4: "h4",
+    pre: "pre",
+    code: "code",
+    span: "span"
   }, props.components), { wrapper: MDXLayout } = _components;
-  const _content = /* @__PURE__ */ import_react3.default.createElement(import_react3.default.Fragment, null, /* @__PURE__ */ import_react3.default.createElement(_components.h2, null), "\n", attributes2.date.toDateString(), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.p, null, 'En este blog te voy a compartir sobre la paradoja del tiempo y por qu\xE9 conocer personas cuesta menos en "tiempo" de lo que pensamos.'), "\n", /* @__PURE__ */ import_react3.default.createElement("ul", null, /* @__PURE__ */ import_react3.default.createElement("li", null, "\xBFEl tiempo es oro?.."), "\n", /* @__PURE__ */ import_react3.default.createElement("li", null, "Cada historia es un hilo"), "\n", /* @__PURE__ */ import_react3.default.createElement("li", null, "Regla de Pareto en las relaciones")), "\n", /* @__PURE__ */ import_react3.default.createElement("img", {
-    style: {
-      display: "block",
-      marginLeft: "auto",
-      marginRight: "auto",
-      width: "35%",
-      minWidth: 290
-    },
-    src: "https://media.giphy.com/media/3orieM2yXrt2kK4B4Q/giphy.gif",
-    alt: "Gif"
-  }), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.h3, null, "\xBFEl tiempo es oro?.."), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.p, null, "Todos en alg\xFAn momento de nuestra vida hemos escuchado esta frase, la realidad, es que el tiempo puede ser lo que quieras, si hay algo asegurado es que nuestro \xFAnico activo es el tiempo, por lo que vale la pena aprender c\xF3mo usarlo eficazmente."), "\n", /* @__PURE__ */ import_react3.default.createElement("br", null), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.p, null, "Siempre he tenido el dilema de cu\xE1l es el costo no econ\xF3mico que conlleva crear relaciones. Conocer a una persona puede tomar minutos, horas o d\xEDas, cada persona tiene una historia y nosotros decidimos que tanto queremos conocer de esa historia. Algo importante es que nosotros construimos nuestra realidad escuchando las historias de los dem\xE1s, formamos ideas dependiendo de las cosas que escuchamos o vemos."), "\n", /* @__PURE__ */ import_react3.default.createElement("br", null), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.h3, null, "Cada historia es un hilo"), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.p, null, 'En Asia oriental existe una creencia de que cada persona tiene un "hilo rojo" entrelazado en sus dedos que se conectan con la persona con la que encuentra el amor verdadero. As\xED como esta creencia, cada persona tiene un hilo, y a lo largo de nuestra vida vamos cruzando este hilo con otras personas. A veces ese hilo est\xE1 junto con otro hilo durante mucho tiempo, por ejemplo, en el caso de nuestros padres suele estar conectado desde que nacemos hasta que nos independizamos, despu\xE9s se vuelven a cruzar de vez en cuando. De la misma manera que hay personas que solo conocemos por un d\xEDa, nuestro hilo solo se cruz\xF3 una vez con el de la otra persona.'), "\n", /* @__PURE__ */ import_react3.default.createElement("br", null), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.p, null, "\xBFCu\xE1nto tiempo queremos tener este hilo conectado con el de la otra persona? Todos los d\xEDas nos hacemos esta pregunta. Sin embargo, las relaciones son una cuesti\xF3n de 2 personas, en el caso de que queramos mantener ese hilo intentamos hacer lo posible para que no se separe."), "\n", /* @__PURE__ */ import_react3.default.createElement("br", null), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.p, null, 'Para facilitar el mantener la relaci\xF3n hasta el momento correcto podemos usar un "framework" de preguntas y usar el principio de Pareto.'), "\n", /* @__PURE__ */ import_react3.default.createElement("img", {
-    style: {
-      display: "block",
-      marginLeft: "auto",
-      marginRight: "auto",
-      width: "35%",
-      minWidth: 290
-    },
-    src: "https://media.giphy.com/media/VbawWIGNtKYwOFXF7U/giphy.gif",
-    alt: "Gif"
-  }), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.h3, null, "El principio de Pareto en las relaciones"), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.p, null, "El principio de Pareto o regla del 80 / 20 se refiere a que el 20% de las causas origina el 80% de las consecuencias. En las relaciones y el tiempo esto aplica. En promedio, del tiempo total de una relaci\xF3n que se mantiene conectada gastamos el 20% del tiempo en conocer el 80% de la persona. S\xED... En la pr\xE1ctica es algo m\xE1s complicado, en lo personal prefiero verlo como una ", /* @__PURE__ */ import_react3.default.createElement("a", {
-    href: "https://statologos.com/distribucion-de-cola-larga/",
-    target: "_blank"
-  }, "long tail"), "..."), "\n", /* @__PURE__ */ import_react3.default.createElement("br", null), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.p, null, "Sin embargo, las relaciones no solo existen para aprender de la historia de otros, a veces simplemente necesitamos a alguien con quien podamos compartir pensamientos o emociones. Y eso es lo bonito de las relaciones, que son tan inciertas y no las podemos controlar al 100%, si bien esto crea incertidumbre, tambi\xE9n nos hace apreciar la relaci\xF3n."), "\n", /* @__PURE__ */ import_react3.default.createElement("img", {
-    style: {
-      display: "block",
-      marginLeft: "auto",
-      marginRight: "auto",
-      width: "35%",
-      minWidth: 290
-    },
-    src: "https://media.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif",
-    alt: "Gif"
-  }), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.h2, null, "Final"), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.p, null, "Gracias por leer hasta ac\xE1, si encuentras mejoras o quisieras ", /* @__PURE__ */ import_react3.default.createElement("a", {
-    href: "https://twitter.com/kaitakami_/",
-    target: "_blank"
-  }, "compartirme algo"), " no lo dudes! Qu\xE9 te parecieron los gifs?"), "\n", /* @__PURE__ */ import_react3.default.createElement(import_react3.default.Fragment, null, /* @__PURE__ */ import_react3.default.createElement("iframe", {
-    className: "qp_iframe",
-    src: "https://poll-maker.com/frame4418559x483544bB-139",
-    seamless: "seamless",
-    frameBorder: "no",
-    style: {
-      border: 0,
-      background: "transparent",
-      width: "100%",
-      height: 480
-    }
-  }), /* @__PURE__ */ import_react3.default.createElement("div", {
-    id: "qp_foot4418559",
-    style: {
-      width: "100%",
-      padding: 5,
-      textAlign: "center"
-    }
-  }, /* @__PURE__ */ import_react3.default.createElement("a", {
-    href: "https://poll-maker.com/poll4418559x483544bB-139"
-  })), /* @__PURE__ */ import_react3.default.createElement("style", {
-    dangerouslySetInnerHTML: {
-      __html: ""
-    }
-  })), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.h2, null, /* @__PURE__ */ import_react3.default.createElement("p", {
-    id: "suscribir"
-  }, "Suscr\xEDbete al newsletter!")), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.h4, null, "Hay sorpresa para las primeras 10 personas :)"), "\n", /* @__PURE__ */ import_react3.default.createElement("iframe", {
+  const _content = /* @__PURE__ */ import_react3.default.createElement(import_react3.default.Fragment, null, /* @__PURE__ */ import_react3.default.createElement(_components.h2, null, "Numbax - Mi historia creando una startup con 17 a\xF1os"), "\n", attributes2.date.toDateString(), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.h3, null, "Introducci\xF3n"), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.p, null, "En este blog compartir\xE9 cosas que ni siquiera los cofundadores de Numbax saben. Un proyecto que comenz\xF3 a inicios de a\xF1o (2021) de la mano de Juan y Francisco. Un proyecto que paso por diversas etapas: desde una comunidad crypto hasta una app disruptiva que cambiar\xEDa la manera en la que se aprende en las instituciones tradicionales. Entre 6 meses despu\xE9s, en junio del 2021 tome una decisi\xF3n que me marcar\xEDa de por vida."), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.h4, null, "\xBFQu\xE9 es Numbax?"), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.pre, null, /* @__PURE__ */ import_react3.default.createElement(_components.code, {
+    className: "hljs language-js"
+  }, /* @__PURE__ */ import_react3.default.createElement(_components.span, {
+    className: "hljs-keyword"
+  }, "function"), " ", /* @__PURE__ */ import_react3.default.createElement(_components.span, {
+    className: "hljs-title hljs-function"
+  }, "explainNumbax"), "(", /* @__PURE__ */ import_react3.default.createElement(_components.span, {
+    className: "hljs-params"
+  }), ") {\n  ", /* @__PURE__ */ import_react3.default.createElement(_components.span, {
+    className: "hljs-keyword"
+  }, "return"), " ", /* @__PURE__ */ import_react3.default.createElement(_components.span, {
+    className: "hljs-string"
+  }, "'Ed-tech enfocada en gamificar la experiencia de aprendizaje en el aula tradicional.'"), ";\n}\n")), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.h3, null, "\xBFC\xF3mo entre a Numbax?"), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.p, null, "Pura coincidencia. Yo estaba regalando invitaciones de clubhouse, las ofrec\xED por un grupo de founders y future founders de startups. Juan me envi\xF3 un mensaje y le di una invitaci\xF3n. Yo vi su foto de perfil, se ve\xEDa un chico joven, no pude aguantar la curiosidad y le pregunt\xE9 cuantos a\xF1os ten\xEDa. Nos empezamos a conocer y organizamos una videollamada. Me presento sus proyectos y yo le presente los m\xEDos. En ese entonces ya hab\xEDan pasado 4 meses de haber dejado mi otro proyecto (18E). Me presento Numbax, sinceramente, yo no entend\xED mucho de lo que trataba, parec\xEDa un proyecto temporal para la pandemia. La videollamada termin\xF3 y no hab\xEDa planes de volver a hablar, a decir verdad pens\xE9 que no \xEDbamos a volver a tener contacto. Pero algo de la presentaci\xF3n de Juan me dejo con una espina en mi subconsciente. Una espina lo suficientemente grande para de vez en cuando pensar en el proyecto. Despu\xE9s de una semana recuerdo estar pregunt\xE1ndome si enviar o no un mensaje a Juan de las ideas que tuve durante esa semana. Por alguna raz\xF3n mi mente decidi\xF3 enviar el mensaje y fue algo que marc\xF3 un antes y un despu\xE9s en mi vida."), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.pre, null, /* @__PURE__ */ import_react3.default.createElement(_components.code, {
+    className: "hljs language-js"
+  }, /* @__PURE__ */ import_react3.default.createElement(_components.span, {
+    className: "hljs-keyword"
+  }, "function"), " ", /* @__PURE__ */ import_react3.default.createElement(_components.span, {
+    className: "hljs-title hljs-function"
+  }, "findJuan"), "(", /* @__PURE__ */ import_react3.default.createElement(_components.span, {
+    className: "hljs-params"
+  }), ") {\n  ", /* @__PURE__ */ import_react3.default.createElement(_components.span, {
+    className: "hljs-keyword"
+  }, "return"), " ", /* @__PURE__ */ import_react3.default.createElement(_components.span, {
+    className: "hljs-string"
+  }, "'Join a startup'"), ";\n}\n")), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.p, null, "Volvimos a hacer otra videollamada, repentinamente entro Francisco y por primera vez est\xE1bamos los 3 juntos. Jam\xE1s pens\xE9 que esa ser\xEDa la 1ra de muchas reuniones."), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.h3, null, "Una vez dentro de Numbax..."), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.p, null, "Me ofrec\xED a ayudarles y estuve durante una semana haciendo trabajos principalmente de dise\xF1o, cree el logo de Numbax, redis\xE9\xF1anos la landing page, entre otras cosas. Pasaron 2 semanas, y volvimos a tener una reuni\xF3n, entre c\xF3mo cofundador a Numbax. Un momento que no voy a olvidar, recuerdo muy bien una semana antes estar pensando todos los d\xEDas si tendr\xEDa las agallas de decirle a Juan y a Francisco si me aceptaban como cofundador, no tuve las agallas pero por suerte Juan lo propuso y entre como cofundador."), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.p, null, "Despu\xE9s de esa charla mi mente cambi\xF3, Numbax era lo primero y lo \xFAltimo que pensaba todos los d\xEDas. Estaba enamorado del proyecto y hab\xEDa tenido la suerte de estar rodeado de otros 2 cofundadores maravillosos. Entre como CTO de la empresa, fue mucha responsabilidad en un inicio. Muchas aprendizajes, entre tantos entend\xED lo que es trabajar en una startup. \u201CCuando uno trabaja en una startup tiene que dar por hecho dos cosas, 1ro el aprendizaje es el pan de cada d\xEDa, 2do te encargar\xE1n hacer muchas cosas que no sabes hacer\u201D. Uno aprende a lidiar con la incertidumbre y las dudas siguiendo hacia adelante."), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.pre, null, /* @__PURE__ */ import_react3.default.createElement(_components.code, {
+    className: "hljs language-js"
+  }, /* @__PURE__ */ import_react3.default.createElement(_components.span, {
+    className: "hljs-keyword"
+  }, "const"), " ", /* @__PURE__ */ import_react3.default.createElement(_components.span, {
+    className: "hljs-title hljs-function"
+  }, "joinNumbax"), " = (", /* @__PURE__ */ import_react3.default.createElement(_components.span, {
+    className: "hljs-params"
+  }), ") => {\n  ", /* @__PURE__ */ import_react3.default.createElement(_components.span, {
+    className: "hljs-keyword"
+  }, "return"), " ", /* @__PURE__ */ import_react3.default.createElement(_components.span, {
+    className: "hljs-string"
+  }, "'CTO??!!'"), "\n}\n")), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.h3, null, "El camino"), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.p, null, "Dentro de Numbax mi mayor enemigo fue WordPress, aprend\xED a usarlo en muy poco tiempo, y llegu\xE9 a borrar los recursos de la p\xE1gina web (por suerte no fue a mayores y logr\xE9 recuperar la informaci\xF3n), instale plug-ins que no tuve que instalar, pase horas intentando descifrar c\xF3mo cambiar el color de un bot\xF3n y mil cosas m\xE1s. Al final de todo fue un buen aprendizaje y logramos construir una landing page moderna y atractiva."), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.p, null, "Empezamos a entrevistar a profesores, contactamos a decenas de profesores y solo nos respondieron 3. Incluso hicimos una campa\xF1a en un grupo con m\xE1s de 10 mil docentes. Fracaso rotundamente. Hab\xEDamos creado un formulario conectado con calendly en nuestra p\xE1gina web que no sirvi\xF3 de mucho. En fin\u2026 por suerte le dimos al clavo y conocimos a un profesor que es un experto en tecnolog\xEDa para profesores. Ese d\xEDa volv\xED a ver la luz al fondo del t\xFAnel."), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.p, null, "El proyecto sigui\xF3 con sus altibajos y mucho karaoke para subir los \xE1nimos \u{1F643}."), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.p, null, "Mi relaci\xF3n con Juan y Francisco mejor\xF3 mucho, una lecci\xF3n que aprend\xED: cuando se trabaja en un proyecto remoto se debe entablar una relaci\xF3n (Entre los cofundadores) de amistad tambi\xE9n. No solo de socios. Al final del proyecto termine con 2 amigos espectaculares que se que van a lograr cosas muy grandes y hacer un impacto positivo a la sociedad."), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.pre, null, /* @__PURE__ */ import_react3.default.createElement(_components.code, {
+    className: "hljs language-js"
+  }, /* @__PURE__ */ import_react3.default.createElement(_components.span, {
+    className: "hljs-keyword"
+  }, "const"), " results = ", /* @__PURE__ */ import_react3.default.createElement(_components.span, {
+    className: "hljs-string"
+  }, "' Two great friends :)'"), "\n}\n")), "\n", /* @__PURE__ */ import_react3.default.createElement(_components.h4, null, "Este blog continuar\xE1..."), "\n", /* @__PURE__ */ import_react3.default.createElement("iframe", {
     src: "https://embeds.beehiiv.com/eb2aa2c1-0717-4026-8fd6-766b64c8a5d1",
     "data-test-id": "beehiiv-embed",
     width: "100%",
@@ -671,17 +657,17 @@ function MDXContent2(props = {}) {
   }));
   return MDXLayout ? /* @__PURE__ */ import_react3.default.createElement(MDXLayout, __spreadValues({}, props), _content) : _content;
 }
-var tiempo_relaciones_sociales_default = MDXContent2;
-var filename2 = "tiempo-relaciones-sociales.mdx";
+var crear_una_startup_con_17_default = MDXContent2;
+var filename2 = "crear-una-startup-con-17.mdx";
 var headers2 = typeof attributes2 !== "undefined" && attributes2.headers;
 var meta8 = typeof attributes2 !== "undefined" && attributes2.meta;
 var links5 = void 0;
 
-// mdx:/home/kai/repos/demo-website-remix/app/routes/blog/crear-una-startup-con-17.mdx
-var crear_una_startup_con_17_exports = {};
-__export(crear_una_startup_con_17_exports, {
+// mdx:/home/kai/repos/demo-website-remix/app/routes/blog/sistema-de-productividad.mdx
+var sistema_de_productividad_exports = {};
+__export(sistema_de_productividad_exports, {
   attributes: () => attributes3,
-  default: () => crear_una_startup_con_17_default,
+  default: () => sistema_de_productividad_default,
   filename: () => filename3,
   headers: () => headers3,
   links: () => links6,
@@ -689,65 +675,28 @@ __export(crear_una_startup_con_17_exports, {
 });
 var import_react4 = __toModule(require("react"));
 var attributes3 = {
-  "title": "Numbax - Mi historia creando una startup con 17 a\xF1os",
-  "date": new Date(16570656e5),
+  "title": "Creando un sistema de productividad",
+  "date": new Date(16589664e5),
   "meta": {
-    "title": "Numbax - Mi historia creando una startup con 17 a\xF1os"
+    "title": "Convertirse en la mejor versi\xF3n de uno mismo"
   }
 };
 function MDXContent3(props = {}) {
   const _components = Object.assign({
     h2: "h2",
     h3: "h3",
-    p: "p",
-    h4: "h4",
-    pre: "pre",
-    code: "code",
-    span: "span"
+    p: "p"
   }, props.components), { wrapper: MDXLayout } = _components;
-  const _content = /* @__PURE__ */ import_react4.default.createElement(import_react4.default.Fragment, null, /* @__PURE__ */ import_react4.default.createElement(_components.h2, null, "Numbax - Mi historia creando una startup con 17 a\xF1os"), "\n", attributes3.date.toDateString(), "\n", /* @__PURE__ */ import_react4.default.createElement(_components.h3, null, "Introducci\xF3n"), "\n", /* @__PURE__ */ import_react4.default.createElement(_components.p, null, "En este blog compartir\xE9 cosas que ni siquiera los cofundadores de Numbax saben. Un proyecto que comenz\xF3 a inicios de a\xF1o (2021) de la mano de Juan y Francisco. Un proyecto que paso por diversas etapas: desde una comunidad crypto hasta una app disruptiva que cambiar\xEDa la manera en la que se aprende en las instituciones tradicionales. Entre 6 meses despu\xE9s, en junio del 2021 tome una decisi\xF3n que me marcar\xEDa de por vida."), "\n", /* @__PURE__ */ import_react4.default.createElement(_components.h4, null, "\xBFQu\xE9 es Numbax?"), "\n", /* @__PURE__ */ import_react4.default.createElement(_components.pre, null, /* @__PURE__ */ import_react4.default.createElement(_components.code, {
-    className: "hljs language-js"
-  }, /* @__PURE__ */ import_react4.default.createElement(_components.span, {
-    className: "hljs-keyword"
-  }, "function"), " ", /* @__PURE__ */ import_react4.default.createElement(_components.span, {
-    className: "hljs-title hljs-function"
-  }, "explainNumbax"), "(", /* @__PURE__ */ import_react4.default.createElement(_components.span, {
-    className: "hljs-params"
-  }), ") {\n  ", /* @__PURE__ */ import_react4.default.createElement(_components.span, {
-    className: "hljs-keyword"
-  }, "return"), " ", /* @__PURE__ */ import_react4.default.createElement(_components.span, {
-    className: "hljs-string"
-  }, "'Ed-tech enfocada en gamificar la experiencia de aprendizaje en el aula tradicional.'"), ";\n}\n")), "\n", /* @__PURE__ */ import_react4.default.createElement(_components.h3, null, "\xBFC\xF3mo entre a Numbax?"), "\n", /* @__PURE__ */ import_react4.default.createElement(_components.p, null, "Pura coincidencia. Yo estaba regalando invitaciones de clubhouse, las ofrec\xED por un grupo de founders y future founders de startups. Juan me envi\xF3 un mensaje y le di una invitaci\xF3n. Yo vi su foto de perfil, se ve\xEDa un chico joven, no pude aguantar la curiosidad y le pregunt\xE9 cuantos a\xF1os ten\xEDa. Nos empezamos a conocer y organizamos una videollamada. Me presento sus proyectos y yo le presente los m\xEDos. En ese entonces ya hab\xEDan pasado 4 meses de haber dejado mi otro proyecto (18E). Me presento Numbax, sinceramente, yo no entend\xED mucho de lo que trataba, parec\xEDa un proyecto temporal para la pandemia. La videollamada termin\xF3 y no hab\xEDa planes de volver a hablar, a decir verdad pens\xE9 que no \xEDbamos a volver a tener contacto. Pero algo de la presentaci\xF3n de Juan me dejo con una espina en mi subconsciente. Una espina lo suficientemente grande para de vez en cuando pensar en el proyecto. Despu\xE9s de una semana recuerdo estar pregunt\xE1ndome si enviar o no un mensaje a Juan de las ideas que tuve durante esa semana. Por alguna raz\xF3n mi mente decidi\xF3 enviar el mensaje y fue algo que marc\xF3 un antes y un despu\xE9s en mi vida."), "\n", /* @__PURE__ */ import_react4.default.createElement(_components.pre, null, /* @__PURE__ */ import_react4.default.createElement(_components.code, {
-    className: "hljs language-js"
-  }, /* @__PURE__ */ import_react4.default.createElement(_components.span, {
-    className: "hljs-keyword"
-  }, "function"), " ", /* @__PURE__ */ import_react4.default.createElement(_components.span, {
-    className: "hljs-title hljs-function"
-  }, "findJuan"), "(", /* @__PURE__ */ import_react4.default.createElement(_components.span, {
-    className: "hljs-params"
-  }), ") {\n  ", /* @__PURE__ */ import_react4.default.createElement(_components.span, {
-    className: "hljs-keyword"
-  }, "return"), " ", /* @__PURE__ */ import_react4.default.createElement(_components.span, {
-    className: "hljs-string"
-  }, "'Join a startup'"), ";\n}\n")), "\n", /* @__PURE__ */ import_react4.default.createElement(_components.p, null, "Volvimos a hacer otra videollamada, repentinamente entro Francisco y por primera vez est\xE1bamos los 3 juntos. Jam\xE1s pens\xE9 que esa ser\xEDa la 1ra de muchas reuniones."), "\n", /* @__PURE__ */ import_react4.default.createElement(_components.h3, null, "Una vez dentro de Numbax..."), "\n", /* @__PURE__ */ import_react4.default.createElement(_components.p, null, "Me ofrec\xED a ayudarles y estuve durante una semana haciendo trabajos principalmente de dise\xF1o, cree el logo de Numbax, redis\xE9\xF1anos la landing page, entre otras cosas. Pasaron 2 semanas, y volvimos a tener una reuni\xF3n, entre c\xF3mo cofundador a Numbax. Un momento que no voy a olvidar, recuerdo muy bien una semana antes estar pensando todos los d\xEDas si tendr\xEDa las agallas de decirle a Juan y a Francisco si me aceptaban como cofundador, no tuve las agallas pero por suerte Juan lo propuso y entre como cofundador."), "\n", /* @__PURE__ */ import_react4.default.createElement(_components.p, null, "Despu\xE9s de esa charla mi mente cambi\xF3, Numbax era lo primero y lo \xFAltimo que pensaba todos los d\xEDas. Estaba enamorado del proyecto y hab\xEDa tenido la suerte de estar rodeado de otros 2 cofundadores maravillosos. Entre como CTO de la empresa, fue mucha responsabilidad en un inicio. Muchas aprendizajes, entre tantos entend\xED lo que es trabajar en una startup. \u201CCuando uno trabaja en una startup tiene que dar por hecho dos cosas, 1ro el aprendizaje es el pan de cada d\xEDa, 2do te encargar\xE1n hacer muchas cosas que no sabes hacer\u201D. Uno aprende a lidiar con la incertidumbre y las dudas siguiendo hacia adelante."), "\n", /* @__PURE__ */ import_react4.default.createElement(_components.pre, null, /* @__PURE__ */ import_react4.default.createElement(_components.code, {
-    className: "hljs language-js"
-  }, /* @__PURE__ */ import_react4.default.createElement(_components.span, {
-    className: "hljs-keyword"
-  }, "const"), " ", /* @__PURE__ */ import_react4.default.createElement(_components.span, {
-    className: "hljs-title hljs-function"
-  }, "joinNumbax"), " = (", /* @__PURE__ */ import_react4.default.createElement(_components.span, {
-    className: "hljs-params"
-  }), ") => {\n  ", /* @__PURE__ */ import_react4.default.createElement(_components.span, {
-    className: "hljs-keyword"
-  }, "return"), " ", /* @__PURE__ */ import_react4.default.createElement(_components.span, {
-    className: "hljs-string"
-  }, "'CTO??!!'"), "\n}\n")), "\n", /* @__PURE__ */ import_react4.default.createElement(_components.h3, null, "El camino"), "\n", /* @__PURE__ */ import_react4.default.createElement(_components.p, null, "Dentro de Numbax mi mayor enemigo fue WordPress, aprend\xED a usarlo en muy poco tiempo, y llegu\xE9 a borrar los recursos de la p\xE1gina web (por suerte no fue a mayores y logr\xE9 recuperar la informaci\xF3n), instale plug-ins que no tuve que instalar, pase horas intentando descifrar c\xF3mo cambiar el color de un bot\xF3n y mil cosas m\xE1s. Al final de todo fue un buen aprendizaje y logramos construir una landing page moderna y atractiva."), "\n", /* @__PURE__ */ import_react4.default.createElement(_components.p, null, "Empezamos a entrevistar a profesores, contactamos a decenas de profesores y solo nos respondieron 3. Incluso hicimos una campa\xF1a en un grupo con m\xE1s de 10 mil docentes. Fracaso rotundamente. Hab\xEDamos creado un formulario conectado con calendly en nuestra p\xE1gina web que no sirvi\xF3 de mucho. En fin\u2026 por suerte le dimos al clavo y conocimos a un profesor que es un experto en tecnolog\xEDa para profesores. Ese d\xEDa volv\xED a ver la luz al fondo del t\xFAnel."), "\n", /* @__PURE__ */ import_react4.default.createElement(_components.p, null, "El proyecto sigui\xF3 con sus altibajos y mucho karaoke para subir los \xE1nimos \u{1F643}."), "\n", /* @__PURE__ */ import_react4.default.createElement(_components.p, null, "Mi relaci\xF3n con Juan y Francisco mejor\xF3 mucho, una lecci\xF3n que aprend\xED: cuando se trabaja en un proyecto remoto se debe entablar una relaci\xF3n (Entre los cofundadores) de amistad tambi\xE9n. No solo de socios. Al final del proyecto termine con 2 amigos espectaculares que se que van a lograr cosas muy grandes y hacer un impacto positivo a la sociedad."), "\n", /* @__PURE__ */ import_react4.default.createElement(_components.pre, null, /* @__PURE__ */ import_react4.default.createElement(_components.code, {
-    className: "hljs language-js"
-  }, /* @__PURE__ */ import_react4.default.createElement(_components.span, {
-    className: "hljs-keyword"
-  }, "const"), " results = ", /* @__PURE__ */ import_react4.default.createElement(_components.span, {
-    className: "hljs-string"
-  }, "' Two great friends :)'"), "\n}\n")), "\n", /* @__PURE__ */ import_react4.default.createElement(_components.h4, null, "Este blog continuar\xE1..."), "\n", /* @__PURE__ */ import_react4.default.createElement("iframe", {
+  const _content = /* @__PURE__ */ import_react4.default.createElement(import_react4.default.Fragment, null, /* @__PURE__ */ import_react4.default.createElement(_components.h2, null, "Convertirse en la mejor versi\xF3n de uno mismo"), "\n", attributes3.date.toDateString(), "\n", /* @__PURE__ */ import_react4.default.createElement(_components.h3, null, "Introducci\xF3n"), "\n", /* @__PURE__ */ import_react4.default.createElement(_components.p, null, "En este blog compartir\xE9 el proceso de crear un sistema para ser m\xE1s productivo y lograr conseguir mis objetivos al final del d\xEDa. Qu\xE9date si est\xE1s interesado o interesada en aprender las herramientas que utilizar\xE9."), "\n", /* @__PURE__ */ import_react4.default.createElement(_components.h3, null, "\xBFEn qu\xE9 situaci\xF3n estoy?"), "\n", /* @__PURE__ */ import_react4.default.createElement(_components.p, null, "No es la primera vez que creo un sistema para mejorarme, he creado sistemas para ser m\xE1s disciplinado, pero tambi\xE9n para dejar de ser tan estricto. He estado en ambos lados, ahora estoy buscando el equilibrio, cuando fui muy disciplinado ten\xEDa burnouts que me dejaban inactivo durante varios d\xEDas. Cuando decid\xEDa tomarme un descanso, pues... No hac\xEDa nada. Tengo 18 a\xF1os, durante los \xFAltimos a\xF1os me he enfocado en desarrollar h\xE1bitos que me permitan vivir una vida sana y de crecimiento. Este a\xF1o deje de consumir az\xFAcares procesados, tambi\xE9n retome el ejercicio despu\xE9s de dejarlo durante dos a\xF1os, ahora dedico gran parte de mi tiempo a estudiar programaci\xF3n. C\xF3mo puedes leer, tengo tiempo y es por eso que decid\xED empezar a experimentar en crear un sistema adecuado a m\xED."), "\n", /* @__PURE__ */ import_react4.default.createElement(_components.h3, null, "Importante"), "\n", /* @__PURE__ */ import_react4.default.createElement(_components.p, null, "Todos somos diferentes, este es mi sistema y que a m\xED me funcione no significa que a ti te vaya a funcionar, si est\xE1s interesada o interesado en crear tu propio sistema env\xEDame un mensaje por ", /* @__PURE__ */ import_react4.default.createElement("a", {
+    href: "https://twitter.com/kaitakami_/",
+    target: "_blank"
+  }, "twitter"), " y hablemos :)"), "\n", /* @__PURE__ */ import_react4.default.createElement(_components.h2, null, "Lo que me hace falta"), "\n", /* @__PURE__ */ import_react4.default.createElement(_components.p, null, 'Hubo \xE9pocas en las que hac\xEDa agendas y las divid\xEDa minuto por minuto. No funciono. Hubo \xE9pocas en las que simplemente "flu\xEDa". Tampoco funciono. \xDAltimamente, creo listas de tareas y hago las tareas cuando tengo energ\xEDa. Desgraciadamente, de esta manera no consigo acabar todas las tareas al final del d\xEDa. Lo que hace falta es un equilibrio, crear un calendario y dividir mi agenda no por minutos sino por bloques y colores.'), "\n", /* @__PURE__ */ import_react4.default.createElement(_components.h3, null, "\xBFC\xF3mo y con qu\xE9?"), "\n", /* @__PURE__ */ import_react4.default.createElement(_components.p, null, 'He probado decenas de apps y softwares de productividad. Los mejores fueron notion y google calendar (por el momento). Notion te permite tener un to do list, un habit manager, un journal y muchas cosas m\xE1s. Lo mejor es que hay templates gratuitas que las puedes encontrar con una b\xFAsqueda en tu navegador. Google calendar es genial por la compatibilidad que tiene con otros dispositivos. Divid\xED mi agenda en cuatro colores. Rojo para salud. Es decir, ejercicio, lectura, meditaci\xF3n y mi rutina ma\xF1anera de la cual hablar\xE9 dentro de poco. Amarillo para trabajo. Verde para mi tiempo libre, parece ser no necesario, pero es crucial para evitar sentirse saturado. Azul para programaci\xF3n. Programaci\xF3n ocupa 8 horas de mi agenda, es como mi full-time job. Salud o "Health" ocupa 6 horas y media. Work ocupa 1 hora y el restante es free time.'), "\n", /* @__PURE__ */ import_react4.default.createElement(_components.h3, null, "\xBFY los bloques?"), "\n", /* @__PURE__ */ import_react4.default.createElement(_components.p, null, 'Parece que es una agenda t\xEDpica dividida en minutos, y ciertamente s\xED, sin embargo, est\xE1 pensado para dividirse en bloques del m\xE9todo de estudio pomodoro. Divid\xED mis horas de programaci\xF3n en 8 sesiones. Cada hora son 2 pomodoros, 25 minutos trabajando y 5 minutos de descanso. Pasa lo mismo con lo dem\xE1s. Que la agenda diga que una actividad comienza a cierta hora y termina a otra no significa que tengo que ser rigurosamente estricto para cumplir con esto. Lo \xFAnico que significa son l\xEDmites. Por ejemplo, si sal\xED a hacer ejercicio y llevo 30 minutos, pero a\xFAn faltan 15 minutos seg\xFAn la agenda, puedo tomarme de descanso los 15 minutos restantes. El objetivo es hacer las cosas en el tiempo reservado. El tiempo libre tambi\xE9n est\xE1 dividido por bloques. Los llamo "free time blocks" y son 15 minutos por bloque.'), "\n", /* @__PURE__ */ import_react4.default.createElement(_components.h3, null, "Morning Routine"), "\n", /* @__PURE__ */ import_react4.default.createElement(_components.p, null, "Para iniciar el d\xEDa con el pie derecho dedico mis primeros 45 minutos en tomar un vaso de agua (5 min), meditar (10 min), cardio (15 min), caminar (10 min) y escuchar algo que haga mi cerebro trabajar (15 min). De esta manera estoy al 100% con energ\xEDa de iniciar el d\xEDa. Si tengo mucho sue\xF1o en vez de meditar primero hago ejercicio. Me despierto a las 6 de la ma\xF1ana todos los d\xEDas. Intento dormir 8 horas."), "\n", /* @__PURE__ */ import_react4.default.createElement(_components.h3, null, "Estoy viviendo el proceso"), "\n", /* @__PURE__ */ import_react4.default.createElement(_components.p, null, "Este no es el sistema definitivo, es apenas el inicio pero ir\xE9 escribiendo m\xE1s ", /* @__PURE__ */ import_react4.default.createElement("a", {
+    href: "https://kaitakami.com/blog/",
+    target: "_blank"
+  }, "blogs"), " cuando encuentre mejoras a este sistema."), "\n", /* @__PURE__ */ import_react4.default.createElement(_components.h2, null, "Final"), "\n", /* @__PURE__ */ import_react4.default.createElement(_components.p, null, "Gracias por leer hasta ac\xE1, si encuentras mejoras o quisieras ", /* @__PURE__ */ import_react4.default.createElement("a", {
+    href: "https://twitter.com/kaitakami_/",
+    target: "_blank"
+  }, "compartirme algo"), " no lo dudes!"), "\n", /* @__PURE__ */ import_react4.default.createElement("iframe", {
     src: "https://embeds.beehiiv.com/eb2aa2c1-0717-4026-8fd6-766b64c8a5d1",
     "data-test-id": "beehiiv-embed",
     width: "100%",
@@ -763,17 +712,17 @@ function MDXContent3(props = {}) {
   }));
   return MDXLayout ? /* @__PURE__ */ import_react4.default.createElement(MDXLayout, __spreadValues({}, props), _content) : _content;
 }
-var crear_una_startup_con_17_default = MDXContent3;
-var filename3 = "crear-una-startup-con-17.mdx";
+var sistema_de_productividad_default = MDXContent3;
+var filename3 = "sistema-de-productividad.mdx";
 var headers3 = typeof attributes3 !== "undefined" && attributes3.headers;
 var meta9 = typeof attributes3 !== "undefined" && attributes3.meta;
 var links6 = void 0;
 
-// mdx:/home/kai/repos/demo-website-remix/app/routes/blog/sistema-de-productividad.mdx
-var sistema_de_productividad_exports = {};
-__export(sistema_de_productividad_exports, {
+// mdx:/home/kai/repos/demo-website-remix/app/routes/blog/futuro-de-este-blog.mdx
+var futuro_de_este_blog_exports = {};
+__export(futuro_de_este_blog_exports, {
   attributes: () => attributes4,
-  default: () => sistema_de_productividad_default,
+  default: () => futuro_de_este_blog_default,
   filename: () => filename4,
   headers: () => headers4,
   links: () => links7,
@@ -781,28 +730,62 @@ __export(sistema_de_productividad_exports, {
 });
 var import_react5 = __toModule(require("react"));
 var attributes4 = {
-  "title": "Creando un sistema de productividad",
-  "date": new Date(16589664e5),
+  "title": "El futuro de este blog",
+  "date": new Date(16594848e5),
   "meta": {
-    "title": "Convertirse en la mejor versi\xF3n de uno mismo"
+    "title": "El futuro de este blog"
   }
 };
 function MDXContent4(props = {}) {
   const _components = Object.assign({
     h2: "h2",
+    p: "p",
     h3: "h3",
-    p: "p"
+    a: "a",
+    h4: "h4"
   }, props.components), { wrapper: MDXLayout } = _components;
-  const _content = /* @__PURE__ */ import_react5.default.createElement(import_react5.default.Fragment, null, /* @__PURE__ */ import_react5.default.createElement(_components.h2, null, "Convertirse en la mejor versi\xF3n de uno mismo"), "\n", attributes4.date.toDateString(), "\n", /* @__PURE__ */ import_react5.default.createElement(_components.h3, null, "Introducci\xF3n"), "\n", /* @__PURE__ */ import_react5.default.createElement(_components.p, null, "En este blog compartir\xE9 el proceso de crear un sistema para ser m\xE1s productivo y lograr conseguir mis objetivos al final del d\xEDa. Qu\xE9date si est\xE1s interesado o interesada en aprender las herramientas que utilizar\xE9."), "\n", /* @__PURE__ */ import_react5.default.createElement(_components.h3, null, "\xBFEn qu\xE9 situaci\xF3n estoy?"), "\n", /* @__PURE__ */ import_react5.default.createElement(_components.p, null, "No es la primera vez que creo un sistema para mejorarme, he creado sistemas para ser m\xE1s disciplinado, pero tambi\xE9n para dejar de ser tan estricto. He estado en ambos lados, ahora estoy buscando el equilibrio, cuando fui muy disciplinado ten\xEDa burnouts que me dejaban inactivo durante varios d\xEDas. Cuando decid\xEDa tomarme un descanso, pues... No hac\xEDa nada. Tengo 18 a\xF1os, durante los \xFAltimos a\xF1os me he enfocado en desarrollar h\xE1bitos que me permitan vivir una vida sana y de crecimiento. Este a\xF1o deje de consumir az\xFAcares procesados, tambi\xE9n retome el ejercicio despu\xE9s de dejarlo durante dos a\xF1os, ahora dedico gran parte de mi tiempo a estudiar programaci\xF3n. C\xF3mo puedes leer, tengo tiempo y es por eso que decid\xED empezar a experimentar en crear un sistema adecuado a m\xED."), "\n", /* @__PURE__ */ import_react5.default.createElement(_components.h3, null, "Importante"), "\n", /* @__PURE__ */ import_react5.default.createElement(_components.p, null, "Todos somos diferentes, este es mi sistema y que a m\xED me funcione no significa que a ti te vaya a funcionar, si est\xE1s interesada o interesado en crear tu propio sistema env\xEDame un mensaje por ", /* @__PURE__ */ import_react5.default.createElement("a", {
+  const _content = /* @__PURE__ */ import_react5.default.createElement(import_react5.default.Fragment, null, /* @__PURE__ */ import_react5.default.createElement(_components.h2, null, "El futuro de este blog"), "\n", attributes4.date.toDateString(), "\n", /* @__PURE__ */ import_react5.default.createElement(_components.p, null, "En este blog te voy a compartir los pr\xF3ximos cambios que tendr\xE1 este blog. Ya paso cerca de un mes desde que cree este blog y \xFAltimamente estoy pensando a qu\xE9 direcci\xF3n va todo esto... Qu\xE9date si te interesa conocer las diferentes estrategias que tengo en mente, si vienes del futuro puede que ya se hayan cumplido \u{1F928}\nEn este blog te compartir\xE9:"), "\n", /* @__PURE__ */ import_react5.default.createElement("ul", null, /* @__PURE__ */ import_react5.default.createElement("li", null, "Divisi\xF3n de contenido"), "\n", /* @__PURE__ */ import_react5.default.createElement("li", null, "Newsletter"), "\n", /* @__PURE__ */ import_react5.default.createElement("li", null, "Frecuencia")), "\n", /* @__PURE__ */ import_react5.default.createElement("img", {
+    style: {
+      display: "block",
+      marginLeft: "auto",
+      marginRight: "auto",
+      width: "35%",
+      minWidth: 290
+    },
+    src: "https://media.giphy.com/media/Vwz4zdntMXrUY/giphy.gif",
+    alt: "Gif"
+  }), "\n", /* @__PURE__ */ import_react5.default.createElement(_components.h3, null, "Divisi\xF3n de contenido"), "\n", /* @__PURE__ */ import_react5.default.createElement(_components.p, null, "A finales de este a\xF1o estar\xE9 trabajando en el nuevo sitio web, para esto he estado considerando c\xF3mo organizar el blog para que sea f\xE1cil de leer.", /* @__PURE__ */ import_react5.default.createElement("br", null), "\nA lo largo de este mes sub\xED blogs de desarrollo personal, productividad y programaci\xF3n. Pensandol\xF3 bien, no deber\xEDa de tener un blog mezclando diferentes tem\xE1ticas. El nuevo blog estar\xE1 dividido en 3. El principal de productividad y desarrollo personal. La segunda parte de programaci\xF3n. Y la tercera parte de startups."), "\n", /* @__PURE__ */ import_react5.default.createElement(_components.h3, null, "Newsletter"), "\n", /* @__PURE__ */ import_react5.default.createElement(_components.p, null, "Para el blog principal de desarrollo personal y productividad ya cree un newsletter, sin embargo, crear\xE9 un newsletter para cada blog. ", /* @__PURE__ */ import_react5.default.createElement(_components.a, {
+    href: "#suscribir"
+  }, "Puedes suscribirte al newsletter desde ahora"), " \u{1F604}", /* @__PURE__ */ import_react5.default.createElement("br", null), '\nEn el newsletter principal estar\xE9 compartiendo los blogs, pero tambi\xE9n un newsletter semanal con las "cosas" m\xE1s importantes que haya aprendido esa semana. Pueden ser art\xEDculos, videos, tweets, libros y otro tipo de contenido. Se pretende que el newsletter principal siempre sea gratuito. Recibe tu primer newsletter esta semana y dame feedback, eso me ayuda mucho para mejorar.'), "\n", /* @__PURE__ */ import_react5.default.createElement(_components.h3, null, "Frecuencia"), "\n", /* @__PURE__ */ import_react5.default.createElement(_components.p, null, "Este mes seguir\xE9 subiendo un blog diario, el contenido va a seguir siendo variado. A\xFAn no hay fecha para el nuevo blog, pero a m\xE1s tardar en diciembre ya estar\xE9 trabajando en ello. Despu\xE9s de este mes la frecuencia cambiar\xE1 y tambi\xE9n har\xE9 una divisi\xF3n temporal de los blogs como ya mencione. Subir\xE9 2 blogs semanales de desarrollo personal / productividad. Un blog de programaci\xF3n a la semana. El blog de startups no lo iniciar\xE9 pronto, pero cuando empiece a tener m\xE1s experiencias en el ecosistema empezar\xE9 a escribir."), "\n", /* @__PURE__ */ import_react5.default.createElement(_components.h3, null, "Bonus! Estrategia"), "\n", /* @__PURE__ */ import_react5.default.createElement(_components.p, null, 'Estoy seguro de que esto cambiar\xE1 continuamente. Estuve pensando en implementar un sistema de referidos para el newsletter. Por otro lado, me enfocar\xE9 en crear contenido primero y despu\xE9s empezar a compartirlo. Tambi\xE9n pienso usar twitter como herramienta para crecer org\xE1nicamente, adem\xE1s del SEO que es un "must" en cualquier blog. Hasta que no cree el nuevo blog no meter\xE9 mucha mano en crecimiento, ya que ser\xEDa un desperdicio intentar optimizar algo que voy a eliminar en unos meses. Como objetivo confi\xF3 que a finales de a\xF1o voy a conseguir 50 personas suscritas al newsletter. Evidentemente, busco que el crecimiento sea exponencial, as\xED que no me he puesto objetivos medibles de cosas que no puedo controlar. Lo que controlo, en este caso, la cantidad y calidad del blog, es en lo me voy a estar esforzando este 2022. Justamente la raz\xF3n de hacer el reto de escribir 30 blogs en 30 d\xEDas tiene como objetivo hacer que me sienta m\xE1s c\xF3modo escribiendo blogs.'), "\n", /* @__PURE__ */ import_react5.default.createElement(_components.h2, null, "Final"), "\n", /* @__PURE__ */ import_react5.default.createElement(_components.p, null, "Gracias por leer hasta ac\xE1, si encuentras mejoras o quisieras ", /* @__PURE__ */ import_react5.default.createElement("a", {
     href: "https://twitter.com/kaitakami_/",
     target: "_blank"
-  }, "twitter"), " y hablemos :)"), "\n", /* @__PURE__ */ import_react5.default.createElement(_components.h2, null, "Lo que me hace falta"), "\n", /* @__PURE__ */ import_react5.default.createElement(_components.p, null, 'Hubo \xE9pocas en las que hac\xEDa agendas y las divid\xEDa minuto por minuto. No funciono. Hubo \xE9pocas en las que simplemente "flu\xEDa". Tampoco funciono. \xDAltimamente, creo listas de tareas y hago las tareas cuando tengo energ\xEDa. Desgraciadamente, de esta manera no consigo acabar todas las tareas al final del d\xEDa. Lo que hace falta es un equilibrio, crear un calendario y dividir mi agenda no por minutos sino por bloques y colores.'), "\n", /* @__PURE__ */ import_react5.default.createElement(_components.h3, null, "\xBFC\xF3mo y con qu\xE9?"), "\n", /* @__PURE__ */ import_react5.default.createElement(_components.p, null, 'He probado decenas de apps y softwares de productividad. Los mejores fueron notion y google calendar (por el momento). Notion te permite tener un to do list, un habit manager, un journal y muchas cosas m\xE1s. Lo mejor es que hay templates gratuitas que las puedes encontrar con una b\xFAsqueda en tu navegador. Google calendar es genial por la compatibilidad que tiene con otros dispositivos. Divid\xED mi agenda en cuatro colores. Rojo para salud. Es decir, ejercicio, lectura, meditaci\xF3n y mi rutina ma\xF1anera de la cual hablar\xE9 dentro de poco. Amarillo para trabajo. Verde para mi tiempo libre, parece ser no necesario, pero es crucial para evitar sentirse saturado. Azul para programaci\xF3n. Programaci\xF3n ocupa 8 horas de mi agenda, es como mi full-time job. Salud o "Health" ocupa 6 horas y media. Work ocupa 1 hora y el restante es free time.'), "\n", /* @__PURE__ */ import_react5.default.createElement(_components.h3, null, "\xBFY los bloques?"), "\n", /* @__PURE__ */ import_react5.default.createElement(_components.p, null, 'Parece que es una agenda t\xEDpica dividida en minutos, y ciertamente s\xED, sin embargo, est\xE1 pensado para dividirse en bloques del m\xE9todo de estudio pomodoro. Divid\xED mis horas de programaci\xF3n en 8 sesiones. Cada hora son 2 pomodoros, 25 minutos trabajando y 5 minutos de descanso. Pasa lo mismo con lo dem\xE1s. Que la agenda diga que una actividad comienza a cierta hora y termina a otra no significa que tengo que ser rigurosamente estricto para cumplir con esto. Lo \xFAnico que significa son l\xEDmites. Por ejemplo, si sal\xED a hacer ejercicio y llevo 30 minutos, pero a\xFAn faltan 15 minutos seg\xFAn la agenda, puedo tomarme de descanso los 15 minutos restantes. El objetivo es hacer las cosas en el tiempo reservado. El tiempo libre tambi\xE9n est\xE1 dividido por bloques. Los llamo "free time blocks" y son 15 minutos por bloque.'), "\n", /* @__PURE__ */ import_react5.default.createElement(_components.h3, null, "Morning Routine"), "\n", /* @__PURE__ */ import_react5.default.createElement(_components.p, null, "Para iniciar el d\xEDa con el pie derecho dedico mis primeros 45 minutos en tomar un vaso de agua (5 min), meditar (10 min), cardio (15 min), caminar (10 min) y escuchar algo que haga mi cerebro trabajar (15 min). De esta manera estoy al 100% con energ\xEDa de iniciar el d\xEDa. Si tengo mucho sue\xF1o en vez de meditar primero hago ejercicio. Me despierto a las 6 de la ma\xF1ana todos los d\xEDas. Intento dormir 8 horas."), "\n", /* @__PURE__ */ import_react5.default.createElement(_components.h3, null, "Estoy viviendo el proceso"), "\n", /* @__PURE__ */ import_react5.default.createElement(_components.p, null, "Este no es el sistema definitivo, es apenas el inicio pero ir\xE9 escribiendo m\xE1s ", /* @__PURE__ */ import_react5.default.createElement("a", {
-    href: "https://kaitakami.com/blog/",
-    target: "_blank"
-  }, "blogs"), " cuando encuentre mejoras a este sistema."), "\n", /* @__PURE__ */ import_react5.default.createElement(_components.h2, null, "Final"), "\n", /* @__PURE__ */ import_react5.default.createElement(_components.p, null, "Gracias por leer hasta ac\xE1, si encuentras mejoras o quisieras ", /* @__PURE__ */ import_react5.default.createElement("a", {
-    href: "https://twitter.com/kaitakami_/",
-    target: "_blank"
-  }, "compartirme algo"), " no lo dudes!"), "\n", /* @__PURE__ */ import_react5.default.createElement("iframe", {
+  }, "compartirme algo"), " no lo dudes! Qu\xE9 te parecieron los gifs?"), "\n", /* @__PURE__ */ import_react5.default.createElement(import_react5.default.Fragment, null, /* @__PURE__ */ import_react5.default.createElement("iframe", {
+    className: "qp_iframe",
+    src: "https://poll-maker.com/frame4418559x483544bB-139",
+    seamless: "seamless",
+    frameBorder: "no",
+    style: {
+      border: 0,
+      background: "transparent",
+      width: "100%",
+      height: 480
+    }
+  }), /* @__PURE__ */ import_react5.default.createElement("div", {
+    id: "qp_foot4418559",
+    style: {
+      width: "100%",
+      padding: 5,
+      textAlign: "center"
+    }
+  }, /* @__PURE__ */ import_react5.default.createElement("a", {
+    href: "https://poll-maker.com/poll4418559x483544bB-139"
+  })), /* @__PURE__ */ import_react5.default.createElement("style", {
+    dangerouslySetInnerHTML: {
+      __html: ""
+    }
+  })), "\n", /* @__PURE__ */ import_react5.default.createElement(_components.h2, null, /* @__PURE__ */ import_react5.default.createElement("p", {
+    id: "suscribir"
+  }, "Suscr\xEDbete al newsletter!")), "\n", /* @__PURE__ */ import_react5.default.createElement(_components.h4, null, "Hay sorpresa para las primeras 10 personas :)"), "\n", /* @__PURE__ */ import_react5.default.createElement("iframe", {
     src: "https://embeds.beehiiv.com/eb2aa2c1-0717-4026-8fd6-766b64c8a5d1",
     "data-test-id": "beehiiv-embed",
     width: "100%",
@@ -818,17 +801,17 @@ function MDXContent4(props = {}) {
   }));
   return MDXLayout ? /* @__PURE__ */ import_react5.default.createElement(MDXLayout, __spreadValues({}, props), _content) : _content;
 }
-var sistema_de_productividad_default = MDXContent4;
-var filename4 = "sistema-de-productividad.mdx";
+var futuro_de_este_blog_default = MDXContent4;
+var filename4 = "futuro-de-este-blog.mdx";
 var headers4 = typeof attributes4 !== "undefined" && attributes4.headers;
 var meta10 = typeof attributes4 !== "undefined" && attributes4.meta;
 var links7 = void 0;
 
-// mdx:/home/kai/repos/demo-website-remix/app/routes/blog/futuro-de-este-blog.mdx
-var futuro_de_este_blog_exports = {};
-__export(futuro_de_este_blog_exports, {
+// mdx:/home/kai/repos/demo-website-remix/app/routes/blog/costo-de-viajar.mdx
+var costo_de_viajar_exports = {};
+__export(costo_de_viajar_exports, {
   attributes: () => attributes5,
-  default: () => futuro_de_este_blog_default,
+  default: () => costo_de_viajar_default,
   filename: () => filename5,
   headers: () => headers5,
   links: () => links8,
@@ -836,21 +819,28 @@ __export(futuro_de_este_blog_exports, {
 });
 var import_react6 = __toModule(require("react"));
 var attributes5 = {
-  "title": "El futuro de este blog",
-  "date": new Date(16594848e5),
+  "title": "El verdadero costo de viaajr",
+  "date": new Date(16595712e5),
   "meta": {
-    "title": "El futuro de este blog"
+    "title": "El verdadero costo de viajar"
   }
 };
 function MDXContent5(props = {}) {
   const _components = Object.assign({
     h2: "h2",
     p: "p",
-    h3: "h3",
-    a: "a",
-    h4: "h4"
+    h4: "h4",
+    h3: "h3"
   }, props.components), { wrapper: MDXLayout } = _components;
-  const _content = /* @__PURE__ */ import_react6.default.createElement(import_react6.default.Fragment, null, /* @__PURE__ */ import_react6.default.createElement(_components.h2, null, "El futuro de este blog"), "\n", attributes5.date.toDateString(), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.p, null, "En este blog te voy a compartir los pr\xF3ximos cambios que tendr\xE1 este blog. Ya paso cerca de un mes desde que cree este blog y \xFAltimamente estoy pensando a qu\xE9 direcci\xF3n va todo esto... Qu\xE9date si te interesa conocer las diferentes estrategias que tengo en mente, si vienes del futuro puede que ya se hayan cumplido \u{1F928}\nEn este blog te compartir\xE9:"), "\n", /* @__PURE__ */ import_react6.default.createElement("ul", null, /* @__PURE__ */ import_react6.default.createElement("li", null, "Divisi\xF3n de contenido"), "\n", /* @__PURE__ */ import_react6.default.createElement("li", null, "Newsletter"), "\n", /* @__PURE__ */ import_react6.default.createElement("li", null, "Frecuencia")), "\n", /* @__PURE__ */ import_react6.default.createElement("img", {
+  const _content = /* @__PURE__ */ import_react6.default.createElement(import_react6.default.Fragment, null, /* @__PURE__ */ import_react6.default.createElement(_components.h2, null, "El verdadero costo de viajar"), "\n", attributes5.date.toDateString(), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.p, null, "En los \xFAltimos a\xF1os he llevado a cabo un experimento. Cada vez que me pongo al d\xEDa con un amigo, le pido que describa el momento de su vida en el que se sinti\xF3 m\xE1s vivo."), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.p, null, "He observado algo interesante en las respuestas."), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.p, null, "M\xE1s del 90% de ellos describen alguna experiencia de viaje. Tal vez sea la vez que viajaron de mochilero por Europa. O la vez que hicieron puenting en Australia."), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.p, null, "Y eso a pesar de que la mayor\xEDa de la gente pasa menos del 5% del a\xF1o fuera de casa."), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.p, null, "\xBFPor qu\xE9 somos tan pocos los que nos sentimos vivos cuando no viajamos?"), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.p, null, 'Cuando estamos en casa, nos ce\xF1imos a rutinas que dejan poco espacio para la aventura. Y justificamos nuestra monoton\xEDa comprometi\xE9ndonos con breves descansos de una semana a lo largo del a\xF1o, momentos en los que nos sentimos "vivos"...\n', /* @__PURE__ */ import_react6.default.createElement("p", {
+    style: {
+      display: "block"
+    }
+  }, " - ", /* @__PURE__ */ import_react6.default.createElement("a", {
+    href: "https://www.nickcostelloe.com/posts/adventuring-without-consequences"
+  }, "Nick Costelloe")), /* @__PURE__ */ import_react6.default.createElement("br", null), "\nHoy, mientras que le\xEDa ", /* @__PURE__ */ import_react6.default.createElement("a", {
+    href: "https://www.julian.com/guide/write/"
+  }, '"writing handbook"'), " de Julian Shapiro para mejorar mi escritura, me encontr\xE9 con esta parte de el blog de Nick \u{1F446}, me tome el tiempo para investigarlo y me sent\xED muy identificado. Los mejores momentos de mi vida est\xE1n marcados por aventuras.", /* @__PURE__ */ import_react6.default.createElement("br", null), '\nEs cuando salimos de nuestra rutina diaria que nos sentimos fuera de nuestra zona de confort. En algunos casos esto nos puede dar miedo, pero cuando se trata de un viaje no sabemos lo que nos depara, eso lo hace emocionante, adem\xE1s, el 99% de las personas hacen viajes a sitios paradisiacos o no particularmente "peligrosos". Es por esto que el viajar es algo tan gratificante que nos llena.', /* @__PURE__ */ import_react6.default.createElement("br", null), "\n\xBFNo ser\xEDa genial si pudi\xE9semos vivir cada d\xEDa con la misma emoci\xF3n? \xBFPor qu\xE9 no hacer un viaje cada semana en vez de cada a\xF1o?\nEn este blog compartir\xE9 c\xF3mo he sido capaz de sentirme aventurado en nuevas experiencias sin la necesidad de gastar mucho tiempo y/o dinero. \xBFListo/a? Prepara las maletas!"), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.h4, null, "\xCDndice"), "\n", /* @__PURE__ */ import_react6.default.createElement("ul", null, /* @__PURE__ */ import_react6.default.createElement("li", null, "\xBFQu\xE9 es una aventura?"), "\n", /* @__PURE__ */ import_react6.default.createElement("li", null, "Solo hay una primera vez")), "\n", /* @__PURE__ */ import_react6.default.createElement("img", {
     style: {
       display: "block",
       marginLeft: "auto",
@@ -858,11 +848,29 @@ function MDXContent5(props = {}) {
       width: "35%",
       minWidth: 290
     },
-    src: "https://media.giphy.com/media/Vwz4zdntMXrUY/giphy.gif",
+    src: "https://media.giphy.com/media/14wXMGbHjXK2k0/giphy-downsized-large.gif",
     alt: "Gif"
-  }), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.h3, null, "Divisi\xF3n de contenido"), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.p, null, "A finales de este a\xF1o estar\xE9 trabajando en el nuevo sitio web, para esto he estado considerando c\xF3mo organizar el blog para que sea f\xE1cil de leer.", /* @__PURE__ */ import_react6.default.createElement("br", null), "\nA lo largo de este mes sub\xED blogs de desarrollo personal, productividad y programaci\xF3n. Pensandol\xF3 bien, no deber\xEDa de tener un blog mezclando diferentes tem\xE1ticas. El nuevo blog estar\xE1 dividido en 3. El principal de productividad y desarrollo personal. La segunda parte de programaci\xF3n. Y la tercera parte de startups."), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.h3, null, "Newsletter"), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.p, null, "Para el blog principal de desarrollo personal y productividad ya cree un newsletter, sin embargo, crear\xE9 un newsletter para cada blog. ", /* @__PURE__ */ import_react6.default.createElement(_components.a, {
-    href: "#suscribir"
-  }, "Puedes suscribirte al newsletter desde ahora"), " \u{1F604}", /* @__PURE__ */ import_react6.default.createElement("br", null), '\nEn el newsletter principal estar\xE9 compartiendo los blogs, pero tambi\xE9n un newsletter semanal con las "cosas" m\xE1s importantes que haya aprendido esa semana. Pueden ser art\xEDculos, videos, tweets, libros y otro tipo de contenido. Se pretende que el newsletter principal siempre sea gratuito. Recibe tu primer newsletter esta semana y dame feedback, eso me ayuda mucho para mejorar.'), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.h3, null, "Frecuencia"), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.p, null, "Este mes seguir\xE9 subiendo un blog diario, el contenido va a seguir siendo variado. A\xFAn no hay fecha para el nuevo blog, pero a m\xE1s tardar en diciembre ya estar\xE9 trabajando en ello. Despu\xE9s de este mes la frecuencia cambiar\xE1 y tambi\xE9n har\xE9 una divisi\xF3n temporal de los blogs como ya mencione. Subir\xE9 2 blogs semanales de desarrollo personal / productividad. Un blog de programaci\xF3n a la semana. El blog de startups no lo iniciar\xE9 pronto, pero cuando empiece a tener m\xE1s experiencias en el ecosistema empezar\xE9 a escribir."), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.h3, null, "Bonus! Estrategia"), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.p, null, 'Estoy seguro de que esto cambiar\xE1 continuamente. Estuve pensando en implementar un sistema de referidos para el newsletter. Por otro lado, me enfocar\xE9 en crear contenido primero y despu\xE9s empezar a compartirlo. Tambi\xE9n pienso usar twitter como herramienta para crecer org\xE1nicamente, adem\xE1s del SEO que es un "must" en cualquier blog. Hasta que no cree el nuevo blog no meter\xE9 mucha mano en crecimiento, ya que ser\xEDa un desperdicio intentar optimizar algo que voy a eliminar en unos meses. Como objetivo confi\xF3 que a finales de a\xF1o voy a conseguir 50 personas suscritas al newsletter. Evidentemente, busco que el crecimiento sea exponencial, as\xED que no me he puesto objetivos medibles de cosas que no puedo controlar. Lo que controlo, en este caso, la cantidad y calidad del blog, es en lo me voy a estar esforzando este 2022. Justamente la raz\xF3n de hacer el reto de escribir 30 blogs en 30 d\xEDas tiene como objetivo hacer que me sienta m\xE1s c\xF3modo escribiendo blogs.'), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.h2, null, "Final"), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.p, null, "Gracias por leer hasta ac\xE1, si encuentras mejoras o quisieras ", /* @__PURE__ */ import_react6.default.createElement("a", {
+  }), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.h3, null, "\xBFQu\xE9 es una aventura?"), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.p, null, "Una aventura es una traves\xEDa, un viaje, un momento que se crea con el tiempo. Una aventura es algo fuera de nuestra rutina normal a lo que no estamos acostumbrados. Para iniciar a tener aventuras todos los d\xEDas es importante hacer 3 cosas:", /* @__PURE__ */ import_react6.default.createElement("br", null), "\n", /* @__PURE__ */ import_react6.default.createElement("li", null, "Descubre tu definici\xF3n de qu\xE9 es una aventura"), "\nHazte la pregunta del inicio: \xBFQu\xE9 d\xEDa te sentiste m\xE1s vivo? \xBFQu\xE9 tipo de d\xEDa fue?\n", /* @__PURE__ */ import_react6.default.createElement("li", null, "Mira a tu alrededor"), "\nNo necesitas ir lejos para tener una aventura, busca eventos cerca de donde vives. Puedes intentar cosas nuevas como hablar con gente desconocida, practicar un deporte, inscribirte a una clase, ir a reuniones, etc. Al principio puede dar miedo, pero recuerda, eso es lo que hace las aventuras emocionantes.", /* @__PURE__ */ import_react6.default.createElement("br", null), "\nUn gran ejemplo de esto es Tim Ferris, adem\xE1s de lo que ya sabemos, el aprendi\xF3 12 lenguajes, a nadar y a bailar tango solo por afrontarse a sus miedos y salir de su zona de confort.\n", /* @__PURE__ */ import_react6.default.createElement("li", null, "Abre tiempo en tu calendario para aventurarte"), "\nTal vez tengas los 2 puntos anteriores hechos, pero por cuestiones de tiempo sientes que no puedes tener m\xE1s aventuras.\nSi quieres empezar a tener m\xE1s aventuras tienes que decirle a tu cerebro que vas a dedicar x horas a la semana a hacer actividades fuera de tu zona de confort. Al principio se puede sentir extra\xF1o, pero despu\xE9s de un par de meses lo empiezas a normalizar.\n", /* @__PURE__ */ import_react6.default.createElement("li", null, "Bonus!"), "\nSi vives en un pa\xEDs en donde puedes usar una bicicleta sin estar en riesgo, compra una. Desde que compr\xE9 una bicicleta, la cantidad de aventuras que tengo aumentaron dr\xE1sticamente. El \xE1rea de acceso ahora es m\xE1s grande, adem\xE1s me ejercito mientras que tengo mis aventuras."), "\n", /* @__PURE__ */ import_react6.default.createElement("img", {
+    style: {
+      display: "block",
+      marginLeft: "auto",
+      marginRight: "auto",
+      width: "35%",
+      minWidth: 290
+    },
+    src: "https://media.giphy.com/media/VnaMMuJt5jbmE/giphy-downsized-large.gif",
+    alt: "Gif"
+  }), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.h3, null, "Solo hay una primera vez"), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.p, null, "Para tener m\xE1s aventuras tienes que tener la antena de atenci\xF3n alerta. En cualquier momento del d\xEDa una oportunidad puede aparecer, para no perdernos de aventuras el mindset es importante.", /* @__PURE__ */ import_react6.default.createElement("br", null), "\nDedica un tiempo a pensar qu\xE9 tipo de aventuras quieres. Me encantan las aventuras con deportes extremos y cosas fuera de mi zona de confort. Tambi\xE9n me gusta conocer y hablar con personas.", /* @__PURE__ */ import_react6.default.createElement("br", null), '\nAhora que ya tienes la antena alerta. Queda el \xFAltimo y m\xE1s importante paso. Toda aventura solo se vive una vez. Puedes volver a hacer lo mismo, pero la sensaci\xF3n no ser\xE1 la misma. Aprovecha cada aventura y se grat\xF3/\xE1 de poder experimentar con cosas nuevas. Con esta mentalidad podemos vivir en el momento y disfrutarlo. Al final de todo las aventuras van de sentirse "vivos".', /* @__PURE__ */ import_react6.default.createElement("br", null), "\nAhora si! Prepara tu bicicleta y c\xE1mara, llego la hora de tener m\xE1s aventuras."), "\n", /* @__PURE__ */ import_react6.default.createElement("img", {
+    style: {
+      display: "block",
+      marginLeft: "auto",
+      marginRight: "auto",
+      width: "35%",
+      minWidth: 290
+    },
+    src: "https://media.giphy.com/media/ToMjGpxInCZSzD3V82s/giphy.gif",
+    alt: "Gif"
+  }), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.h2, null, "Final"), "\n", /* @__PURE__ */ import_react6.default.createElement(_components.p, null, "Gracias por leer hasta ac\xE1, si encuentras mejoras o quisieras ", /* @__PURE__ */ import_react6.default.createElement("a", {
     href: "https://twitter.com/kaitakami_/",
     target: "_blank"
   }, "compartirme algo"), " no lo dudes! Qu\xE9 te parecieron los gifs?"), "\n", /* @__PURE__ */ import_react6.default.createElement(import_react6.default.Fragment, null, /* @__PURE__ */ import_react6.default.createElement("iframe", {
@@ -907,17 +915,17 @@ function MDXContent5(props = {}) {
   }));
   return MDXLayout ? /* @__PURE__ */ import_react6.default.createElement(MDXLayout, __spreadValues({}, props), _content) : _content;
 }
-var futuro_de_este_blog_default = MDXContent5;
-var filename5 = "futuro-de-este-blog.mdx";
+var costo_de_viajar_default = MDXContent5;
+var filename5 = "costo-de-viajar.mdx";
 var headers5 = typeof attributes5 !== "undefined" && attributes5.headers;
 var meta11 = typeof attributes5 !== "undefined" && attributes5.meta;
 var links8 = void 0;
 
-// mdx:/home/kai/repos/demo-website-remix/app/routes/blog/costo-de-viajar.mdx
-var costo_de_viajar_exports = {};
-__export(costo_de_viajar_exports, {
+// mdx:/home/kai/repos/demo-website-remix/app/routes/blog/vivir-en-japon.mdx
+var vivir_en_japon_exports = {};
+__export(vivir_en_japon_exports, {
   attributes: () => attributes6,
-  default: () => costo_de_viajar_default,
+  default: () => vivir_en_japon_default,
   filename: () => filename6,
   headers: () => headers6,
   links: () => links9,
@@ -925,87 +933,19 @@ __export(costo_de_viajar_exports, {
 });
 var import_react7 = __toModule(require("react"));
 var attributes6 = {
-  "title": "El verdadero costo de viaajr",
-  "date": new Date(16595712e5),
+  "title": "La realidad de vivir en Jap\xF3n",
+  "date": new Date(16591392e5),
   "meta": {
-    "title": "El verdadero costo de viajar"
+    "title": "La realidad de vivir en Jap\xF3n"
   }
 };
 function MDXContent6(props = {}) {
   const _components = Object.assign({
     h2: "h2",
-    p: "p",
-    h4: "h4",
-    h3: "h3"
+    h3: "h3",
+    p: "p"
   }, props.components), { wrapper: MDXLayout } = _components;
-  const _content = /* @__PURE__ */ import_react7.default.createElement(import_react7.default.Fragment, null, /* @__PURE__ */ import_react7.default.createElement(_components.h2, null, "El verdadero costo de viajar"), "\n", attributes6.date.toDateString(), "\n", /* @__PURE__ */ import_react7.default.createElement(_components.p, null, "En los \xFAltimos a\xF1os he llevado a cabo un experimento. Cada vez que me pongo al d\xEDa con un amigo, le pido que describa el momento de su vida en el que se sinti\xF3 m\xE1s vivo."), "\n", /* @__PURE__ */ import_react7.default.createElement(_components.p, null, "He observado algo interesante en las respuestas."), "\n", /* @__PURE__ */ import_react7.default.createElement(_components.p, null, "M\xE1s del 90% de ellos describen alguna experiencia de viaje. Tal vez sea la vez que viajaron de mochilero por Europa. O la vez que hicieron puenting en Australia."), "\n", /* @__PURE__ */ import_react7.default.createElement(_components.p, null, "Y eso a pesar de que la mayor\xEDa de la gente pasa menos del 5% del a\xF1o fuera de casa."), "\n", /* @__PURE__ */ import_react7.default.createElement(_components.p, null, "\xBFPor qu\xE9 somos tan pocos los que nos sentimos vivos cuando no viajamos?"), "\n", /* @__PURE__ */ import_react7.default.createElement(_components.p, null, 'Cuando estamos en casa, nos ce\xF1imos a rutinas que dejan poco espacio para la aventura. Y justificamos nuestra monoton\xEDa comprometi\xE9ndonos con breves descansos de una semana a lo largo del a\xF1o, momentos en los que nos sentimos "vivos"...\n', /* @__PURE__ */ import_react7.default.createElement("p", {
-    style: {
-      display: "block"
-    }
-  }, " - ", /* @__PURE__ */ import_react7.default.createElement("a", {
-    href: "https://www.nickcostelloe.com/posts/adventuring-without-consequences"
-  }, "Nick Costelloe")), /* @__PURE__ */ import_react7.default.createElement("br", null), "\nHoy, mientras que le\xEDa ", /* @__PURE__ */ import_react7.default.createElement("a", {
-    href: "https://www.julian.com/guide/write/"
-  }, '"writing handbook"'), " de Julian Shapiro para mejorar mi escritura, me encontr\xE9 con esta parte de el blog de Nick \u{1F446}, me tome el tiempo para investigarlo y me sent\xED muy identificado. Los mejores momentos de mi vida est\xE1n marcados por aventuras.", /* @__PURE__ */ import_react7.default.createElement("br", null), '\nEs cuando salimos de nuestra rutina diaria que nos sentimos fuera de nuestra zona de confort. En algunos casos esto nos puede dar miedo, pero cuando se trata de un viaje no sabemos lo que nos depara, eso lo hace emocionante, adem\xE1s, el 99% de las personas hacen viajes a sitios paradisiacos o no particularmente "peligrosos". Es por esto que el viajar es algo tan gratificante que nos llena.', /* @__PURE__ */ import_react7.default.createElement("br", null), "\n\xBFNo ser\xEDa genial si pudi\xE9semos vivir cada d\xEDa con la misma emoci\xF3n? \xBFPor qu\xE9 no hacer un viaje cada semana en vez de cada a\xF1o?\nEn este blog compartir\xE9 c\xF3mo he sido capaz de sentirme aventurado en nuevas experiencias sin la necesidad de gastar mucho tiempo y/o dinero. \xBFListo/a? Prepara las maletas!"), "\n", /* @__PURE__ */ import_react7.default.createElement(_components.h4, null, "\xCDndice"), "\n", /* @__PURE__ */ import_react7.default.createElement("ul", null, /* @__PURE__ */ import_react7.default.createElement("li", null, "\xBFQu\xE9 es una aventura?"), "\n", /* @__PURE__ */ import_react7.default.createElement("li", null, "Solo hay una primera vez")), "\n", /* @__PURE__ */ import_react7.default.createElement("img", {
-    style: {
-      display: "block",
-      marginLeft: "auto",
-      marginRight: "auto",
-      width: "35%",
-      minWidth: 290
-    },
-    src: "https://media.giphy.com/media/14wXMGbHjXK2k0/giphy-downsized-large.gif",
-    alt: "Gif"
-  }), "\n", /* @__PURE__ */ import_react7.default.createElement(_components.h3, null, "\xBFQu\xE9 es una aventura?"), "\n", /* @__PURE__ */ import_react7.default.createElement(_components.p, null, "Una aventura es una traves\xEDa, un viaje, un momento que se crea con el tiempo. Una aventura es algo fuera de nuestra rutina normal a lo que no estamos acostumbrados. Para iniciar a tener aventuras todos los d\xEDas es importante hacer 3 cosas:", /* @__PURE__ */ import_react7.default.createElement("br", null), "\n", /* @__PURE__ */ import_react7.default.createElement("li", null, "Descubre tu definici\xF3n de qu\xE9 es una aventura"), "\nHazte la pregunta del inicio: \xBFQu\xE9 d\xEDa te sentiste m\xE1s vivo? \xBFQu\xE9 tipo de d\xEDa fue?\n", /* @__PURE__ */ import_react7.default.createElement("li", null, "Mira a tu alrededor"), "\nNo necesitas ir lejos para tener una aventura, busca eventos cerca de donde vives. Puedes intentar cosas nuevas como hablar con gente desconocida, practicar un deporte, inscribirte a una clase, ir a reuniones, etc. Al principio puede dar miedo, pero recuerda, eso es lo que hace las aventuras emocionantes.", /* @__PURE__ */ import_react7.default.createElement("br", null), "\nUn gran ejemplo de esto es Tim Ferris, adem\xE1s de lo que ya sabemos, el aprendi\xF3 12 lenguajes, a nadar y a bailar tango solo por afrontarse a sus miedos y salir de su zona de confort.\n", /* @__PURE__ */ import_react7.default.createElement("li", null, "Abre tiempo en tu calendario para aventurarte"), "\nTal vez tengas los 2 puntos anteriores hechos, pero por cuestiones de tiempo sientes que no puedes tener m\xE1s aventuras.\nSi quieres empezar a tener m\xE1s aventuras tienes que decirle a tu cerebro que vas a dedicar x horas a la semana a hacer actividades fuera de tu zona de confort. Al principio se puede sentir extra\xF1o, pero despu\xE9s de un par de meses lo empiezas a normalizar.\n", /* @__PURE__ */ import_react7.default.createElement("li", null, "Bonus!"), "\nSi vives en un pa\xEDs en donde puedes usar una bicicleta sin estar en riesgo, compra una. Desde que compr\xE9 una bicicleta, la cantidad de aventuras que tengo aumentaron dr\xE1sticamente. El \xE1rea de acceso ahora es m\xE1s grande, adem\xE1s me ejercito mientras que tengo mis aventuras."), "\n", /* @__PURE__ */ import_react7.default.createElement("img", {
-    style: {
-      display: "block",
-      marginLeft: "auto",
-      marginRight: "auto",
-      width: "35%",
-      minWidth: 290
-    },
-    src: "https://media.giphy.com/media/VnaMMuJt5jbmE/giphy-downsized-large.gif",
-    alt: "Gif"
-  }), "\n", /* @__PURE__ */ import_react7.default.createElement(_components.h3, null, "Solo hay una primera vez"), "\n", /* @__PURE__ */ import_react7.default.createElement(_components.p, null, "Para tener m\xE1s aventuras tienes que tener la antena de atenci\xF3n alerta. En cualquier momento del d\xEDa una oportunidad puede aparecer, para no perdernos de aventuras el mindset es importante.", /* @__PURE__ */ import_react7.default.createElement("br", null), "\nDedica un tiempo a pensar qu\xE9 tipo de aventuras quieres. Me encantan las aventuras con deportes extremos y cosas fuera de mi zona de confort. Tambi\xE9n me gusta conocer y hablar con personas.", /* @__PURE__ */ import_react7.default.createElement("br", null), '\nAhora que ya tienes la antena alerta. Queda el \xFAltimo y m\xE1s importante paso. Toda aventura solo se vive una vez. Puedes volver a hacer lo mismo, pero la sensaci\xF3n no ser\xE1 la misma. Aprovecha cada aventura y se grat\xF3/\xE1 de poder experimentar con cosas nuevas. Con esta mentalidad podemos vivir en el momento y disfrutarlo. Al final de todo las aventuras van de sentirse "vivos".', /* @__PURE__ */ import_react7.default.createElement("br", null), "\nAhora si! Prepara tu bicicleta y c\xE1mara, llego la hora de tener m\xE1s aventuras."), "\n", /* @__PURE__ */ import_react7.default.createElement("img", {
-    style: {
-      display: "block",
-      marginLeft: "auto",
-      marginRight: "auto",
-      width: "35%",
-      minWidth: 290
-    },
-    src: "https://media.giphy.com/media/ToMjGpxInCZSzD3V82s/giphy.gif",
-    alt: "Gif"
-  }), "\n", /* @__PURE__ */ import_react7.default.createElement(_components.h2, null, "Final"), "\n", /* @__PURE__ */ import_react7.default.createElement(_components.p, null, "Gracias por leer hasta ac\xE1, si encuentras mejoras o quisieras ", /* @__PURE__ */ import_react7.default.createElement("a", {
-    href: "https://twitter.com/kaitakami_/",
-    target: "_blank"
-  }, "compartirme algo"), " no lo dudes! Qu\xE9 te parecieron los gifs?"), "\n", /* @__PURE__ */ import_react7.default.createElement(import_react7.default.Fragment, null, /* @__PURE__ */ import_react7.default.createElement("iframe", {
-    className: "qp_iframe",
-    src: "https://poll-maker.com/frame4418559x483544bB-139",
-    seamless: "seamless",
-    frameBorder: "no",
-    style: {
-      border: 0,
-      background: "transparent",
-      width: "100%",
-      height: 480
-    }
-  }), /* @__PURE__ */ import_react7.default.createElement("div", {
-    id: "qp_foot4418559",
-    style: {
-      width: "100%",
-      padding: 5,
-      textAlign: "center"
-    }
-  }, /* @__PURE__ */ import_react7.default.createElement("a", {
-    href: "https://poll-maker.com/poll4418559x483544bB-139"
-  })), /* @__PURE__ */ import_react7.default.createElement("style", {
-    dangerouslySetInnerHTML: {
-      __html: ""
-    }
-  })), "\n", /* @__PURE__ */ import_react7.default.createElement(_components.h2, null, /* @__PURE__ */ import_react7.default.createElement("p", {
-    id: "suscribir"
-  }, "Suscr\xEDbete al newsletter!")), "\n", /* @__PURE__ */ import_react7.default.createElement(_components.h4, null, "Hay sorpresa para las primeras 10 personas :)"), "\n", /* @__PURE__ */ import_react7.default.createElement("iframe", {
+  const _content = /* @__PURE__ */ import_react7.default.createElement(import_react7.default.Fragment, null, /* @__PURE__ */ import_react7.default.createElement(_components.h2, null, "La realidad de vivir en Jap\xF3n"), "\n", attributes6.date.toDateString(), "\n", /* @__PURE__ */ import_react7.default.createElement(_components.h3, null, "Introducci\xF3n"), "\n", /* @__PURE__ */ import_react7.default.createElement(_components.p, null, "Llevo casi 3 a\xF1os viviendo en Jap\xF3n,"), "\n", /* @__PURE__ */ import_react7.default.createElement("iframe", {
     src: "https://embeds.beehiiv.com/eb2aa2c1-0717-4026-8fd6-766b64c8a5d1",
     "data-test-id": "beehiiv-embed",
     width: "100%",
@@ -1021,37 +961,128 @@ function MDXContent6(props = {}) {
   }));
   return MDXLayout ? /* @__PURE__ */ import_react7.default.createElement(MDXLayout, __spreadValues({}, props), _content) : _content;
 }
-var costo_de_viajar_default = MDXContent6;
-var filename6 = "costo-de-viajar.mdx";
+var vivir_en_japon_default = MDXContent6;
+var filename6 = "vivir-en-japon.mdx";
 var headers6 = typeof attributes6 !== "undefined" && attributes6.headers;
 var meta12 = typeof attributes6 !== "undefined" && attributes6.meta;
 var links9 = void 0;
 
-// mdx:/home/kai/repos/demo-website-remix/app/routes/blog/vivir-en-japon.mdx
-var vivir_en_japon_exports = {};
-__export(vivir_en_japon_exports, {
+// route-module:/home/kai/repos/demo-website-remix/app/routes/blog/programacion.tsx
+var programacion_exports = {};
+__export(programacion_exports, {
+  default: () => Blog2,
+  links: () => links10,
+  loader: () => loader4,
+  meta: () => meta13
+});
+var import_github_dark_dimmed2 = __toModule(require_github_dark_dimmed());
+var import_remix11 = __toModule(require("remix"));
+var loader4 = (whatthis) => {
+  return null;
+};
+var links10 = () => {
+  return [
+    {
+      rel: "stylesheet",
+      href: import_github_dark_dimmed2.default
+    }
+  ];
+};
+function Blog2() {
+  return /* @__PURE__ */ React.createElement(import_remix11.Outlet, null);
+}
+var meta13 = () => {
+  return {
+    title: "Blog | Kai Takami",
+    description: "Blog posts de Kai Takami"
+  };
+};
+
+// mdx:/home/kai/repos/demo-website-remix/app/routes/blog/programacion/como-estoy-aprendiendo-a-programar.mdx
+var como_estoy_aprendiendo_a_programar_exports = {};
+__export(como_estoy_aprendiendo_a_programar_exports, {
   attributes: () => attributes7,
-  default: () => vivir_en_japon_default,
+  default: () => como_estoy_aprendiendo_a_programar_default,
   filename: () => filename7,
   headers: () => headers7,
-  links: () => links10,
-  meta: () => meta13
+  links: () => links11,
+  meta: () => meta14
 });
 var import_react8 = __toModule(require("react"));
 var attributes7 = {
-  "title": "La realidad de vivir en Jap\xF3n",
-  "date": new Date(16591392e5),
+  "title": "C\xF3mo estoy aprendiendo a programar",
+  "date": new Date(1659744e6),
   "meta": {
-    "title": "La realidad de vivir en Jap\xF3n"
+    "title": "C\xF3mo estoy aprendiendo a programar"
   }
 };
 function MDXContent7(props = {}) {
   const _components = Object.assign({
     h2: "h2",
+    p: "p",
     h3: "h3",
-    p: "p"
+    h4: "h4"
   }, props.components), { wrapper: MDXLayout } = _components;
-  const _content = /* @__PURE__ */ import_react8.default.createElement(import_react8.default.Fragment, null, /* @__PURE__ */ import_react8.default.createElement(_components.h2, null, "La realidad de vivir en Jap\xF3n"), "\n", attributes7.date.toDateString(), "\n", /* @__PURE__ */ import_react8.default.createElement(_components.h3, null, "Introducci\xF3n"), "\n", /* @__PURE__ */ import_react8.default.createElement(_components.p, null, "Llevo casi 3 a\xF1os viviendo en Jap\xF3n,"), "\n", /* @__PURE__ */ import_react8.default.createElement("iframe", {
+  const _content = /* @__PURE__ */ import_react8.default.createElement(import_react8.default.Fragment, null, /* @__PURE__ */ import_react8.default.createElement(_components.h2, null, "C\xF3mo estoy aprendiendo a programar"), "\n", attributes7.date.toDateString(), "\n", /* @__PURE__ */ import_react8.default.createElement(_components.p, null, "En este blog pr\xE1ctico te voy a compartir c\xF3mo he aprendido a programar, despu\xE9s de probar diferentes plataformas para aprender a programar, por fin encontr\xE9 un curr\xEDculum 100% gratuito con una gran comunidad."), "\n", /* @__PURE__ */ import_react8.default.createElement("ul", null, /* @__PURE__ */ import_react8.default.createElement("li", null, "TOP!"), "\n", /* @__PURE__ */ import_react8.default.createElement("li", null, "Mi camino para convertirme en programador")), "\n", /* @__PURE__ */ import_react8.default.createElement("img", {
+    style: {
+      display: "block",
+      marginLeft: "auto",
+      marginRight: "auto",
+      width: "35%",
+      minWidth: 290
+    },
+    src: "https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif",
+    alt: "Gif"
+  }), "\n", /* @__PURE__ */ import_react8.default.createElement(_components.h3, null, "TOP!"), "\n", /* @__PURE__ */ import_react8.default.createElement(_components.p, null, "TOP son las siglas del curr\xEDculum ideal para empezar a aprender a programar. The Odin Project es un proyecto open source (c\xF3digo abierto) con una comunidad en discord que siempre est\xE1 activa para resolver dudas. Su curriculum se divide en 2 caminos. Primero, si no tienes experiencia en desarrollo web te tocar\xE1 aprender lo fundamental, no importa que camino tomes, lo fundamental es un requisito. Despu\xE9s puedes elegir entre el camino de Ruby on Rails o JavaScript. Personalmente, inicie con el de JavaScript y ya llevo m\xE1s del 50%, a sido un camino relativamente largo de 4 meses estudiando diario como m\xEDnimo dos horas. Cuando acabe ambos caminos escribir\xE9 un blog m\xE1s detallado compartiendo mi experiencia con este curr\xEDculum."), "\n", /* @__PURE__ */ import_react8.default.createElement("img", {
+    style: {
+      display: "block",
+      marginLeft: "auto",
+      marginRight: "auto",
+      width: "35%",
+      minWidth: 290
+    },
+    src: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1400%2F1*chhKo9KEel7n7hi0O_cEPA.png&f=1&nofb=1",
+    alt: "The Odin Project logo"
+  }), "\n", /* @__PURE__ */ import_react8.default.createElement(_components.h3, null, "Mi camino para convertirme en programador"), "\n", /* @__PURE__ */ import_react8.default.createElement(_components.p, null, "Ser un programador autodidacta no es f\xE1cil, principalmente por 2 razones:"), "\n", /* @__PURE__ */ import_react8.default.createElement("ul", null, /* @__PURE__ */ import_react8.default.createElement("li", null, "Tienes que tener la suficiente fuerza de voluntad y disciplina para ser constante y no dejar de estudiar"), "\n", /* @__PURE__ */ import_react8.default.createElement("li", null, "No hay un camino definido")), "\n", /* @__PURE__ */ import_react8.default.createElement(_components.p, null, "Este \xFAltimo punto lo soluciona The Odin Project. El primero suele ser la raz\xF3n por la que algunas personas no consiguen convertirse en programadores. Personalmente hace 2 a\xF1os tuve esta experiencia, aprend\xED HTML y CSS, pero perd\xED la motivaci\xF3n y dej\xE9 de programar durante un largo tiempo. Es algo normal que le pasa a la gran mayor\xEDa, lo importante es volver y reflexionar de por qu\xE9 paso eso la vez pasada."), "\n", /* @__PURE__ */ import_react8.default.createElement("br", null), "\n", /* @__PURE__ */ import_react8.default.createElement(_components.p, null, "Sin embargo, en mis inicios tambi\xE9n batall\xE9 con el segundo punto, hice como 6 cursos de HTML antes de pasar a CSS solo porque no me sent\xEDa seguro, tambi\xE9n hubo \xE9pocas en las que solo hac\xEDa cursos y tutoriales y no me pon\xEDa a practicar (que es lo que realmente cuesta y te hace programador)."), "\n", /* @__PURE__ */ import_react8.default.createElement("br", null), "\n", /* @__PURE__ */ import_react8.default.createElement(_components.p, null, "Ha sido un camino largo lleno de retos pero divertido. Cuando consiga mi primer trabajo en tech volver\xE9 a escribir un blog sobre mi camino como programador m\xE1s a detalle."), "\n", /* @__PURE__ */ import_react8.default.createElement(_components.h2, null, "Final"), "\n", /* @__PURE__ */ import_react8.default.createElement("img", {
+    style: {
+      display: "block",
+      marginLeft: "auto",
+      marginRight: "auto",
+      width: "35%",
+      minWidth: 290
+    },
+    src: "https://media.giphy.com/media/3og0IPElt1EVnbJ4KA/giphy.gif",
+    alt: "Gif"
+  }), "\n", /* @__PURE__ */ import_react8.default.createElement(_components.p, null, "Gracias por leer hasta ac\xE1, si encuentras mejoras o quisieras ", /* @__PURE__ */ import_react8.default.createElement("a", {
+    href: "https://twitter.com/kaitakami_/",
+    target: "_blank"
+  }, "compartirme algo"), " no lo dudes! Qu\xE9 te parecieron los gifs?"), "\n", /* @__PURE__ */ import_react8.default.createElement(import_react8.default.Fragment, null, /* @__PURE__ */ import_react8.default.createElement("iframe", {
+    className: "qp_iframe",
+    src: "https://poll-maker.com/frame4418559x483544bB-139",
+    seamless: "seamless",
+    frameBorder: "no",
+    style: {
+      border: 0,
+      background: "transparent",
+      width: "100%",
+      height: 480
+    }
+  }), /* @__PURE__ */ import_react8.default.createElement("div", {
+    id: "qp_foot4418559",
+    style: {
+      width: "100%",
+      padding: 5,
+      textAlign: "center"
+    }
+  }, /* @__PURE__ */ import_react8.default.createElement("a", {
+    href: "https://poll-maker.com/poll4418559x483544bB-139"
+  })), /* @__PURE__ */ import_react8.default.createElement("style", {
+    dangerouslySetInnerHTML: {
+      __html: ""
+    }
+  })), "\n", /* @__PURE__ */ import_react8.default.createElement(_components.h2, null, /* @__PURE__ */ import_react8.default.createElement("p", {
+    id: "suscribir"
+  }, "Suscr\xEDbete al newsletter!")), "\n", /* @__PURE__ */ import_react8.default.createElement(_components.h4, null, "Hay sorpresa para las primeras 10 personas :)"), "\n", /* @__PURE__ */ import_react8.default.createElement("iframe", {
     src: "https://embeds.beehiiv.com/eb2aa2c1-0717-4026-8fd6-766b64c8a5d1",
     "data-test-id": "beehiiv-embed",
     width: "100%",
@@ -1067,11 +1098,39 @@ function MDXContent7(props = {}) {
   }));
   return MDXLayout ? /* @__PURE__ */ import_react8.default.createElement(MDXLayout, __spreadValues({}, props), _content) : _content;
 }
-var vivir_en_japon_default = MDXContent7;
-var filename7 = "vivir-en-japon.mdx";
+var como_estoy_aprendiendo_a_programar_default = MDXContent7;
+var filename7 = "como-estoy-aprendiendo-a-programar.mdx";
 var headers7 = typeof attributes7 !== "undefined" && attributes7.headers;
-var meta13 = typeof attributes7 !== "undefined" && attributes7.meta;
-var links10 = void 0;
+var meta14 = typeof attributes7 !== "undefined" && attributes7.meta;
+var links11 = void 0;
+
+// route-module:/home/kai/repos/demo-website-remix/app/routes/blog/programacion/index.tsx
+var programacion_exports2 = {};
+__export(programacion_exports2, {
+  default: () => BlogIndex
+});
+var import_remix12 = __toModule(require("remix"));
+function BlogIndex() {
+  return /* @__PURE__ */ React.createElement("div", null, /* @__PURE__ */ React.createElement("h2", null, "Este es el blog en el que hablo de c\xF3digo! :)"), "Me puedes dar feedback en", " ", /* @__PURE__ */ React.createElement("a", {
+    href: "https://twitter.com/kaitakami_/",
+    target: "_blank"
+  }, "twitter"), /* @__PURE__ */ React.createElement("ul", null, /* @__PURE__ */ React.createElement("li", null, "Blog en construcci\xF3n"), /* @__PURE__ */ React.createElement("li", null, /* @__PURE__ */ React.createElement(import_remix12.Link, {
+    to: "como-estoy-aprendiendo-a-programar"
+  }, "C\xF3mo estoy aprendiendo a programar"))), /* @__PURE__ */ React.createElement("br", null), /* @__PURE__ */ React.createElement("iframe", {
+    src: "https://embeds.beehiiv.com/eb2aa2c1-0717-4026-8fd6-766b64c8a5d1",
+    "data-test-id": "beehiiv-embed",
+    width: "100%",
+    height: 320,
+    frameBorder: 0,
+    scrolling: "no",
+    style: {
+      borderRadius: 4,
+      border: "2px solid #e5e7eb",
+      margin: 0,
+      backgroundColor: "transparent"
+    }
+  }));
+}
 
 // mdx:/home/kai/repos/demo-website-remix/app/routes/blog/reto-blog.mdx
 var reto_blog_exports = {};
@@ -1080,8 +1139,8 @@ __export(reto_blog_exports, {
   default: () => reto_blog_default,
   filename: () => filename8,
   headers: () => headers8,
-  links: () => links11,
-  meta: () => meta14
+  links: () => links12,
+  meta: () => meta15
 });
 var import_react9 = __toModule(require("react"));
 var attributes8 = {
@@ -1131,8 +1190,8 @@ function MDXContent8(props = {}) {
 var reto_blog_default = MDXContent8;
 var filename8 = "reto-blog.mdx";
 var headers8 = typeof attributes8 !== "undefined" && attributes8.headers;
-var meta14 = typeof attributes8 !== "undefined" && attributes8.meta;
-var links11 = void 0;
+var meta15 = typeof attributes8 !== "undefined" && attributes8.meta;
+var links12 = void 0;
 
 // mdx:/home/kai/repos/demo-website-remix/app/routes/blog/template.mdx
 var template_exports = {};
@@ -1141,8 +1200,8 @@ __export(template_exports, {
   default: () => template_default,
   filename: () => filename9,
   headers: () => headers9,
-  links: () => links12,
-  meta: () => meta15
+  links: () => links13,
+  meta: () => meta16
 });
 var import_react10 = __toModule(require("react"));
 var attributes9 = {
@@ -1217,38 +1276,38 @@ function MDXContent9(props = {}) {
 var template_default = MDXContent9;
 var filename9 = "template.mdx";
 var headers9 = typeof attributes9 !== "undefined" && attributes9.headers;
-var meta15 = typeof attributes9 !== "undefined" && attributes9.meta;
-var links12 = void 0;
+var meta16 = typeof attributes9 !== "undefined" && attributes9.meta;
+var links13 = void 0;
 
 // route-module:/home/kai/repos/demo-website-remix/app/routes/blog/index.tsx
 var blog_exports2 = {};
 __export(blog_exports2, {
-  default: () => BlogIndex
+  default: () => BlogIndex2
 });
-var import_remix11 = __toModule(require("remix"));
-function BlogIndex() {
+var import_remix13 = __toModule(require("remix"));
+function BlogIndex2() {
   return /* @__PURE__ */ React.createElement("div", null, /* @__PURE__ */ React.createElement("h2", null, "Cree este sitio web provisional para poder empezar a subir mis blogs :)"), "Me puedes dar feedback en", " ", /* @__PURE__ */ React.createElement("a", {
     href: "https://twitter.com/kaitakami_/",
     target: "_blank"
-  }, "twitter"), /* @__PURE__ */ React.createElement("ul", null, /* @__PURE__ */ React.createElement("li", null, /* @__PURE__ */ React.createElement(import_remix11.Link, {
-    to: "como-estoy-aprendiendo-a-programar"
-  }, "C\xF3mo estoy aprendiendo a programar")), /* @__PURE__ */ React.createElement("li", null, /* @__PURE__ */ React.createElement(import_remix11.Link, {
+  }, "twitter"), /* @__PURE__ */ React.createElement("br", null), /* @__PURE__ */ React.createElement("br", null), /* @__PURE__ */ React.createElement("a", {
+    href: "https://kaitakami.com/blog/programacion/"
+  }, "Mi blog de programaci\xF3n"), /* @__PURE__ */ React.createElement("ul", null, /* @__PURE__ */ React.createElement("li", null, /* @__PURE__ */ React.createElement(import_remix13.Link, {
     to: "tiempo-relaciones-sociales"
-  }, "La paradoja del tiempo en las relaciones sociales")), /* @__PURE__ */ React.createElement("li", null, /* @__PURE__ */ React.createElement(import_remix11.Link, {
+  }, "La paradoja del tiempo en las relaciones sociales")), /* @__PURE__ */ React.createElement("li", null, /* @__PURE__ */ React.createElement(import_remix13.Link, {
     to: "costo-de-viajar"
-  }, "El verdadero costo de viajar")), /* @__PURE__ */ React.createElement("li", null, /* @__PURE__ */ React.createElement(import_remix11.Link, {
+  }, "El verdadero costo de viajar")), /* @__PURE__ */ React.createElement("li", null, /* @__PURE__ */ React.createElement(import_remix13.Link, {
     to: "futuro-de-este-blog"
-  }, "El futuro de este blog")), /* @__PURE__ */ React.createElement("li", null, /* @__PURE__ */ React.createElement(import_remix11.Link, {
+  }, "El futuro de este blog")), /* @__PURE__ */ React.createElement("li", null, /* @__PURE__ */ React.createElement(import_remix13.Link, {
     to: "7"
-  }, "El infierno de los cursos de programaci\xF3n")), /* @__PURE__ */ React.createElement("li", null, /* @__PURE__ */ React.createElement(import_remix11.Link, {
+  }, "El infierno de los cursos de programaci\xF3n")), /* @__PURE__ */ React.createElement("li", null, /* @__PURE__ */ React.createElement(import_remix13.Link, {
     to: "6"
-  }, "Deje de comer az\xFAcar procesada por un mes")), /* @__PURE__ */ React.createElement("li", null, /* @__PURE__ */ React.createElement(import_remix11.Link, {
+  }, "Deje de comer az\xFAcar procesada por un mes")), /* @__PURE__ */ React.createElement("li", null, /* @__PURE__ */ React.createElement(import_remix13.Link, {
     to: "5"
-  }, "Los videojuegos nos forman")), /* @__PURE__ */ React.createElement("li", null, /* @__PURE__ */ React.createElement(import_remix11.Link, {
+  }, "Los videojuegos nos forman")), /* @__PURE__ */ React.createElement("li", null, /* @__PURE__ */ React.createElement(import_remix13.Link, {
     to: "reto-blog"
-  }, "Reto: Escribir un blog diario")), /* @__PURE__ */ React.createElement("li", null, /* @__PURE__ */ React.createElement(import_remix11.Link, {
+  }, "Reto: Escribir un blog diario")), /* @__PURE__ */ React.createElement("li", null, /* @__PURE__ */ React.createElement(import_remix13.Link, {
     to: "sistema-de-productividad"
-  }, "Mi sistema de productividad")), /* @__PURE__ */ React.createElement("li", null, /* @__PURE__ */ React.createElement(import_remix11.Link, {
+  }, "Mi sistema de productividad")), /* @__PURE__ */ React.createElement("li", null, /* @__PURE__ */ React.createElement(import_remix13.Link, {
     to: "crear-una-startup-con-17"
   }, "Crear una startup con 17 a\xF1os \u{1F4BB}"))), /* @__PURE__ */ React.createElement("br", null), /* @__PURE__ */ React.createElement("iframe", {
     src: "https://embeds.beehiiv.com/eb2aa2c1-0717-4026-8fd6-766b64c8a5d1",
@@ -1273,8 +1332,8 @@ __export(__exports, {
   default: () => __default,
   filename: () => filename10,
   headers: () => headers10,
-  links: () => links13,
-  meta: () => meta16
+  links: () => links14,
+  meta: () => meta17
 });
 var import_react11 = __toModule(require("react"));
 var attributes10 = {
@@ -1299,8 +1358,8 @@ function MDXContent10(props = {}) {
 var __default = MDXContent10;
 var filename10 = "5.mdx";
 var headers10 = typeof attributes10 !== "undefined" && attributes10.headers;
-var meta16 = typeof attributes10 !== "undefined" && attributes10.meta;
-var links13 = void 0;
+var meta17 = typeof attributes10 !== "undefined" && attributes10.meta;
+var links14 = void 0;
 
 // mdx:/home/kai/repos/demo-website-remix/app/routes/blog/6.mdx
 var __exports2 = {};
@@ -1309,8 +1368,8 @@ __export(__exports2, {
   default: () => __default2,
   filename: () => filename11,
   headers: () => headers11,
-  links: () => links14,
-  meta: () => meta17
+  links: () => links15,
+  meta: () => meta18
 });
 var import_react12 = __toModule(require("react"));
 var attributes11 = {
@@ -1378,8 +1437,8 @@ function MDXContent11(props = {}) {
 var __default2 = MDXContent11;
 var filename11 = "6.mdx";
 var headers11 = typeof attributes11 !== "undefined" && attributes11.headers;
-var meta17 = typeof attributes11 !== "undefined" && attributes11.meta;
-var links14 = void 0;
+var meta18 = typeof attributes11 !== "undefined" && attributes11.meta;
+var links15 = void 0;
 
 // mdx:/home/kai/repos/demo-website-remix/app/routes/blog/7.mdx
 var __exports3 = {};
@@ -1388,8 +1447,8 @@ __export(__exports3, {
   default: () => __default3,
   filename: () => filename12,
   headers: () => headers12,
-  links: () => links15,
-  meta: () => meta18
+  links: () => links16,
+  meta: () => meta19
 });
 var import_react13 = __toModule(require("react"));
 var attributes12 = {
@@ -1491,8 +1550,8 @@ function MDXContent12(props = {}) {
 var __default3 = MDXContent12;
 var filename12 = "7.mdx";
 var headers12 = typeof attributes12 !== "undefined" && attributes12.headers;
-var meta18 = typeof attributes12 !== "undefined" && attributes12.meta;
-var links15 = void 0;
+var meta19 = typeof attributes12 !== "undefined" && attributes12.meta;
+var links16 = void 0;
 
 // <stdin>
 var import_assets = __toModule(require("./assets.json"));
@@ -1586,14 +1645,6 @@ var routes = {
     caseSensitive: void 0,
     module: blog_exports
   },
-  "routes/blog/como-estoy-aprendiendo-a-programar": {
-    id: "routes/blog/como-estoy-aprendiendo-a-programar",
-    parentId: "routes/blog",
-    path: "como-estoy-aprendiendo-a-programar",
-    index: void 0,
-    caseSensitive: void 0,
-    module: como_estoy_aprendiendo_a_programar_exports
-  },
   "routes/blog/tiempo-relaciones-sociales": {
     id: "routes/blog/tiempo-relaciones-sociales",
     parentId: "routes/blog",
@@ -1641,6 +1692,30 @@ var routes = {
     index: void 0,
     caseSensitive: void 0,
     module: vivir_en_japon_exports
+  },
+  "routes/blog/programacion": {
+    id: "routes/blog/programacion",
+    parentId: "routes/blog",
+    path: "programacion",
+    index: void 0,
+    caseSensitive: void 0,
+    module: programacion_exports
+  },
+  "routes/blog/programacion/como-estoy-aprendiendo-a-programar": {
+    id: "routes/blog/programacion/como-estoy-aprendiendo-a-programar",
+    parentId: "routes/blog/programacion",
+    path: "como-estoy-aprendiendo-a-programar",
+    index: void 0,
+    caseSensitive: void 0,
+    module: como_estoy_aprendiendo_a_programar_exports
+  },
+  "routes/blog/programacion/index": {
+    id: "routes/blog/programacion/index",
+    parentId: "routes/blog/programacion",
+    path: void 0,
+    index: true,
+    caseSensitive: void 0,
+    module: programacion_exports2
   },
   "routes/blog/reto-blog": {
     id: "routes/blog/reto-blog",

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:/home/kai/repos/demo-website-remix/app/routes/blog/programacion.tsx?browser", "../../../../app/routes/blog/programacion.tsx"],
+  "sourcesContent": ["export { default, links, meta } from \"/home/kai/repos/demo-website-remix/app/routes/blog/programacion.tsx\";", "import styles from 'highlight.js/styles/github-dark-dimmed.css';\nimport type { LinksFunction, LoaderFunction } from 'remix';\nimport { MetaFunction, Outlet } from \"remix\";\n\nexport let loader: LoaderFunction = (whatthis) => {\n  return null;\n}\n\nexport const links: LinksFunction = () => {\n  return [\n    {\n      rel: 'stylesheet',\n      href: styles,\n    },\n  ];\n}\n\nexport default function Blog() {\n  return (\n    <Outlet />\n  );\n}\n\nexport let meta: MetaFunction = () => {\n  return {\n    title: \"Blog | Kai Takami\",\n    description: \"Blog posts de Kai Takami\"\n  };\n};"],
+  "mappings": ";;;;;;;;;;;;;AAAA;;;ACAA;AAAA,gCAAmB;AAQZ,IAAM,QAAuB,MAAM;AACxC,SAAO;AAAA,IACL;AAAA,MACE,KAAK;AAAA,MACL,MAAM;AAAA;AAAA;AAAA;AAKG,gBAAgB;AAC7B,SACE,oCAAC,gCAAD;AAAA;AAIG,IAAI,OAAqB,MAAM;AACpC,SAAO;AAAA,IACL,OAAO;AAAA,IACP,aAAa;AAAA;AAAA;",
+  "names": []
+}
