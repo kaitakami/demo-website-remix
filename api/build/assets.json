@@ -1,5 +1,5 @@
 {
-  "version": "377fede3",
+  "version": "047b7287",
   "entry": {
     "module": "/build/entry.client-PQ5D2RPP.js",
     "imports": [
@@ -94,7 +94,17 @@
       "id": "routes/blog/index",
       "parentId": "routes/blog",
       "index": true,
-      "module": "/build/routes/blog/index-LZVFE7RR.js",
+      "module": "/build/routes/blog/index-TOUSV5EU.js",
+      "hasAction": false,
+      "hasLoader": false,
+      "hasCatchBoundary": false,
+      "hasErrorBoundary": false
+    },
+    "routes/blog/newsletter-teaser": {
+      "id": "routes/blog/newsletter-teaser",
+      "parentId": "routes/blog",
+      "path": "newsletter-teaser",
+      "module": "/build/routes/blog/newsletter-teaser-PERS2TE5.js",
       "hasAction": false,
       "hasLoader": false,
       "hasCatchBoundary": false,
@@ -271,5 +281,5 @@
       "hasErrorBoundary": false
     }
   },
-  "url": "/build/manifest-377FEDE3.js"
+  "url": "/build/manifest-047B7287.js"
 }

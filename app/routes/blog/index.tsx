@@ -17,6 +17,11 @@ export default function BlogIndex() {
       </a>
       <ul>
         <li>
+          <Link to="newsletter-teaser">
+            Qué aprenderás en mi newsletter
+          </Link>
+        </li>
+        <li>
           <Link to="tiempo-relaciones-sociales">
             La paradoja del tiempo en las relaciones sociales
           </Link>
