@@ -17,6 +17,11 @@ export default function BlogIndex() {
       </a>
       <ul>
         <li>
+          <Link to="todo-lo-que-tiktok-sabe-de-ti">
+            Todo lo que TikTok sabe de ti
+          </Link>
+        </li>
+        <li>
           <Link to="newsletter-teaser">
             Qué aprenderás en mi newsletter
           </Link>
